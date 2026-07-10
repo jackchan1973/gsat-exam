@@ -1,0 +1,2321 @@
+{
+  "source": {
+    "path": "資料/大考中心官方PDF/113學年度/數學B/113學測-數學B-試題內容-04-113學測數學b試題定稿.pdf",
+    "year": "113",
+    "subject": "數學B",
+    "fileName": "113學測-數學B-試題內容-04-113學測數學b試題定稿.pdf",
+    "fileType": "試題內容"
+  },
+  "meta": {
+    "extractor": "batch_extract.py v1",
+    "extractedAt": "2026-07-10T09:21:13",
+    "mode": "full",
+    "pageCount": 8
+  },
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.2,
+      "height": 841.92,
+      "text": "財團法人大學入學考試中心基金會\n113學年度學科能力測驗試題\n數學 考科\nB\n請於考試開始鈴響起，在答題卷簽名欄位以正楷簽全名\n作答注意事項\n考試時間：100分鐘\n作答方式：\n˙選擇（填）題用 2B 鉛筆在「答題卷」上作答；更正時以橡皮擦擦拭，切勿使用修正\n帶（液）。\n˙除題目另有規定外，非選擇題用筆尖較粗之黑色墨水的筆在「答題卷」上作答；更正\n時，可以使用修正帶（液）。\n˙考生須依上述規定劃記或作答，若未依規定而導致答案難以辨識或評閱時，恐將影響\n成績。\n˙答題卷每人一張，不得要求增補。\n˙選填題考生必須依各題的格式填答，且每一個列號只能在一個格子劃記。請仔細閱讀\n下面的例子。\n18- 1\n3\n例：若答案格式是 ，而依題意計算出來的答案是 ，則考生必須分別在答題卷上\n18 -2 8\n的第18-1列的 3 與第18-2列的 8 劃記，如：\n18-1 1 2 3 4 5 6 7 8 9 0 − ±\n18-2 1 2 3 4 5 6 7 8 9 0 − ±\n−7\n例：若答案格式是 1 9 -1 1 9 -2 ，而答案是 時，則考生必須分別在答題卷的第 19-1 列\n50\n50\n的 − 與第19-2列的 7 劃記，如：\n19-1 1 2 3 4 5 6 7 8 9 0 − ±\n19-2 1 2 3 4 5 6 7 8 9 0 − ±\n選擇（填）題計分方式：\n˙單選題：每題有n個選項，其中只有一個是正確或最適當的選項。各題答對者，得該題\n的分數；答錯、未作答或劃記多於一個選項者，該題以零分計算。\n˙多選題：每題有n個選項，其中至少有一個是正確的選項。各題之選項獨立判定，所有\nn−2k\n選項均答對者，得該題全部的分數；答錯 k 個選項者，得該題 的分數；但得分\nn\n低於零分或所有選項均未作答者，該題以零分計算。\n˙選填題每題有n個空格，須全部答對才給分，答錯不倒扣。\n※試題中參考的附圖均為示意圖，試題後附有參考公式及數值。",
+      "charCount": 822
+    },
+    {
+      "page": 2,
+      "width": 595.2,
+      "height": 841.92,
+      "text": "第 1 頁 請記得在答題卷簽名欄位以正楷簽全名 113年學測\n共 7 頁 數學B考科\n第壹部分、選擇（填）題（占85分）\n一、單選題（占35分）\n說明：第1題至第 7題，每題 5分。\n1. 某遊戲共有 210 位玩家，每位玩家均持有寶石，其中持有 1 顆的有 1 位，持有 2 顆的\n有 2 位，依此類推，持有 20 顆寶石的有 20 位。試問這些玩家每人持有寶石數量的第\n90 百分位數為下列哪一個選項？\n(1) 16 (2) 17 (3) 18 (4) 19 (5) 20\n2. 已知 a,b,c為實數，且滿足1<a<10、b=loga、c=logb，試選出正確的選項。\n(1) c<0<b<1 (2) 0<c<1<b (3) 0<c<b<1\n(4) 1<c<b (5) c<b<0\n3. 某射擊遊戲的玩家要避開障礙物射擊目標。今在遊戲畫面\n中設立一直角坐標系，以長方形螢幕左下角點 O為原點，\nP\n螢幕下方的邊緣為 x軸、螢幕左方的邊緣為 y軸，目標物\n放在點 P(12,10)。畫面中有兩面牆（牆厚度可忽略不計）， C D\n一面牆由點 A(10,5)水平延伸到點 B(15,5)，另一面牆由點 A B\nC(0,6)水平延伸到點 D(9,6)，如右圖之示意圖。若玩家在點\nQ\nQ可直線射擊點 P的目標物，不會被兩面牆阻擋。下列哪一\n個選項有可能是點 Q的坐標？ O\n(1) (6,3) (2) (7,3) (3) (8,5) (4) (9,1) (5) (9,2)\n\n4. 已知坐標平面上有一向量 v =(−2,3)及兩點 A、 B，且點 A的 x坐標和 y坐標、點 B的\nx坐標和 y坐標都落在區間[ 0,1 ]內，試問 v + AB 的最大值為下列哪一個選項？\n(1) 13 (2) 17 (3) 3 2 (4) 5 (5) 2+ 13\n- 1 -",
+      "charCount": 782
+    },
+    {
+      "page": 3,
+      "width": 595.2,
+      "height": 841.92,
+      "text": "113年學測 請記得在答題卷簽名欄位以正楷簽全名 第 2 頁\n數學B考科 共 7 頁\n5. 設二次函數 f(x)=x2 +bx+c，其中 b,c為實數。已知 f(x−2)= f(−x−2)對任意實數 x均\n成立，且當 −3≤x≤1時， f(x)的最大值會是最小值的 4 倍，則 f(x)的最小值是下列哪\n一個選項？\n5\n(1) 0 (2) (3) 3 (4) 4 (5) 6\n3\n6. 某大樓居民在大樓外牆展示聖誕樹造型燈飾，如圖所示，從五 P\n五樓\n樓外牆某處 P 向四樓地板的兩端 A,B 拉小燈泡形成等腰三角\n形 PAB，其中 PA=PB；向三樓地板的兩端 C,D 拉小燈泡形成\n四樓\nA B\n等腰三角形 PCD；向二樓地板的兩端 E,F 拉小燈泡形成等腰 三樓\n三角形 PEF。假設每層樓等高且樓地板等長。若五樓地板在 C D\n二樓\n1\n三角形 PAB 內部所截出的線段長度為樓地板長度的 ，則五\nE F\n3\n一樓\n樓地板在三角形 PEF 內部所截出的線段長度是樓地板長度的\n幾分之幾？（燈飾粗細可忽略不計）\n1 1 1 2 1\n(1) (2) (3) (4) (5)\n7 6 5 9 4\n7. 有一城市分為東、西兩區。兩區各有一個氣溫偵測站，該城市當天的最高溫（單位：\n攝氏度）是取這兩區當天氣溫的最大值來記錄。下表顯示東、西兩區某月（共 30 天）\n每日最高溫分布的情形。\n溫度 t 18≤t<24 24≤t<30 30≤t<36 36≤t\n東區（天數） 0 11 14 5\n西區（天數） 3 12 15 0\n根據上表，該城市當月每日最高溫分布的情形如下表。\n溫度 t 18≤t<24 24≤t<30 30≤t<36 36≤t\n天數 A B C D\n試選出有可能為數組(A,B,C,D)的選項。\n(1) (0,15,15,0) (2) (3,12,15,5) (3) (0,9,16,5) (4) (3,7,15,5) (5) (0,12,13,5)\n- 2 -",
+      "charCount": 837
+    },
+    {
+      "page": 4,
+      "width": 595.2,
+      "height": 841.92,
+      "text": "第 3 頁 請記得在答題卷簽名欄位以正楷簽全名 113年學測\n共 7 頁 數學B考科\n二、多選題（占 25 分）\n說明：第8題至第12題，每題 5分。\n8. 已知正實數數列a,b,c,d,e為等比數列，且a<b<c<d <e，試選出下列為等比數列的選項。\n(1) a,−b,c,−d,e\n(2) e,d,c,b,a\n(3) loga,logb,logc,logd,loge\n(4) 3a,3b,3c,3d,3e\n(5) abc,bcd,cde\n9. 已知多項式 f(x)除以 x2 +5x+1後，所得出的商式為 x3 +7x2 +x+3，試選出下列可能為\nf(x)的選項。\n(1) 2(x3 +7x2 +x+3)(x2 +5x+1)\n(2) (x3 +7x2 +x+3)(x2 +5x+1)−x\n(3) (x3 +7x2 +x+3)(x2 +5x+1)+x2\n(4) (x3 +7x2 +x+4)(x2 +5x+1)−x\n(5) (x3 +7x2 +x+4)(x2 +5x+1)−x2\n10. 有兩個光點在一條長度為 120 公分的直線形軌道上移動，碰到端點就反向繼續移動。\n一開始兩點分別在軌道的兩端相向而動，光點 A、光點 B 的移動速率分別為每秒 5 公分\n及每秒 10 公分。試選出正確的選項。\n(1) 兩個光點第一次相遇的位置，與其中一個端點的距離為 40 公分\n(2) 光點 A 的位置呈週期現象，週期為 24 秒\n(3) 當光點 A 回到 A 的出發點時，光點 B 也在 B 的出發點\n(4) 兩個光點第二次相遇在其中一個端點上\n(5) 兩個光點在軌道上共有 3 個不同的相遇位置\n- 3 -",
+      "charCount": 703
+    },
+    {
+      "page": 5,
+      "width": 595.2,
+      "height": 841.92,
+      "text": "113年學測 請記得在答題卷簽名欄位以正楷簽全名 第 4 頁\n數學B考科 共 7 頁\n11. 某國家過去五年的碳排放總量，由第 1 年的 X 億公噸二氧化碳當量（CO2e）下降至\n第 5 年的 Y 億公噸二氧化碳當量（ CO2e），達到每年平均減碳 5% 的效益，亦即\nY =(1−0.05)4X 。將五年的碳排放總量與年成長率記錄如下表，其中\n（第 n 年碳排放總量）−（第 n−1 年碳排放總量）\n第n年碳排放成長率= ，n=2,3,4,5。\n第 n−1 年碳排放總量\n第 1 年 第 2 年 第 3 年 第 4 年 第 5 年\n碳排放總量\nX A B C Y\n（億公噸 CO2e）\n碳排放年成長率 −0.07 p q r\n試選出正確的選項。\n(1) A=0.93X\n(2) Y ≤0.8X\n−0.07+ p+q+r\n(3) =−0.05\n4\nY\n(4) 4 −1=−0.05\nX\n(5) 0.93(1+ p)(1+q)(1+r)=(0.95)4\n12. 小明寫了一個程式讓機器人在2×2的棋盤中移動，如圖所示。每執行一次，程式會選\n擇「上、下、左、右」中的某一個方向，不同方向被選擇的機率均相等，並指示機器人\n依該方向移動一格，但若選到的方向會跑出棋盤，則機器人該次會停在原地。每次執行\n都是從上次所在位置依程式重新選取的方向移動，假設機器人的初始位置在 A。令執行\n程式 n次後，機器人停留在 A、B、C、D的機率分別為a 、b 、c 和 d 。試選出正確\nn n n n\n的選項。\n1\n(1) b =\n1\n4\n1\n(2) b =\n2\n8\n3\n(3) a +d =\n2 2\n4\n(4) b =c\n99 99\n1\n(5) a +d >\n100 100\n2\n- 4 -",
+      "charCount": 736
+    },
+    {
+      "page": 6,
+      "width": 595.2,
+      "height": 841.92,
+      "text": "第 5 頁 請記得在答題卷簽名欄位以正楷簽全名 113年學測\n共 7 頁 數學B考科\n三、選填題（占 25 分）\n說明：第13題至第17題，每題 5分。\n1 −1a 1 1 −12a+1 c\n13. 已 知 a,b,c,d 為實數，且    =   。若    =   ，則 c−3d 的值為\n3 −2b 0 3 −22b+1 d\n○○\n13-1 13-2 。\n14. 某校全體高三學生都有報考學測數學 A或數學 B，在這些學生中只報考數學 A的學生\n3 5\n占全體高三學生的 。報考數學 A的學生中有 的學生同時也報考數學 B。則只報考\n10 8\n○\n14-1\n數學 B的學生在該校所有報考數學 B的學生中所占的比例為 。（化為最簡分數）\n○\n14-2\n15. 已知 P、P、Q、Q、R為平面上 相異五點，其中 P、P、R三點不共線，且滿足\n 12 1 2    1 2 \n○ ○○\nPR =4PQ ， PR=7PQ ，則 QQ = 15-1 PQ + 15-2 15-3 PQ 。\n1 1 1 2 2 2 1 2 1 1 2 2\n16. 在空間坐標系中，有一球心坐標在O(0,0,0)且北極點在 N(0,0,2)的地球儀。已知球面上\n 3 1 \n點 A坐標為 , , 3，赤道上距離點 A最遠的點為點P，則在通過點 A、點P的大圓上\n \n 2 2 \n○\n16-1 π\n這兩點的劣弧長為 。（化為最簡分數）\n○\n16-2\n- 5 -",
+      "charCount": 668
+    },
+    {
+      "page": 7,
+      "width": 595.2,
+      "height": 841.92,
+      "text": "113年學測 請記得在答題卷簽名欄位以正楷簽全名 第 6 頁\n數學B考科 共 7 頁\n17. 在一圓的圓周上取 12 個等分點並以順時針方向 依序編 1 號至 12 號。由這 12 個點任取\n3 點為頂點所形成的三角形中，三個內角的角度由小到大會成等差數列的三角形有\n○○\n17-1 17-2 個。\n第貳部分、混合題或非選擇題（占 15 分）\n說明︰本部分共有 1 題組，單選題每題 3 分，非選擇題配分標於題末。限在答題卷標示\n題號的作答區內作答。\n選擇（填）題與「非選擇題作圖部分」使用 2B 鉛筆作答，更正時以橡皮擦擦拭，\n切勿使用修正帶（液）。非選擇題請由左而右橫式書寫，作答時必須寫出計算過程\n或理由，否則將酌予扣分。\n18-20 題為題組\n如圖所示，考慮長方體的石塊上某一頂點 A及包含點 A的一個面，令這個面的各邊中點\n分別為 B,E,F,D。此長方體上包含點 B的另一個面，令其各邊中點分別為 B,C,H,G。已知\nBC =8,BD=DC =9。現將此石塊截去八個角，使得每個截角的截面恰通過該截角之三鄰邊\n的中點。根據上述，試回答下列問題。\n18. 截角後的石塊為幾面體？（單選題，3 分）\n(1)八面體 (2)十面體 (3)十二面體 (4)十四面體 (5)十六面體\n19. 試求∆BCD的面積。（非選擇題，4 分）\n20. 試求 AD的長度與四面體 ABCD的體積，並求此四面體以 ∆BCD為底面時，頂點 A 到底\n底面積×高\n面的高度。（角錐體積= ）（非選擇題，8 分）\n3\n- 6 -",
+      "charCount": 655
+    },
+    {
+      "page": 8,
+      "width": 595.2,
+      "height": 841.92,
+      "text": "第 7 頁 請記得在答題卷簽名欄位以正楷簽全名 113年學測\n共 7 頁 數學B考科\n參考公式及可能用到的數值\nn(2a+(n−1)d)\n1. 首項為 a，公差為 d 的等差數列前 n項之和為 S =\n2\na(1−rn)\n首項為 a，公比為 r(r ≠1)的等比數列前 n項之和為 S =\n1−r\na b c\n2. ∆ABC的正弦定理： = = =2R （ R為 ∆ABC外接圓半徑）\nsinA sinB sinC\n∆ABC的餘弦定理： c2 =a2 +b2 −2abcosC\n3. 一維數據 X :x ,x ,,x ，\n1 2 n\n1\n算術平均數 µ = (x +x +⋅⋅⋅+x )\nX 1 2 n\nn\n1 1\n標準差σ = [(x −µ )2 +(x −µ )2 + +(x −µ )2]= [(x2 +x 2 + +x 2)−nµ 2]\nX 1 X 2 X  n X 1 2  n X\nn n\n4. 二維數據 (X,Y):(x ,y ),(x ,y ),,(x ,y )，相關係數\n1 1 2 2 n n\n(x −µ )(y −µ )+(x −µ )(y −µ )++(x −µ )(y −µ )\nr = 1 X 1 Y 2 X 2 Y n X n Y\nX,Y nσ σ\nX Y\nσ\n迴歸直線（ 最適合直線） 方程式 y−µ =r Y (x−µ )\nY X,Yσ X\nX\n5. 參考數值： 2 ≈1.414, 3≈1.732, 5 ≈2.236, 6 ≈2.449,π≈3.142\n6. 對數值： log2≈0.3010, log3≈0.4771, log5≈0.6990, log7≈0.8451\n- 7 -",
+      "charCount": 714
+    }
+  ],
+  "tables": [
+    {
+      "page": 3,
+      "tableIndex": 0,
+      "bbox": [
+        502.118,
+        300.643,
+        531.0,
+        396.475
+      ],
+      "rowCount": 7,
+      "colCount": 2,
+      "cells": [
+        [
+          null,
+          "四樓"
+        ],
+        [
+          "B",
+          null
+        ],
+        [
+          null,
+          "三樓"
+        ],
+        [
+          "D",
+          null
+        ],
+        [
+          null,
+          "二樓"
+        ],
+        [
+          "F",
+          null
+        ],
+        [
+          null,
+          "一樓"
+        ]
+      ]
+    },
+    {
+      "page": 3,
+      "tableIndex": 1,
+      "bbox": [
+        125.76,
+        602.879,
+        469.2,
+        647.28
+      ],
+      "rowCount": 3,
+      "colCount": 5,
+      "cells": [
+        [
+          "溫度 t",
+          "18≤t<24",
+          "24≤t<30",
+          "30≤t<36",
+          "36≤t"
+        ],
+        [
+          "東區（天數）",
+          "0",
+          "11",
+          "14",
+          "5"
+        ],
+        [
+          "西區（天數）",
+          "3",
+          "12",
+          "15",
+          "0"
+        ]
+      ]
+    },
+    {
+      "page": 3,
+      "tableIndex": 2,
+      "bbox": [
+        138.0,
+        677.76,
+        457.2,
+        707.279
+      ],
+      "rowCount": 2,
+      "colCount": 5,
+      "cells": [
+        [
+          "溫度 t",
+          "18≤t<24",
+          "24≤t<30",
+          "30≤t<36",
+          "36≤t"
+        ],
+        [
+          "天數",
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      ]
+    },
+    {
+      "page": 5,
+      "tableIndex": 0,
+      "bbox": [
+        90.721,
+        184.559,
+        504.721,
+        244.319
+      ],
+      "rowCount": 3,
+      "colCount": 6,
+      "cells": [
+        [
+          "",
+          "第 1 年",
+          "第 2 年",
+          "第 3 年",
+          "第 4 年",
+          "第 5 年"
+        ],
+        [
+          "碳排放總量\n（億公噸 CO2e）",
+          "X",
+          "A",
+          "B",
+          "C",
+          "Y"
+        ],
+        [
+          "碳排放年成長率",
+          "",
+          "−0.07",
+          "p",
+          "q",
+          "r"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 1473,
+      "bbox": [
+        191.52,
+        465.6,
+        205.92,
+        465.84
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 3,
+      "xref": 1473,
+      "bbox": [
+        284.88,
+        463.92,
+        299.28,
+        464.16
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 5,
+      "xref": 1473,
+      "bbox": [
+        222.72,
+        578.64,
+        237.12,
+        578.88
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 7,
+      "xref": 1473,
+      "bbox": [
+        127.44,
+        578.64,
+        141.84,
+        578.88
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 9,
+      "xref": 1473,
+      "bbox": [
+        393.12,
+        512.4,
+        407.52,
+        512.64
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 11,
+      "xref": 1473,
+      "bbox": [
+        409.92,
+        512.4,
+        424.32,
+        512.64
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 13,
+      "xref": 1473,
+      "bbox": [
+        224.4,
+        512.4,
+        238.8,
+        512.64
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 15,
+      "xref": 1473,
+      "bbox": [
+        262.08,
+        512.4,
+        276.48,
+        512.64
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 17,
+      "xref": 1473,
+      "bbox": [
+        280.56,
+        512.4,
+        294.96,
+        512.64
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 19,
+      "xref": 1473,
+      "bbox": [
+        299.28,
+        512.4,
+        313.68,
+        512.64
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 21,
+      "xref": 1473,
+      "bbox": [
+        318.96,
+        512.4,
+        333.36,
+        512.64
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 23,
+      "xref": 1473,
+      "bbox": [
+        337.68,
+        512.64,
+        352.08,
+        512.88
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 25,
+      "xref": 1473,
+      "bbox": [
+        355.92,
+        512.4,
+        370.32,
+        512.64
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 27,
+      "xref": 1473,
+      "bbox": [
+        374.88,
+        512.4,
+        389.28,
+        512.64
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 29,
+      "xref": 1473,
+      "bbox": [
+        205.2,
+        512.4,
+        219.6,
+        512.64
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 31,
+      "xref": 1473,
+      "bbox": [
+        243.12,
+        512.4,
+        257.52,
+        512.64
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 33,
+      "xref": 1473,
+      "bbox": [
+        318.96,
+        489.6,
+        333.36,
+        489.84
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 35,
+      "xref": 1473,
+      "bbox": [
+        408.96,
+        489.6,
+        423.36,
+        489.84
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 37,
+      "xref": 1473,
+      "bbox": [
+        224.4,
+        489.6,
+        238.8,
+        489.84
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 39,
+      "xref": 1473,
+      "bbox": [
+        262.08,
+        489.6,
+        276.48,
+        489.84
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 41,
+      "xref": 1473,
+      "bbox": [
+        280.56,
+        489.6,
+        294.96,
+        489.84
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 43,
+      "xref": 1473,
+      "bbox": [
+        299.28,
+        489.6,
+        313.68,
+        489.84
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 45,
+      "xref": 1473,
+      "bbox": [
+        337.68,
+        489.6,
+        352.08,
+        489.84
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 47,
+      "xref": 1473,
+      "bbox": [
+        355.68,
+        489.6,
+        370.08,
+        489.84
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 49,
+      "xref": 1473,
+      "bbox": [
+        374.64,
+        489.6,
+        389.04,
+        489.84
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 51,
+      "xref": 1473,
+      "bbox": [
+        205.2,
+        489.6,
+        219.6,
+        489.84
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 53,
+      "xref": 1473,
+      "bbox": [
+        392.4,
+        489.6,
+        406.8,
+        489.84
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 55,
+      "xref": 1473,
+      "bbox": [
+        243.12,
+        489.6,
+        257.52,
+        489.84
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 57,
+      "xref": 1473,
+      "bbox": [
+        393.36,
+        625.2,
+        407.76,
+        625.44
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 59,
+      "xref": 1473,
+      "bbox": [
+        410.16,
+        625.2,
+        424.56,
+        625.44
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 61,
+      "xref": 1473,
+      "bbox": [
+        224.64,
+        625.2,
+        239.04,
+        625.44
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 63,
+      "xref": 1473,
+      "bbox": [
+        262.32,
+        625.2,
+        276.72,
+        625.44
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 65,
+      "xref": 1473,
+      "bbox": [
+        281.04,
+        625.2,
+        295.44,
+        625.44
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 67,
+      "xref": 1473,
+      "bbox": [
+        299.52,
+        625.2,
+        313.92,
+        625.44
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 69,
+      "xref": 1473,
+      "bbox": [
+        338.64,
+        625.2,
+        353.04,
+        625.44
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 71,
+      "xref": 1473,
+      "bbox": [
+        319.2,
+        624.96,
+        333.6,
+        625.2
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 73,
+      "xref": 1473,
+      "bbox": [
+        356.16,
+        625.2,
+        370.56,
+        625.44
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 75,
+      "xref": 1473,
+      "bbox": [
+        375.12,
+        625.2,
+        389.52,
+        625.44
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 77,
+      "xref": 1473,
+      "bbox": [
+        205.44,
+        625.2,
+        219.84,
+        625.44
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 79,
+      "xref": 1473,
+      "bbox": [
+        243.36,
+        625.2,
+        257.76,
+        625.44
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 81,
+      "xref": 1473,
+      "bbox": [
+        319.2,
+        602.16,
+        333.6,
+        602.4
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 83,
+      "xref": 1473,
+      "bbox": [
+        409.2,
+        602.16,
+        423.6,
+        602.4
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 85,
+      "xref": 1473,
+      "bbox": [
+        224.64,
+        602.16,
+        239.04,
+        602.4
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 87,
+      "xref": 1473,
+      "bbox": [
+        262.32,
+        602.16,
+        276.72,
+        602.4
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 89,
+      "xref": 1473,
+      "bbox": [
+        281.04,
+        602.16,
+        295.44,
+        602.4
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 91,
+      "xref": 1473,
+      "bbox": [
+        299.52,
+        602.16,
+        313.92,
+        602.4
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 93,
+      "xref": 1473,
+      "bbox": [
+        337.92,
+        602.16,
+        352.32,
+        602.4
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 95,
+      "xref": 1473,
+      "bbox": [
+        356.16,
+        602.16,
+        370.56,
+        602.4
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 97,
+      "xref": 1473,
+      "bbox": [
+        375.12,
+        602.16,
+        389.52,
+        602.4
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 99,
+      "xref": 1473,
+      "bbox": [
+        205.44,
+        602.16,
+        219.84,
+        602.4
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 101,
+      "xref": 1473,
+      "bbox": [
+        243.36,
+        602.16,
+        257.76,
+        602.4
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 103,
+      "xref": 1473,
+      "bbox": [
+        392.88,
+        602.16,
+        407.28,
+        602.4
+      ],
+      "pixelWidth": 60,
+      "pixelHeight": 1,
+      "ext": "jpeg"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 1,
+      "xref": 1475,
+      "bbox": [
+        220.08,
+        499.2,
+        245.04,
+        515.76
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 2,
+      "xref": 1475,
+      "bbox": [
+        257.76,
+        499.2,
+        282.72,
+        515.76
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 3,
+      "xref": 1475,
+      "bbox": [
+        276.72,
+        499.2,
+        301.68,
+        515.76
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 4,
+      "xref": 1475,
+      "bbox": [
+        295.68,
+        499.2,
+        320.64,
+        515.76
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 5,
+      "xref": 1475,
+      "bbox": [
+        352.32,
+        499.2,
+        377.28,
+        515.76
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 6,
+      "xref": 1475,
+      "bbox": [
+        371.28,
+        499.2,
+        396.24,
+        515.76
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 7,
+      "xref": 1475,
+      "bbox": [
+        238.8,
+        499.2,
+        263.76,
+        515.76
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 8,
+      "xref": 1475,
+      "bbox": [
+        220.56,
+        612.0,
+        245.52,
+        628.56
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 9,
+      "xref": 1475,
+      "bbox": [
+        258.0,
+        612.0,
+        282.96,
+        628.56
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 10,
+      "xref": 1475,
+      "bbox": [
+        276.96,
+        612.0,
+        301.92,
+        628.56
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 11,
+      "xref": 1475,
+      "bbox": [
+        352.56,
+        612.0,
+        377.52,
+        628.56
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 12,
+      "xref": 1475,
+      "bbox": [
+        371.52,
+        612.0,
+        396.48,
+        628.56
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 13,
+      "xref": 1475,
+      "bbox": [
+        239.04,
+        612.0,
+        264.0,
+        628.56
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 14,
+      "xref": 1475,
+      "bbox": [
+        220.56,
+        588.96,
+        245.52,
+        605.52
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 15,
+      "xref": 1475,
+      "bbox": [
+        258.0,
+        588.96,
+        282.96,
+        605.52
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 16,
+      "xref": 1475,
+      "bbox": [
+        276.96,
+        588.96,
+        301.92,
+        605.52
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 17,
+      "xref": 1475,
+      "bbox": [
+        295.92,
+        588.96,
+        320.88,
+        605.52
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 18,
+      "xref": 1475,
+      "bbox": [
+        333.6,
+        588.96,
+        358.56,
+        605.52
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 19,
+      "xref": 1475,
+      "bbox": [
+        352.56,
+        588.96,
+        377.52,
+        605.52
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 20,
+      "xref": 1475,
+      "bbox": [
+        371.52,
+        588.96,
+        396.48,
+        605.52
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 9,
+      "rectIndex": 1,
+      "xref": 1477,
+      "bbox": [
+        295.92,
+        612.0,
+        321.12,
+        628.56
+      ],
+      "pixelWidth": 105,
+      "pixelHeight": 69,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 1,
+      "xref": 1479,
+      "bbox": [
+        187.92,
+        452.16,
+        212.88,
+        468.96
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 2,
+      "xref": 1479,
+      "bbox": [
+        280.8,
+        450.48,
+        305.76,
+        467.28
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 3,
+      "xref": 1479,
+      "bbox": [
+        123.36,
+        565.68,
+        148.32,
+        582.48
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 4,
+      "xref": 1479,
+      "bbox": [
+        388.8,
+        497.76,
+        413.76,
+        514.56
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 5,
+      "xref": 1479,
+      "bbox": [
+        405.12,
+        497.76,
+        430.08,
+        514.56
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 6,
+      "xref": 1479,
+      "bbox": [
+        334.32,
+        499.2,
+        359.28,
+        516.0
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 7,
+      "xref": 1479,
+      "bbox": [
+        404.64,
+        474.24,
+        429.6,
+        491.04
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 8,
+      "xref": 1479,
+      "bbox": [
+        220.08,
+        476.16,
+        245.04,
+        492.96
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 9,
+      "xref": 1479,
+      "bbox": [
+        257.76,
+        476.16,
+        282.72,
+        492.96
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 10,
+      "xref": 1479,
+      "bbox": [
+        276.72,
+        476.16,
+        301.68,
+        492.96
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 11,
+      "xref": 1479,
+      "bbox": [
+        295.68,
+        476.16,
+        320.64,
+        492.96
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 12,
+      "xref": 1479,
+      "bbox": [
+        333.36,
+        476.16,
+        358.32,
+        492.96
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 13,
+      "xref": 1479,
+      "bbox": [
+        352.32,
+        476.16,
+        377.28,
+        492.96
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 14,
+      "xref": 1479,
+      "bbox": [
+        371.28,
+        476.16,
+        396.24,
+        492.96
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 15,
+      "xref": 1479,
+      "bbox": [
+        389.28,
+        610.56,
+        414.24,
+        627.36
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 16,
+      "xref": 1479,
+      "bbox": [
+        405.36,
+        610.56,
+        430.32,
+        627.36
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 17,
+      "xref": 1479,
+      "bbox": [
+        334.32,
+        611.76,
+        359.28,
+        628.56
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 18,
+      "xref": 1479,
+      "bbox": [
+        404.64,
+        587.52,
+        429.6,
+        604.32
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 70,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 11,
+      "rectIndex": 1,
+      "xref": 1481,
+      "bbox": [
+        314.64,
+        499.92,
+        339.6,
+        510.72
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 45,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 11,
+      "rectIndex": 2,
+      "xref": 1481,
+      "bbox": [
+        314.88,
+        612.0,
+        339.84,
+        622.8
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 45,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 15,
+      "rectIndex": 1,
+      "xref": 1483,
+      "bbox": [
+        201.36,
+        612.0,
+        226.56,
+        623.52
+      ],
+      "pixelWidth": 105,
+      "pixelHeight": 48,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 25,
+      "rectIndex": 1,
+      "xref": 1485,
+      "bbox": [
+        218.64,
+        565.2,
+        243.6,
+        580.08
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 62,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 39,
+      "rectIndex": 1,
+      "xref": 1487,
+      "bbox": [
+        385.68,
+        586.8,
+        410.64,
+        600.24
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 56,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 51,
+      "rectIndex": 1,
+      "xref": 1489,
+      "bbox": [
+        314.16,
+        476.16,
+        329.52,
+        486.96
+      ],
+      "pixelWidth": 64,
+      "pixelHeight": 45,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 51,
+      "rectIndex": 2,
+      "xref": 1489,
+      "bbox": [
+        314.64,
+        588.96,
+        330.0,
+        599.76
+      ],
+      "pixelWidth": 64,
+      "pixelHeight": 45,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 54,
+      "rectIndex": 1,
+      "xref": 1491,
+      "bbox": [
+        201.36,
+        588.96,
+        226.56,
+        600.72
+      ],
+      "pixelWidth": 105,
+      "pixelHeight": 49,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 55,
+      "rectIndex": 1,
+      "xref": 1493,
+      "bbox": [
+        238.8,
+        476.16,
+        263.76,
+        484.32
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 34,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 55,
+      "rectIndex": 2,
+      "xref": 1493,
+      "bbox": [
+        239.04,
+        588.96,
+        264.0,
+        597.12
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 34,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 69,
+      "rectIndex": 1,
+      "xref": 1495,
+      "bbox": [
+        187.44,
+        426.96,
+        211.44,
+        437.76
+      ],
+      "pixelWidth": 100,
+      "pixelHeight": 45,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 69,
+      "rectIndex": 2,
+      "xref": 1495,
+      "bbox": [
+        185.04,
+        528.96,
+        209.04,
+        539.76
+      ],
+      "pixelWidth": 100,
+      "pixelHeight": 45,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 76,
+      "rectIndex": 1,
+      "xref": 1497,
+      "bbox": [
+        171.6,
+        501.6,
+        208.32,
+        514.32
+      ],
+      "pixelWidth": 153,
+      "pixelHeight": 53,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 76,
+      "rectIndex": 2,
+      "xref": 1497,
+      "bbox": [
+        171.84,
+        614.4,
+        208.56,
+        627.12
+      ],
+      "pixelWidth": 153,
+      "pixelHeight": 53,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 79,
+      "rectIndex": 1,
+      "xref": 1499,
+      "bbox": [
+        192.72,
+        403.44,
+        207.84,
+        411.36
+      ],
+      "pixelWidth": 63,
+      "pixelHeight": 33,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 79,
+      "rectIndex": 2,
+      "xref": 1499,
+      "bbox": [
+        192.72,
+        428.64,
+        207.84,
+        436.56
+      ],
+      "pixelWidth": 63,
+      "pixelHeight": 33,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 79,
+      "rectIndex": 3,
+      "xref": 1499,
+      "bbox": [
+        189.6,
+        530.64,
+        204.72,
+        538.56
+      ],
+      "pixelWidth": 63,
+      "pixelHeight": 33,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 80,
+      "rectIndex": 1,
+      "xref": 1501,
+      "bbox": [
+        208.32,
+        528.72,
+        232.32,
+        542.88
+      ],
+      "pixelWidth": 100,
+      "pixelHeight": 59,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 81,
+      "rectIndex": 1,
+      "xref": 1503,
+      "bbox": [
+        195.36,
+        547.92,
+        223.44,
+        562.8
+      ],
+      "pixelWidth": 117,
+      "pixelHeight": 62,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 83,
+      "rectIndex": 1,
+      "xref": 1505,
+      "bbox": [
+        213.36,
+        530.64,
+        228.24,
+        538.56
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 33,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 84,
+      "rectIndex": 1,
+      "xref": 1507,
+      "bbox": [
+        172.08,
+        478.08,
+        208.56,
+        490.8
+      ],
+      "pixelWidth": 152,
+      "pixelHeight": 53,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 100,
+      "rectIndex": 1,
+      "xref": 1509,
+      "bbox": [
+        201.12,
+        499.2,
+        226.08,
+        510.72
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 48,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 104,
+      "rectIndex": 1,
+      "xref": 1511,
+      "bbox": [
+        183.84,
+        399.12,
+        222.0,
+        416.88
+      ],
+      "pixelWidth": 159,
+      "pixelHeight": 74,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 130,
+      "rectIndex": 1,
+      "xref": 1513,
+      "bbox": [
+        388.56,
+        474.48,
+        406.32,
+        482.4
+      ],
+      "pixelWidth": 74,
+      "pixelHeight": 33,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 140,
+      "rectIndex": 1,
+      "xref": 1515,
+      "bbox": [
+        201.12,
+        476.16,
+        226.08,
+        487.92
+      ],
+      "pixelWidth": 104,
+      "pixelHeight": 49,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 165,
+      "rectIndex": 1,
+      "xref": 1517,
+      "bbox": [
+        172.56,
+        590.88,
+        208.8,
+        603.6
+      ],
+      "pixelWidth": 151,
+      "pixelHeight": 53,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 7,
+      "bbox": [
+        394.929,
+        351.77,
+        527.55,
+        500.735
+      ],
+      "pixelWidth": 346,
+      "pixelHeight": 390,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 2,
+      "rectIndex": 1,
+      "xref": 9,
+      "bbox": [
+        471.84,
+        375.12,
+        481.2,
+        387.84
+      ],
+      "pixelWidth": 39,
+      "pixelHeight": 53,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 3,
+      "rectIndex": 1,
+      "xref": 11,
+      "bbox": [
+        454.8,
+        412.8,
+        463.2,
+        425.52
+      ],
+      "pixelWidth": 35,
+      "pixelHeight": 53,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 4,
+      "rectIndex": 1,
+      "xref": 13,
+      "bbox": [
+        398.64,
+        412.56,
+        408.48,
+        425.52
+      ],
+      "pixelWidth": 41,
+      "pixelHeight": 54,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 5,
+      "rectIndex": 1,
+      "xref": 15,
+      "bbox": [
+        437.52,
+        454.56,
+        445.92,
+        470.16
+      ],
+      "pixelWidth": 35,
+      "pixelHeight": 65,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 6,
+      "rectIndex": 1,
+      "xref": 17,
+      "bbox": [
+        465.6,
+        430.56,
+        474.0,
+        443.04
+      ],
+      "pixelWidth": 35,
+      "pixelHeight": 52,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 7,
+      "rectIndex": 1,
+      "xref": 19,
+      "bbox": [
+        514.8,
+        430.08,
+        523.2,
+        443.04
+      ],
+      "pixelWidth": 35,
+      "pixelHeight": 54,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 8,
+      "rectIndex": 1,
+      "xref": 21,
+      "bbox": [
+        391.92,
+        490.8,
+        401.76,
+        503.52
+      ],
+      "pixelWidth": 41,
+      "pixelHeight": 53,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 26,
+      "bbox": [
+        419.219,
+        265.945,
+        502.274,
+        402.045
+      ],
+      "pixelWidth": 254,
+      "pixelHeight": 416,
+      "ext": "jpeg"
+    },
+    {
+      "page": 3,
+      "imageIndex": 2,
+      "rectIndex": 1,
+      "xref": 28,
+      "bbox": [
+        507.12,
+        274.32,
+        526.8,
+        287.52
+      ],
+      "pixelWidth": 82,
+      "pixelHeight": 55,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 3,
+      "rectIndex": 1,
+      "xref": 30,
+      "bbox": [
+        413.04,
+        342.24,
+        418.8,
+        354.96
+      ],
+      "pixelWidth": 24,
+      "pixelHeight": 53,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 4,
+      "rectIndex": 1,
+      "xref": 32,
+      "bbox": [
+        413.04,
+        315.84,
+        418.8,
+        330.0
+      ],
+      "pixelWidth": 24,
+      "pixelHeight": 59,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 5,
+      "rectIndex": 1,
+      "xref": 34,
+      "bbox": [
+        462.24,
+        267.84,
+        468.0,
+        277.92
+      ],
+      "pixelWidth": 24,
+      "pixelHeight": 42,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 6,
+      "rectIndex": 1,
+      "xref": 36,
+      "bbox": [
+        507.36,
+        300.96,
+        527.04,
+        313.92
+      ],
+      "pixelWidth": 82,
+      "pixelHeight": 54,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 7,
+      "rectIndex": 1,
+      "xref": 38,
+      "bbox": [
+        507.36,
+        326.88,
+        526.8,
+        339.84
+      ],
+      "pixelWidth": 81,
+      "pixelHeight": 54,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 8,
+      "rectIndex": 1,
+      "xref": 40,
+      "bbox": [
+        507.36,
+        355.68,
+        530.64,
+        368.88
+      ],
+      "pixelWidth": 97,
+      "pixelHeight": 55,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 8,
+      "rectIndex": 2,
+      "xref": 40,
+      "bbox": [
+        507.36,
+        383.04,
+        530.64,
+        396.24
+      ],
+      "pixelWidth": 97,
+      "pixelHeight": 55,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 10,
+      "rectIndex": 1,
+      "xref": 42,
+      "bbox": [
+        502.56,
+        314.4,
+        508.32,
+        326.4
+      ],
+      "pixelWidth": 24,
+      "pixelHeight": 50,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 11,
+      "rectIndex": 1,
+      "xref": 44,
+      "bbox": [
+        502.32,
+        342.48,
+        510.48,
+        355.2
+      ],
+      "pixelWidth": 34,
+      "pixelHeight": 53,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 12,
+      "rectIndex": 1,
+      "xref": 46,
+      "bbox": [
+        502.32,
+        369.36,
+        508.08,
+        382.56
+      ],
+      "pixelWidth": 24,
+      "pixelHeight": 55,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 13,
+      "rectIndex": 1,
+      "xref": 48,
+      "bbox": [
+        413.04,
+        369.12,
+        418.8,
+        382.56
+      ],
+      "pixelWidth": 24,
+      "pixelHeight": 56,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 53,
+      "bbox": [
+        444.5,
+        592.11,
+        531.5,
+        677.96
+      ],
+      "pixelWidth": 213,
+      "pixelHeight": 210,
+      "ext": "png"
+    },
+    {
+      "page": 7,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 61,
+      "bbox": [
+        229.2,
+        429.523,
+        366.416,
+        514.923
+      ],
+      "pixelWidth": 419,
+      "pixelHeight": 261,
+      "ext": "jpeg"
+    }
+  ],
+  "warnings": []
+}

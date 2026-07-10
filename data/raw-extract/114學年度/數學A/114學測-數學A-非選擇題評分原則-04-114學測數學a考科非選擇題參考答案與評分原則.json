@@ -1,0 +1,702 @@
+{
+  "source": {
+    "path": "資料/大考中心官方PDF/114學年度/數學A/114學測-數學A-非選擇題評分原則-04-114學測數學a考科非選擇題參考答案與評分原則.pdf",
+    "year": "114",
+    "subject": "數學A",
+    "fileName": "114學測-數學A-非選擇題評分原則-04-114學測數學a考科非選擇題參考答案與評分原則.pdf",
+    "fileType": "非選擇題評分原則"
+  },
+  "meta": {
+    "extractor": "batch_extract.py v1",
+    "extractedAt": "2026-07-10T09:21:21",
+    "mode": "full",
+    "pageCount": 3
+  },
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.32,
+      "height": 841.92,
+      "text": "114 學年度學科能力測驗數學 A 考科\n非選擇題滿分參考答案與評分原則\n數學 A 考科的非選擇題主要評量考生是否能夠清楚表達推理論證過程，\n答題時應清楚表達如何依據題設進行推論，並詳細說明解題過程，且得到正確\n答案，方可得到滿分。若能清楚表達如何依據正確題設進行推論，並詳細說明\n解題過程，但最後未求出正確答案，會依據解題概念的完整性，酌給部分分數。\n若未能依據正確題設進行推論，或未能詳細說明解題過程，則不予給分。例如\n沒有解題過程；或利用錯誤推論；或使用不符合題設的數據作答，均不給分。\n數學科非選擇題的解法通常不只一種，在此提供多數考生可能採用的解\n法以供各界參考，詳細評分原則說明與常見錯誤概念，請參閱本中心將於 4 月\n15 日出刊的第 347 期《選才電子報》。114 學年度學科能力測驗數學 A 考科非\n選擇題各題的參考答案說明如下：\n第 19 題\n一、滿分參考答案：\ncos90 −sin90\n依題意 A2 =B3 = ，所以依據題意 A為旋轉\n \nsin90 cos90\n \n1\n4 5  的旋轉矩陣，\n即 A =\n c\ns\no\ni\ns\nn\n4\n4\n5\n5\n\n\n−\nc\ns\no\ni n\ns 4\n4\n5\n5\n\n \n=\n\n2\n2\n2\n2\n−\n2\n2\n2\n2 \n；\n而 B 為旋轉 3 0  的旋轉矩陣，即 B =\n c\ns\no\ni\ns\nn\n3\n3\n0\n0\n\n\n−\nc\ns\no\ni n\ns 3\n3\n0\n0\n\n \n=\n\n2\n1\n2\n3\n−\n2\n1\n2\n3\n\n。\n 2 2  2 2\n− −  − − \n故 P經 A3= 2 2  變換，可利用矩陣乘法  2 2    1  =   − 2 ，得\n 2 2  2 2  1   0 \n −   − \n 2 2   2 2 \nQ 點坐\n標為 (− 2,0)。\n或依題意 A3為旋轉135矩陣，而 OP長度為 2且與 (1 , 0 ) 夾角為 45，故 OQ長度\n為 2 且與 (1 , 0 ) 夾角為 4 5  + 1 3 5  = 1 8 0  ，因此得 Q 點坐標為 ( − 2 , 0 ) 。",
+      "charCount": 977
+    },
+    {
+      "page": 2,
+      "width": 595.32,
+      "height": 841.92,
+      "text": "故\n2\nQ\n−1 3\n − \n2 2 經 B4= 變換，可利用矩陣乘法\n 3 −1 \n \n 2 2 \n −\n2\n2\n1\n3\n−\n−\n2\n2\n1\n3 \n −\n0\n2  =\n\n−\n2\n2\n2\n6\n\n，得 R 點坐\n標為 (\n2\n2\n, −\n2\n6\n) 。\n設 O R 與 (1 , 0 )\n2 6 2\n的夾角為，利用內積 OR(1,0)=( ,− )(1,0)= 以及\n2 2 2\nO R 的長度\n為 2 ， 推 得 為 6 0  。 也 可 由 B 4 為 旋 轉 120 矩 陣 ， 故 OR 的 方 向 角 為\n45+135+120=300，因此 O R 與 (1 , 0 ) 的夾角為 60。\n二、評分原則：\n滿分：以下兩項均須正確\n1.根據題意所給條件，得出 Q 點坐標為 ( − 2 , 0 ) ，且過程正確。\n2.根據題意所給條件，得出 O R 與 (1 , 0 ) 的夾角為 60。且過程正確。\n部分給分\n以上兩個的解題過程部分正確。\n零分\n未作答或未符合部份給分原則。\n第 20 題\n一、滿分參考答案：\n因 R\n2 6\n點坐標為 ( ,− )，推得直線\n2 2\nO R 方程式為 y = − 3 x 。又 L為過 ( 1 ,1 ) 的水平\n線 ， 故 L 方 程 式 為 y=1 ， 可 得 S 點 坐 標 為 ( −\n3\n3\n,1 ) ， 再 由 內 積\n3 3 2 3\nSO(1,0)=( ,−1)(1,0)= 以及 SO的長度為 ，推得 OSP=60。\n3 3 3\n也可設點 D(1,0)，由第 19 題知  R O D = 6 0  。因直線 L與直線 OQ(即直線 OD)平\n行，可由同位角得出 OSP=60。",
+      "charCount": 781
+    },
+    {
+      "page": 3,
+      "width": 595.32,
+      "height": 841.92,
+      "text": "二、評分原則：\n滿分：以下兩項均須正確\n1.根據題意所給條件，得出\n3\n O S P = 6 0  ，且過程正確。\n2.根據題意所給條件，得出 S\n3\n點坐標為 (− ,1)，且過程正確。\n3\n部分給分\n以上兩個的解題過程部分正確。\n零分\n未作答或未符合部份給分原則。",
+      "charCount": 136
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 60,
+      "bbox": [
+        261.483,
+        648.435,
+        389.696,
+        703.647
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 2,
+      "xref": 60,
+      "bbox": [
+        484.932,
+        653.496,
+        605.115,
+        702.425
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 1,
+      "xref": 66,
+      "bbox": [
+        261.483,
+        648.435,
+        389.696,
+        703.647
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 2,
+      "xref": 66,
+      "bbox": [
+        484.932,
+        653.496,
+        605.115,
+        702.425
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 60,
+      "bbox": [
+        81.484,
+        173.385,
+        209.696,
+        228.597
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 1,
+      "rectIndex": 2,
+      "xref": 60,
+      "bbox": [
+        279.718,
+        174.345,
+        403.728,
+        228.358
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 1,
+      "rectIndex": 3,
+      "xref": 60,
+      "bbox": [
+        472.083,
+        173.385,
+        600.296,
+        228.597
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 1,
+      "rectIndex": 4,
+      "xref": 60,
+      "bbox": [
+        432.233,
+        209.485,
+        560.446,
+        264.697
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 1,
+      "rectIndex": 5,
+      "xref": 60,
+      "bbox": [
+        227.534,
+        238.885,
+        355.746,
+        294.097
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 1,
+      "rectIndex": 6,
+      "xref": 60,
+      "bbox": [
+        232.333,
+        353.985,
+        360.546,
+        409.197
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 1,
+      "rectIndex": 7,
+      "xref": 60,
+      "bbox": [
+        67.034,
+        634.359,
+        186.575,
+        686.659
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 1,
+      "rectIndex": 8,
+      "xref": 60,
+      "bbox": [
+        243.78,
+        634.923,
+        363.21,
+        686.722
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 2,
+      "rectIndex": 1,
+      "xref": 84,
+      "bbox": [
+        81.484,
+        173.385,
+        209.696,
+        228.597
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 2,
+      "rectIndex": 2,
+      "xref": 84,
+      "bbox": [
+        279.718,
+        174.345,
+        403.728,
+        228.358
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 2,
+      "rectIndex": 3,
+      "xref": 84,
+      "bbox": [
+        472.083,
+        173.385,
+        600.296,
+        228.597
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 2,
+      "rectIndex": 4,
+      "xref": 84,
+      "bbox": [
+        432.233,
+        209.485,
+        560.446,
+        264.697
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 2,
+      "rectIndex": 5,
+      "xref": 84,
+      "bbox": [
+        227.534,
+        238.885,
+        355.746,
+        294.097
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 2,
+      "rectIndex": 6,
+      "xref": 84,
+      "bbox": [
+        232.333,
+        353.985,
+        360.546,
+        409.197
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 2,
+      "rectIndex": 7,
+      "xref": 84,
+      "bbox": [
+        67.034,
+        634.359,
+        186.575,
+        686.659
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 2,
+      "rectIndex": 8,
+      "xref": 84,
+      "bbox": [
+        243.78,
+        634.923,
+        363.21,
+        686.722
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 4,
+      "rectIndex": 1,
+      "xref": 93,
+      "bbox": [
+        81.484,
+        173.385,
+        209.696,
+        228.597
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 4,
+      "rectIndex": 2,
+      "xref": 93,
+      "bbox": [
+        279.718,
+        174.345,
+        403.728,
+        228.358
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 4,
+      "rectIndex": 3,
+      "xref": 93,
+      "bbox": [
+        472.083,
+        173.385,
+        600.296,
+        228.597
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 4,
+      "rectIndex": 4,
+      "xref": 93,
+      "bbox": [
+        432.233,
+        209.485,
+        560.446,
+        264.697
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 4,
+      "rectIndex": 5,
+      "xref": 93,
+      "bbox": [
+        227.534,
+        238.885,
+        355.746,
+        294.097
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 4,
+      "rectIndex": 6,
+      "xref": 93,
+      "bbox": [
+        232.333,
+        353.985,
+        360.546,
+        409.197
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 4,
+      "rectIndex": 7,
+      "xref": 93,
+      "bbox": [
+        67.034,
+        634.359,
+        186.575,
+        686.659
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 4,
+      "rectIndex": 8,
+      "xref": 93,
+      "bbox": [
+        243.78,
+        634.923,
+        363.21,
+        686.722
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 7,
+      "rectIndex": 1,
+      "xref": 119,
+      "bbox": [
+        81.484,
+        173.385,
+        209.696,
+        228.597
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 7,
+      "rectIndex": 2,
+      "xref": 119,
+      "bbox": [
+        279.718,
+        174.345,
+        403.728,
+        228.358
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 7,
+      "rectIndex": 3,
+      "xref": 119,
+      "bbox": [
+        472.083,
+        173.385,
+        600.296,
+        228.597
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 7,
+      "rectIndex": 4,
+      "xref": 119,
+      "bbox": [
+        432.233,
+        209.485,
+        560.446,
+        264.697
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 7,
+      "rectIndex": 5,
+      "xref": 119,
+      "bbox": [
+        227.534,
+        238.885,
+        355.746,
+        294.097
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 7,
+      "rectIndex": 6,
+      "xref": 119,
+      "bbox": [
+        232.333,
+        353.985,
+        360.546,
+        409.197
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 7,
+      "rectIndex": 7,
+      "xref": 119,
+      "bbox": [
+        67.034,
+        634.359,
+        186.575,
+        686.659
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 7,
+      "rectIndex": 8,
+      "xref": 119,
+      "bbox": [
+        243.78,
+        634.923,
+        363.21,
+        686.722
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 8,
+      "rectIndex": 1,
+      "xref": 122,
+      "bbox": [
+        81.484,
+        173.385,
+        209.696,
+        228.597
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 8,
+      "rectIndex": 2,
+      "xref": 122,
+      "bbox": [
+        279.718,
+        174.345,
+        403.728,
+        228.358
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 8,
+      "rectIndex": 3,
+      "xref": 122,
+      "bbox": [
+        472.083,
+        173.385,
+        600.296,
+        228.597
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 8,
+      "rectIndex": 4,
+      "xref": 122,
+      "bbox": [
+        432.233,
+        209.485,
+        560.446,
+        264.697
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 8,
+      "rectIndex": 5,
+      "xref": 122,
+      "bbox": [
+        227.534,
+        238.885,
+        355.746,
+        294.097
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 8,
+      "rectIndex": 6,
+      "xref": 122,
+      "bbox": [
+        232.333,
+        353.985,
+        360.546,
+        409.197
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 8,
+      "rectIndex": 7,
+      "xref": 122,
+      "bbox": [
+        67.034,
+        634.359,
+        186.575,
+        686.659
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 2,
+      "imageIndex": 8,
+      "rectIndex": 8,
+      "xref": 122,
+      "bbox": [
+        243.78,
+        634.923,
+        363.21,
+        686.722
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    }
+  ],
+  "warnings": []
+}

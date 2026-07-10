@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PyMuPDF 提取測試</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="../src/style.css">
+  <style>
+    .test-layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(320px, 420px);
+      gap: 20px;
+      align-items: start;
+    }
+
+    .test-panel {
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: white;
+      box-shadow: 0 2px 8px rgba(23, 43, 77, 0.05);
+      padding: 18px;
+    }
+
+    .test-panel h2,
+    .test-panel h3 {
+      margin: 0 0 12px;
+      color: var(--ink);
+    }
+
+    .page-stack,
+    .candidate-list,
+    .asset-list {
+      display: grid;
+      gap: 14px;
+    }
+
+    .candidate-card,
+    .asset-card {
+      display: grid;
+      gap: 8px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: #fbfdff;
+      padding: 12px;
+    }
+
+    .candidate-card strong {
+      color: var(--blue);
+      font-size: 1.05rem;
+    }
+
+    .candidate-card small,
+    .asset-card small {
+      color: var(--muted);
+      font-weight: 800;
+    }
+
+    .candidate-card pre {
+      max-height: 150px;
+      margin: 0;
+      overflow: auto;
+      white-space: pre-wrap;
+      color: var(--text);
+      font-family: inherit;
+      line-height: 1.5;
+    }
+
+    .asset-card img {
+      max-width: 100%;
+      max-height: 180px;
+      object-fit: contain;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: white;
+    }
+
+    @media (max-width: 980px) {
+      .test-layout {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="app-shell">
+    <nav class="top-actions" aria-label="頁面操作">
+      <a class="secondary-btn" href="./index.html">回首頁</a>
+    </nav>
+
+    <section class="screen-card">
+      <header class="screen-header">
+        <h1>PyMuPDF 提取測試</h1>
+        <p>115 國文國綜小範圍測試：只檢查原始頁面圖、文字座標、圖片與候選題組，不取代正式題庫。</p>
+      </header>
+
+      <section class="screen-body">
+        <div class="stats-grid" id="summary"></div>
+        <div class="test-layout">
+          <section class="test-panel">
+            <h2>300dpi 頁面圖</h2>
+            <div class="page-stack" id="pages"></div>
+          </section>
+          <aside class="test-panel">
+            <h2>候選題組</h2>
+            <div class="candidate-list" id="candidates"></div>
+            <h2 style="margin-top: 20px;">抽出圖片</h2>
+            <div class="asset-list" id="assets"></div>
+          </aside>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <script>
+    const base = "../data/pymupdf-tests/115-chinese/";
+
+    async function loadJson(file) {
+      const response = await fetch(base + file);
+      if (!response.ok) throw new Error(`${file} 載入失敗`);
+      return response.json();
+    }
+
+    function statCard(label, value, note) {
+      return `
+        <article class="stat-card">
+          <span>${label}</span>
+          <strong>${value}</strong>
+          <small>${note}</small>
+        </article>
+      `;
+    }
+
+    function preview(text) {
+      return (text || "").slice(0, 320);
+    }
+
+    async function init() {
+      const [pages, raw, candidates] = await Promise.all([
+        loadJson("pages.json"),
+        loadJson("questions_raw.json"),
+        loadJson("question_candidates.json")
+      ]);
+      const images = raw.filter(item => item.type === "image");
+      const drawings = raw.filter(item => item.type === "drawing");
+
+      document.getElementById("summary").innerHTML = [
+        statCard("頁面", pages.length, "本次測試範圍"),
+        statCard("Raw items", raw.length, "文字、圖片、線條"),
+        statCard("候選", candidates.length, "題號規則初稿"),
+      ].join("");
+
+      document.getElementById("pages").innerHTML = pages.map(page => `
+        <article>
+          <h3>PDF 第 ${page.page} 頁</h3>
+          <img class="official-page-image" src="${base}${page.png}" alt="PDF 第 ${page.page} 頁">
+        </article>
+      `).join("");
+
+      document.getElementById("candidates").innerHTML = candidates.map(candidate => `
+        <article class="candidate-card">
+          <strong>${candidate.label}</strong>
+          <small>頁面 ${candidate.pages.join(", ")}｜items ${candidate.itemCount}｜圖片 ${candidate.imageCount}｜線條 ${candidate.drawings}</small>
+          <pre>${preview(candidate.content)}</pre>
+        </article>
+      `).join("");
+
+      document.getElementById("assets").innerHTML = images.length ? images.map(image => `
+        <article class="asset-card">
+          <img src="${base}${image.src}" alt="PDF 圖片 ${image.src}">
+          <small>PDF 第 ${image.page} 頁｜bbox ${image.bbox.join(", ")}</small>
+        </article>
+      `).join("") : `<div class="empty">這個範圍沒有抽出獨立圖片；表格框線會列為 drawing，本次共有 ${drawings.length} 個 drawing。</div>`;
+    }
+
+    init().catch(error => {
+      document.querySelector(".screen-body").innerHTML = `<div class="empty">${error.message}</div>`;
+    });
+  </script>
+</body>
+</html>

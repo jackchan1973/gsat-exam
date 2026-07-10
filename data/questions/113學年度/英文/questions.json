@@ -1,0 +1,686 @@
+{
+  "科目": "英文",
+  "年度": "113",
+  "來源": {
+    "試題": "資料/大考中心官方PDF/113學年度/英文/113學測-英文-試題內容-02-113學測英文科定稿.pdf",
+    "答案": "資料/大考中心官方PDF/113學年度/英文/113學測-英文-選擇題答案-02-113學測英文答案.pdf"
+  },
+  "說明": "本題庫題目、選項、文章與答案均取自官方 PDF，未改寫或補完。空格以 {{題號}} 標記。",
+  "統計": {
+    "互動題數": 47,
+    "題組數": 8,
+    "單題數": 10,
+    "未納入互動": 5
+  },
+  "題組": [
+    {
+      "題組ID": "113-英文-11-15",
+      "題型": "綜合測驗",
+      "題號範圍": [
+        11,
+        15
+      ],
+      "共用資料": {
+        "類型": "passage",
+        "內容": "Mystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers {{11}} regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores {{12}} they are assigned. When evaluating a business, mystery shoppers have to follow certain standard procedures to avoid {{13}} . They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their “normal” observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be {{14}} customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for {{15}} and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
+        "處理方式": "純文字，空格以 {{題號}} 標記"
+      },
+      "題目": [
+        {
+          "題號": 11,
+          "作答模式": "單選",
+          "題幹文字": "第 11 格",
+          "選項": {
+            "A": "call for",
+            "B": "pose as",
+            "C": "attend to",
+            "D": "engage in"
+          },
+          "答案": "B"
+        },
+        {
+          "題號": 12,
+          "作答模式": "單選",
+          "題幹文字": "第 12 格",
+          "選項": {
+            "A": "in that",
+            "B": "with which",
+            "C": "for that",
+            "D": "to which"
+          },
+          "答案": "D"
+        },
+        {
+          "題號": 13,
+          "作答模式": "單選",
+          "題幹文字": "第 13 格",
+          "選項": {
+            "A": "keen competitions",
+            "B": "financial hardship",
+            "C": "racial conflicts",
+            "D": "personal bias"
+          },
+          "答案": "D"
+        },
+        {
+          "題號": 14,
+          "作答模式": "單選",
+          "題幹文字": "第 14 格",
+          "選項": {
+            "A": "difficult",
+            "B": "potential",
+            "C": "constant",
+            "D": "anonymous"
+          },
+          "答案": "A"
+        },
+        {
+          "題號": 15,
+          "作答模式": "單選",
+          "題幹文字": "第 15 格",
+          "選項": {
+            "A": "distribution",
+            "B": "expectation",
+            "C": "improvement",
+            "D": "management"
+          },
+          "答案": "C"
+        }
+      ]
+    },
+    {
+      "題組ID": "113-英文-16-20",
+      "題型": "綜合測驗",
+      "題號範圍": [
+        16,
+        20
+      ],
+      "共用資料": {
+        "類型": "passage",
+        "內容": "The modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day’s work. But how did people get to work on time before alarm clocks were widely used? During the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They {{16}} alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a “knocker-up.” {{17}} sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work. Whether they wielded rods or pea shooters, knockers-up became {{18}} throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people’s houses until they were sure their customers were awake. While the practice continued in some parts of the country until the 1970s, it {{19}} as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot {{20}} the personal attention coming from the distinctive tap of a pea shooter.",
+        "處理方式": "純文字，空格以 {{題號}} 標記"
+      },
+      "題目": [
+        {
+          "題號": 16,
+          "作答模式": "單選",
+          "題幹文字": "第 16 格",
+          "選項": {
+            "A": "must be using",
+            "B": "could have used",
+            "C": "had hardly used",
+            "D": "were mostly using"
+          },
+          "答案": "B"
+        },
+        {
+          "題號": 17,
+          "作答模式": "單選",
+          "題幹文字": "第 17 格",
+          "選項": {
+            "A": "Aimed at",
+            "B": "Trained for",
+            "C": "Equipped with",
+            "D": "Exhausted by"
+          },
+          "答案": "C"
+        },
+        {
+          "題號": 18,
+          "作答模式": "單選",
+          "題幹文字": "第 18 格",
+          "選項": {
+            "A": "familiar presences",
+            "B": "distant memories",
+            "C": "vague images",
+            "D": "public eyesores"
+          },
+          "答案": "A"
+        },
+        {
+          "題號": 19,
+          "作答模式": "單選",
+          "題幹文字": "第 19 格",
+          "選項": {
+            "A": "remained",
+            "B": "dismissed",
+            "C": "revised",
+            "D": "declined"
+          },
+          "答案": "D"
+        },
+        {
+          "題號": 20,
+          "作答模式": "單選",
+          "題幹文字": "第 20 格",
+          "選項": {
+            "A": "forget",
+            "B": "change",
+            "C": "match",
+            "D": "regret"
+          },
+          "答案": "C"
+        }
+      ]
+    },
+    {
+      "題組ID": "113-英文-21-30",
+      "題型": "文意選填",
+      "題號範圍": [
+        21,
+        30
+      ],
+      "共用資料": {
+        "類型": "passage+wordbank",
+        "文章": "On a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind. The lonely “wind phone” serves to connect family members to their {{21}} loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those they have lost, to say the words they never got to say on that {{22}} day. The idea for the wind phone was first {{23}} by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private space to help him navigate through the {{24}} , Sasaki positioned a booth where he could “speak” to the dead relative. The booth he built {{25}} only an old dial phone with a disconnected phone line. When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him. Sasaki stated in an interview: “Because my thoughts couldn’t be {{26}} through a regular phone line, I wanted them to be carried on the wind.” Hence, the wind phone allows Sasaki to create a one- way conversation with deep, soulful personal meaning, and renders the grieving process more {{27}} for him. Sasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the phone gradually spread, and the booth has become a {{28}} between the living and the dead. Phones resembling the wind phone have since been built around the world. Some were even set up to allow people to call their loved ones lost in the COVID-19 pandemic. Grieving is a natural {{29}} for coping with loss of a loved one, and people grieve in various ways. For those who speak into the wind phone, {{30}} is always there: They believe that their messages will— through some unknown way—reach the deceased.",
+        "字庫": {
+          "A": "passed on",
+          "B": "bridge",
+          "C": "sorrow",
+          "D": "hope",
+          "E": "departed",
+          "F": "mechanism",
+          "G": "housed",
+          "H": "manageable",
+          "I": "fateful",
+          "J": "brought forth"
+        },
+        "處理方式": "文章空格以 {{題號}} 標記，字庫為全題組共用選項"
+      },
+      "題目": [
+        {
+          "題號": 21,
+          "作答模式": "單選(共用字庫)",
+          "題幹文字": "第 21 格",
+          "答案": "E"
+        },
+        {
+          "題號": 22,
+          "作答模式": "單選(共用字庫)",
+          "題幹文字": "第 22 格",
+          "答案": "I"
+        },
+        {
+          "題號": 23,
+          "作答模式": "單選(共用字庫)",
+          "題幹文字": "第 23 格",
+          "答案": "J"
+        },
+        {
+          "題號": 24,
+          "作答模式": "單選(共用字庫)",
+          "題幹文字": "第 24 格",
+          "答案": "C"
+        },
+        {
+          "題號": 25,
+          "作答模式": "單選(共用字庫)",
+          "題幹文字": "第 25 格",
+          "答案": "G"
+        },
+        {
+          "題號": 26,
+          "作答模式": "單選(共用字庫)",
+          "題幹文字": "第 26 格",
+          "答案": "A"
+        },
+        {
+          "題號": 27,
+          "作答模式": "單選(共用字庫)",
+          "題幹文字": "第 27 格",
+          "答案": "H"
+        },
+        {
+          "題號": 28,
+          "作答模式": "單選(共用字庫)",
+          "題幹文字": "第 28 格",
+          "答案": "B"
+        },
+        {
+          "題號": 29,
+          "作答模式": "單選(共用字庫)",
+          "題幹文字": "第 29 格",
+          "答案": "F"
+        },
+        {
+          "題號": 30,
+          "作答模式": "單選(共用字庫)",
+          "題幹文字": "第 30 格",
+          "答案": "D"
+        }
+      ]
+    },
+    {
+      "題組ID": "113-英文-31-34",
+      "題型": "篇章結構",
+      "題號範圍": [
+        31,
+        34
+      ],
+      "共用資料": {
+        "類型": "passage+sentencebank",
+        "文章": "While Dr. Weinstein, a surgeon at Dartmouth College, was trying to lift a heavy box, he twisted his back. The pain was agonizing. The surgeon could not sit, and when he lay down he could barely get up. So he decided to go out for a run. He took an aspirin, iced the injured area, and off he went. When he returned, he felt “pretty good.” {{31}} When people have sprained a muscle or tendon, they are usually advised not to go right back to exercising until the pain goes away. But Dr. Weinstein says that approach is outdated and counterproductive. In fact, when active people consult him, he usually tells them to just keep exercising. Dr. Weinstein is not alone in his treatment of sports injury, but the specific advice can differ from specialist to specialist. {{32}} They nevertheless caution that a cutback may be necessary, such as running shorter distances or going more slowly. Others say the patients may need to engage in sports outside of their usual, main sport (that is, to cross-train), at least some of the time. Still others say the safest thing to do is cross-train all the time until the pain is gone. {{33}} Their consensus, however, is that unless the injury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually speed healing. {{34}} Thus, more and more patients are now advised to keep moving despite the pain. The rule of thumb, however, is to see a doctor first and get an accurate diagnosis. If a serious injury is ruled out and the pain is not getting worse after exercising, then the exercise “makes a lot of sense.”",
+        "句庫": {
+          "A": "For example, an injured runner might end up cycling and swimming instead of running.",
+          "B": "Over time, researchers have come to realize the importance of exercising when injured.",
+          "C": "Many suggest that most patients can continue with the sport they love.",
+          "D": "This seems to run counter to the common practice."
+        },
+        "處理方式": "文章空格以 {{題號}} 標記，句庫為全題組共用選項"
+      },
+      "題目": [
+        {
+          "題號": 31,
+          "作答模式": "單選(共用句庫)",
+          "題幹文字": "第 31 空格",
+          "答案": "D"
+        },
+        {
+          "題號": 32,
+          "作答模式": "單選(共用句庫)",
+          "題幹文字": "第 32 空格",
+          "答案": "C"
+        },
+        {
+          "題號": 33,
+          "作答模式": "單選(共用句庫)",
+          "題幹文字": "第 33 空格",
+          "答案": "A"
+        },
+        {
+          "題號": 34,
+          "作答模式": "單選(共用句庫)",
+          "題幹文字": "第 34 空格",
+          "答案": "B"
+        }
+      ]
+    },
+    {
+      "題組ID": "113-英文-35-38",
+      "題型": "閱讀測驗",
+      "題號範圍": [
+        35,
+        38
+      ],
+      "共用資料": {
+        "類型": "passage",
+        "內容": "One fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog’s fur and his pants. He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on. Upon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses. De Mestral’s first challenge was finding a fabric for a strong bonding system. He first tried cotton, but it proved too soft and could not withstand repeated openings and closures. After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance. By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed. Named “Velcro,” from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955. De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States. Initially Velcro did not fare well. As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment. In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts. Today, de Mestral’s design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons’ gowns. Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device."
+      },
+      "題目": [
+        {
+          "題號": 35,
+          "作答模式": "單選",
+          "題幹文字": "Which of the following pictures shows de Mestral’s invention?",
+          "選項": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "答案": "B",
+          "選項圖片": {
+            "A": "images/113學年度/英文/q35_A.png",
+            "B": "images/113學年度/英文/q35_B.png",
+            "C": "images/113學年度/英文/q35_C.png",
+            "D": "images/113學年度/英文/q35_D.png"
+          },
+          "備註": "看圖選項，四張圖裁自官方 PDF"
+        },
+        {
+          "題號": 36,
+          "作答模式": "單選",
+          "題幹文字": "What does the author mean by “a lightbulb moment” in the first paragraph?",
+          "選項": {
+            "A": "A blessing in disguise.",
+            "B": "A happy ending.",
+            "C": "An unpredictable future.",
+            "D": "A sudden inspiration."
+          },
+          "答案": "D"
+        },
+        {
+          "題號": 37,
+          "作答模式": "單選",
+          "題幹文字": "Which of the following statements about Velcro is true?",
+          "選項": {
+            "A": "It has been a market favorite since its first appearance.",
+            "B": "Cotton was not durable enough to be used as its materials.",
+            "C": "It was given a French name because it was first produced in France.",
+            "D": "The design was intended to look as shiny and smooth as velvet."
+          },
+          "答案": "B"
+        },
+        {
+          "題號": 38,
+          "作答模式": "單選",
+          "題幹文字": "Which of the following fields is NOT mentioned for Velcro uses in the passage?",
+          "選項": {
+            "A": "Civil engineering.",
+            "B": "Aerospace industry.",
+            "C": "Medical technology.",
+            "D": "Sports and recreation."
+          },
+          "答案": "A"
+        }
+      ]
+    },
+    {
+      "題組ID": "113-英文-39-42",
+      "題型": "閱讀測驗",
+      "題號範圍": [
+        39,
+        42
+      ],
+      "共用資料": {
+        "類型": "passage",
+        "內容": "Thomas Moran, a famous painter in the 19th century, played an important role in the establishment of American national parks. His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks. Moran came to the United States at age 7 with his family and settled in Philadelphia. They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was “a dark, unattractive hole” and the river running through it was a string of dirty water. That was all the nature that Moran knew. Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner. There was plenty of landscape for him to paint in America, much different from his hometown. Showing great talent in painting, Moran was soon hired as an illustrator at Scribner’s Monthly, and later appointed chief illustrator by age 34. In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself. In 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson. For two weeks he filled his sketchbook with the landscape’s most stunning sights. Moran’s watercolors—the first color renderings of the area—as well as Jackson’s photos and the survey results were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress members. In March 1872, lawmakers officially made Yellowstone a national park, the world’s first. Before Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground. Since the painter’s work appeared, Yellowstone National Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted a dozen other areas that would become national parks or monuments."
+      },
+      "題目": [
+        {
+          "題號": 39,
+          "作答模式": "單選",
+          "題幹文字": "What can we learn from the passage?",
+          "選項": {
+            "A": "How national parks around the world were established.",
+            "B": "How Yellowstone’s natural features were formed.",
+            "C": "Why Moran’s family moved to the United States.",
+            "D": "Why Moran started painting Yellowstone."
+          },
+          "答案": "D"
+        },
+        {
+          "題號": 40,
+          "作答模式": "單選",
+          "題幹文字": "Why does the author use “the blackened heart” in paragraph 2 to describe Moran’s hometown?",
+          "選項": {
+            "A": "The place was severely polluted.",
+            "B": "The town was filled with darkened holes.",
+            "C": "There were many evil-hearted industry owners.",
+            "D": "The laborers mostly wore dark and dirty uniforms."
+          },
+          "答案": "A"
+        },
+        {
+          "題號": 41,
+          "作答模式": "單選",
+          "題幹文字": "Which of the following statements is true about the Yellowstone National Park?",
+          "選項": {
+            "A": "Its establishment was proposed by Langford.",
+            "B": "Americans knew little about its beauty before the 1870s.",
+            "C": "The government project was started due to its rich natural resources.",
+            "D": "It was the only national park established because of Moran’s works."
+          },
+          "答案": "B"
+        },
+        {
+          "題號": 42,
+          "作答模式": "單選",
+          "題幹文字": "What can be inferred from the passage?",
+          "選項": {
+            "A": "Scribner’s Monthly was a magazine promoting national parks.",
+            "B": "Moran had visited Yellowstone before he started painting its landscapes.",
+            "C": "Color photos were not common when Moran started painting Yellowstone.",
+            "D": "Watercolor was the most popular form of landscape painting in the 19th century."
+          },
+          "答案": "C"
+        }
+      ]
+    },
+    {
+      "題組ID": "113-英文-43-46",
+      "題型": "閱讀測驗",
+      "題號範圍": [
+        43,
+        46
+      ],
+      "共用資料": {
+        "類型": "passage",
+        "內容": "In 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The electrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive burns can be fatal. But Oddsson’s life was saved by a creative invention: transplanting codfish skins onto human bodies. A triumph for medical technology, Oddsson’s fish skin transplantation was actually part of the astonishing achievement of “100% Fish,” an ambitious task in promoting environmental efficiency. The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products. Reducing waste of fish catch has become a serious issue today, when many countries are faced with food crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson’s case. Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus. The Icelandic success is accomplished largely through cooperative efforts across various industries. 100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams. By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible. The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide."
+      },
+      "題目": [
+        {
+          "題號": 43,
+          "作答模式": "單選",
+          "題幹文字": "What is the primary goal of 100% Fish?",
+          "選項": {
+            "A": "To advance ocean technology.",
+            "B": "To reduce food crises worldwide.",
+            "C": "To enhance cross-industry cooperation.",
+            "D": "To make the most of marine resources."
+          },
+          "答案": "D"
+        },
+        {
+          "題號": 44,
+          "作答模式": "單選",
+          "題幹文字": "What does “this pioneering procedure” in the second paragraph refer to?",
+          "選項": {
+            "A": "100% Fish’s mission.",
+            "B": "Oddsson’s skin transplant.",
+            "C": "A fundamental change in seafood business.",
+            "D": "A new approach to protect the environment."
+          },
+          "答案": "B"
+        },
+        {
+          "題號": 45,
+          "作答模式": "單選",
+          "題幹文字": "Which of the following is true according to the passage?",
+          "選項": {
+            "A": "Iceland has increased their fish catch by 30% in the last 20 years.",
+            "B": "Petur Oddsson was an important member of the Icelandic project.",
+            "C": "Cross-field collaboration has proved to be very fruitful for 100% Fish.",
+            "D": "100% Fish is a big international enterprise marketing seafood products."
+          },
+          "答案": "C"
+        },
+        {
+          "題號": 46,
+          "作答模式": "單選",
+          "題幹文字": "Here is a sentence: “Almost nothing of a fish is left for the trash bin.” Which paragraph is most suitable to have it as the final sentence?",
+          "選項": {
+            "A": "Paragraph 1.",
+            "B": "Paragraph 2.",
+            "C": "Paragraph 3.",
+            "D": "Paragraph 4."
+          },
+          "答案": "C"
+        }
+      ]
+    },
+    {
+      "題組ID": "113-英文-47-50",
+      "題型": "混合題",
+      "題號範圍": [
+        47,
+        50
+      ],
+      "共用資料": {
+        "類型": "image",
+        "內容": "images/113學年度/英文/group_47_50_passage.png",
+        "處理方式": "雙欄版面無法可靠重建，裁官方 PDF 區域為圖"
+      },
+      "題目": [
+        {
+          "題號": 49,
+          "作答模式": "多選",
+          "題幹文字": "From (A) to (F) below, choose the ONES that are true for both jackdaws and turtle ants.（多選題，4分）",
+          "選項": {
+            "A": "They have special strategies to locate food sources.",
+            "B": "They have complex interactions led by a leader.",
+            "C": "They share information with their group members.",
+            "D": "They establish rules to stay away from enemies.",
+            "E": "They change their nesting sites from time to time.",
+            "F": "They show behavior governed by a unique system of communication."
+          },
+          "答案": "CF",
+          "備註": "多選題"
+        }
+      ]
+    }
+  ],
+  "單題": [
+    {
+      "題號": 1,
+      "題型": "詞彙題",
+      "作答模式": "單選",
+      "題幹文字": "People who desire a ______ figure should exercise regularly and maintain healthy eating habits.",
+      "選項": {
+        "A": "spicy",
+        "B": "slender",
+        "C": "slight",
+        "D": "slippery"
+      },
+      "答案": "B"
+    },
+    {
+      "題號": 2,
+      "題型": "詞彙題",
+      "作答模式": "單選",
+      "題幹文字": "Watching the sun ______ from a sea of clouds is a must-do activity for all visitors to Ali Mountain.",
+      "選項": {
+        "A": "emerging",
+        "B": "flashing",
+        "C": "rushing",
+        "D": "floating"
+      },
+      "答案": "A"
+    },
+    {
+      "題號": 3,
+      "題型": "詞彙題",
+      "作答模式": "單選",
+      "題幹文字": "Do you know what time the next bus is ______? I’ve been waiting here for more than 30 minutes.",
+      "選項": {
+        "A": "apt",
+        "B": "due",
+        "C": "bound",
+        "D": "docked"
+      },
+      "答案": "B"
+    },
+    {
+      "題號": 4,
+      "題型": "詞彙題",
+      "作答模式": "單選",
+      "題幹文字": "The roasting heat and high ______ made me feel hot and sticky, no matter what I did to cool off.",
+      "選項": {
+        "A": "density",
+        "B": "humidity",
+        "C": "circulation",
+        "D": "atmosphere"
+      },
+      "答案": "B"
+    },
+    {
+      "題號": 5,
+      "題型": "詞彙題",
+      "作答模式": "單選",
+      "題幹文字": "Artwork created by truly great artists such as Picasso and Monet will no doubt ______ the test of time.",
+      "選項": {
+        "A": "stay",
+        "B": "take",
+        "C": "serve",
+        "D": "stand"
+      },
+      "答案": "D"
+    },
+    {
+      "題號": 6,
+      "題型": "詞彙題",
+      "作答模式": "單選",
+      "題幹文字": "In some countries, military service is ______ for men only; women do not have to serve in the military.",
+      "選項": {
+        "A": "forceful",
+        "B": "realistic",
+        "C": "compulsory",
+        "D": "distinctive"
+      },
+      "答案": "C"
+    },
+    {
+      "題號": 7,
+      "題型": "詞彙題",
+      "作答模式": "單選",
+      "題幹文字": "The team complained that its leader always took the ______ for all the hard work done by the team members.",
+      "選項": {
+        "A": "advantage",
+        "B": "revenge",
+        "C": "remedy",
+        "D": "credit"
+      },
+      "答案": "D"
+    },
+    {
+      "題號": 8,
+      "題型": "詞彙題",
+      "作答模式": "單選",
+      "題幹文字": "Located at the center of the city, the business hotel ______ not only good service but also convenient public transport.",
+      "選項": {
+        "A": "proposes",
+        "B": "contains",
+        "C": "promises",
+        "D": "confirms"
+      },
+      "答案": "C"
+    },
+    {
+      "題號": 9,
+      "題型": "詞彙題",
+      "作答模式": "單選",
+      "題幹文字": "As blood supplies have fallen to a critically low level, many hospitals are making an ______ for the public to donate blood.",
+      "選項": {
+        "A": "appeal",
+        "B": "approach",
+        "C": "operation",
+        "D": "observation"
+      },
+      "答案": "A"
+    },
+    {
+      "題號": 10,
+      "題型": "詞彙題",
+      "作答模式": "單選",
+      "題幹文字": "David felt disappointed when he found out that he could not choose his study partners, but would be ______ placed in a study group.",
+      "選項": {
+        "A": "eligibly",
+        "B": "randomly",
+        "C": "apparently",
+        "D": "consequently"
+      },
+      "答案": "B"
+    }
+  ],
+  "未納入互動": [
+    {
+      "題號": 47,
+      "題型": "混合題-非選擇(填充)",
+      "原因": "非選擇題，不納入互動作答"
+    },
+    {
+      "題號": 48,
+      "題型": "混合題-非選擇(填充)",
+      "原因": "非選擇題，不納入互動作答"
+    },
+    {
+      "題號": 50,
+      "題型": "混合題-非選擇(簡答)",
+      "原因": "非選擇題，不納入互動作答"
+    },
+    {
+      "題型": "第參部分-中譯英",
+      "原因": "非選擇題，不納入互動"
+    },
+    {
+      "題型": "第參部分-英文作文",
+      "原因": "作文題，不納入互動（僅保留官方 PDF 瀏覽）"
+    }
+  ],
+  "review_flags": [
+    {
+      "位置": "第47-50題共用文章",
+      "題號": "47-50",
+      "原因": "官方為左右雙欄版面，文字抽取交錯無法可靠重建；依規範第5點改用官方 PDF 裁圖，請人工複核。"
+    }
+  ]
+}

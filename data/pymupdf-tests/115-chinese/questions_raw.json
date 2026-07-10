@@ -1,0 +1,6610 @@
+[
+  {
+    "page": 4,
+    "blockIndex": "drawing-1",
+    "y": 38.876,
+    "x": 204.07,
+    "bbox": [
+      204.07,
+      38.876,
+      391.1,
+      56.9
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 4,
+    "blockIndex": 2,
+    "y": 43.463,
+    "x": 204.07,
+    "bbox": [
+      204.07,
+      43.463,
+      393.86,
+      55.685
+    ],
+    "type": "text",
+    "content": "請記得在答題卷簽名欄位以正楷簽全名"
+  },
+  {
+    "page": 4,
+    "blockIndex": 0,
+    "y": 43.703,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      43.703,
+      534.55,
+      70.325
+    ],
+    "type": "text",
+    "content": "第\n3 頁\n115年學測\n共 11 頁\n國語文綜合能力測驗"
+  },
+  {
+    "page": 4,
+    "blockIndex": 3,
+    "y": 86.903,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      86.903,
+      267.1,
+      99.125
+    ],
+    "type": "text",
+    "content": "9-10為題組。閱讀下文，回答9-10題。"
+  },
+  {
+    "page": 4,
+    "blockIndex": "drawing-2",
+    "y": 97.94,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      97.94,
+      121.968,
+      98.42
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 4,
+    "blockIndex": 4,
+    "y": 105.897,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      105.897,
+      530.678,
+      209.795
+    ],
+    "type": "text",
+    "content": "《福爾摩斯新探案》是柯南‧道爾的福爾摩斯系列最後一本短篇小說集。\n其中，〈王冠寶石案〉使用第三人稱的敘述方式，這種寫法，少了華生作為\n敘述者特有的平靜和虔敬，在先前的小說集裡僅見於〈最後致意〉。〈王冠\n寶石案〉不但老套地「把福爾摩斯蠟像擺在窗口」，部分細節也出現疑點。\n一般讀者雖不必像福爾摩斯迷那樣，知道在1903年之前，歌劇《霍夫曼的故事》裡的\n〈威尼斯船歌〉從未出版過任何小提琴獨奏的唱片，但多少知道那個年代的唱片或圓筒\n錄音，不可能持續播五分鐘，掩護福爾摩斯偷聽其他人的對話。"
+  },
+  {
+    "page": 4,
+    "blockIndex": "drawing-5",
+    "y": 109.35,
+    "x": 480.55,
+    "bbox": [
+      480.55,
+      109.35,
+      530.4,
+      157.25
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 4,
+    "blockIndex": 16,
+    "y": 112.719,
+    "x": 484.03,
+    "bbox": [
+      484.03,
+      112.719,
+      530.59,
+      153.736
+    ],
+    "type": "text",
+    "content": "華生：\n福爾摩斯\n的助手。"
+  },
+  {
+    "page": 4,
+    "blockIndex": 5,
+    "y": 213.467,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      213.467,
+      531.07,
+      271.255
+    ],
+    "type": "text",
+    "content": "小說集裡另有兩篇故事由主角福爾摩斯自述，這全新的寫法未替兩篇小說增色。\n〈皮膚變白的軍人〉中有人在麻風病患的床上睡過一夜，竟染上一種不是麻風病卻狀似\n麻風病的疾患，這種巧合實在牽強。又先前的故事說華生太太死於1893年，這故事卻說\n發生在1903年華生結婚期間，福爾摩斯迷於是懷疑善良的華生結過不只一次婚。"
+  },
+  {
+    "page": 4,
+    "blockIndex": 6,
+    "y": 274.907,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      274.907,
+      530.741,
+      317.365
+    ],
+    "type": "text",
+    "content": "至於〈獅鬃毛〉，先別管故事裡的水母是否真那麼危險，問題是，福爾摩斯說他\n原先未發現麥菲遜死於海中生物攻擊，是因為他看到死者的毛巾是乾的，以致誤判死者\n沒下過水。如此說來，麥菲遜與殺人水母纏鬥時，半根頭髮都沒溼嘍……唉！"
+  },
+  {
+    "page": 4,
+    "blockIndex": 7,
+    "y": 320.503,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      320.503,
+      530.81,
+      394.185
+    ],
+    "type": "text",
+    "content": "身為醫生的柯南‧道爾，曾在1891年公開指出科赫宣稱「結核菌素能治療結核病」\n絕不可信。由於當時不少人接受沃羅諾夫醫生發明的回春手術，將動物腺體移植到人類\n身上，他寫下小說集裡的〈爬行人〉，描寫一名著名生理學教授注射了一種據稱能返老\n還童的藥後，出現詭異行為，藉以再次批判現實世界的偽科學。（改寫自馬丁‧費德著，\n柯清心譯《柯南‧道爾所不知道的福爾摩斯》）"
+  },
+  {
+    "page": 4,
+    "blockIndex": 8,
+    "y": 400.683,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      400.683,
+      342.72,
+      412.905
+    ],
+    "type": "text",
+    "content": "9. 上文第三段末尾的「唉」，感嘆的原因最可能是："
+  },
+  {
+    "page": 4,
+    "blockIndex": 9,
+    "y": 416.283,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      416.283,
+      466.85,
+      444.345
+    ],
+    "type": "text",
+    "content": "(A)道爾線索布置顯得片面粗疏\n(B)道爾誇大了水母的生物特性\n(C)福爾摩斯不是善於敘事的人\n(D)福爾摩斯不能坦誠面對錯誤"
+  },
+  {
+    "page": 4,
+    "blockIndex": 10,
+    "y": 450.843,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      450.843,
+      432.77,
+      463.065
+    ],
+    "type": "text",
+    "content": "10. 依據上文，有關柯南•道爾創作福爾摩斯小說，敘述最適當的是："
+  },
+  {
+    "page": 4,
+    "blockIndex": 11,
+    "y": 466.683,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      466.683,
+      485.83,
+      526.205
+    ],
+    "type": "text",
+    "content": "(A)福爾摩斯故事常以華生為敘述者，在改變敘事者時便容易出現寫作的失誤\n(B)小說融入歌劇，若讀者不懂歌劇內容，便無法察覺音樂時間不夠掩護偷聽\n(C)小說出現一些時間的矛盾時，福爾摩斯迷可能會順應錯誤，產生新的解釋\n(D)柯南•道爾總能在作品中呈現醫生專業，並常借用小說批判現實中的醫學"
+  },
+  {
+    "page": 4,
+    "blockIndex": 12,
+    "y": 535.103,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      535.103,
+      278.14,
+      547.325
+    ],
+    "type": "text",
+    "content": "11-13為題組。閱讀下文，回答11-13題。"
+  },
+  {
+    "page": 4,
+    "blockIndex": "drawing-3",
+    "y": 546.14,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      546.14,
+      127.488,
+      546.62
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 4,
+    "blockIndex": 13,
+    "y": 553.857,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      553.857,
+      534.55,
+      611.675
+    ],
+    "type": "text",
+    "content": "從十一世紀末到十六世紀初，西方史家大致都承認這期間是騎士的鼎盛時代，由騎士\n構成西方武力的主體。從國家的觀點來看，騎士與文吏平行，構成國王的左右手，前者\n代表武力，後者代表法律。與此相對，中國的「俠」即使在武力極盛的西漢，也沒有\n成為國家武力的一部分。相反地，「俠」的武力在朝廷眼中是敵對性的，必須加以消滅。"
+  },
+  {
+    "page": 4,
+    "blockIndex": 14,
+    "y": 615.087,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      615.087,
+      530.83,
+      672.895
+    ],
+    "type": "text",
+    "content": "自漢代以來，中國社會一天天走上重文輕武的道路，「俠」作為武力集團終於解體，\n後來甚至也不必然和「武」連在一起。自東漢起，「俠」突破了「武」的領域，成為\n一種超越精神，並進入儒生文士的道德意識中。故論及「俠」對中國文化的影響，不能\n不特別注重「俠」與「士」的關係。"
+  },
+  {
+    "page": 4,
+    "blockIndex": 15,
+    "y": 676.307,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      676.307,
+      531.07,
+      779.961
+    ],
+    "type": "text",
+    "content": "和西方騎士相似，中國古代的「士」一方面承擔著建立和維持政治、文化秩序的\n任務，另一方面又發展出不肯屈服於權威、持「道」以議政的批判傳統。我們通常認定\n這一傳統的來源在儒家，這個判斷大體上是有根據的。然而從東漢名士的集體反抗行動\n來看，「俠」見義勇為的作風有極其重要的影響。當時的黨錮之士在道理上固然以儒家\n為依歸，激昂慷慨的俠節卻提供了他們情感上的動力，後世富於批判精神的儒者也往往\n帶有「俠氣」。這一發展其實也是很自然的，因為儒家傳統中本有一股「狂」的精神，\n能與「俠風」一拍即合。（改寫自余英時〈俠與中國文化〉）"
+  },
+  {
+    "page": 4,
+    "blockIndex": "drawing-4",
+    "y": 702.43,
+    "x": 212.71,
+    "bbox": [
+      212.71,
+      702.43,
+      389.18,
+      702.91
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 4,
+    "blockIndex": 1,
+    "y": 788.515,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      788.515,
+      87.984,
+      799.673
+    ],
+    "type": "text",
+    "content": "- 3 -"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-1",
+    "y": 39.596,
+    "x": 204.07,
+    "bbox": [
+      204.07,
+      39.596,
+      391.1,
+      57.62
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 0,
+    "y": 43.703,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      43.703,
+      534.55,
+      70.325
+    ],
+    "type": "text",
+    "content": "115年學測\n第\n4 頁\n國語文綜合能力測驗\n共 11 頁"
+  },
+  {
+    "page": 5,
+    "blockIndex": 2,
+    "y": 44.183,
+    "x": 204.07,
+    "bbox": [
+      204.07,
+      44.183,
+      393.86,
+      56.405
+    ],
+    "type": "text",
+    "content": "請記得在答題卷簽名欄位以正楷簽全名"
+  },
+  {
+    "page": 5,
+    "blockIndex": 3,
+    "y": 88.823,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      88.823,
+      366.74,
+      101.045
+    ],
+    "type": "text",
+    "content": "11. 依據上文，關於中國古代的「俠」，敘述最適當的是："
+  },
+  {
+    "page": 5,
+    "blockIndex": 4,
+    "y": 105.863,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      105.863,
+      377.78,
+      118.085
+    ],
+    "type": "text",
+    "content": "(A)由於社會重文輕武，導致俠與菁英士人處於對立狀態"
+  },
+  {
+    "page": 5,
+    "blockIndex": 5,
+    "y": 122.933,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      122.933,
+      377.06,
+      135.155
+    ],
+    "type": "text",
+    "content": "(B)俠有激昂慷慨的氣概，可追溯到古代儒家的議政傳統"
+  },
+  {
+    "page": 5,
+    "blockIndex": 6,
+    "y": 139.973,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      139.973,
+      377.06,
+      152.195
+    ],
+    "type": "text",
+    "content": "(C)東漢俠的勢力遠逾以往，乃促成名士的集體反抗行動"
+  },
+  {
+    "page": 5,
+    "blockIndex": 7,
+    "y": 157.013,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      157.013,
+      377.78,
+      169.235
+    ],
+    "type": "text",
+    "content": "(D)俠風狂放進取的一面，與儒者不屈服的批判精神相契"
+  },
+  {
+    "page": 5,
+    "blockIndex": 8,
+    "y": 176.933,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      176.933,
+      372.74,
+      189.155
+    ],
+    "type": "text",
+    "content": "12. 關於①、②是否符合上文寫作策略，最適當的研判是："
+  },
+  {
+    "page": 5,
+    "blockIndex": 9,
+    "y": 193.493,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      193.493,
+      384.98,
+      205.715
+    ],
+    "type": "text",
+    "content": "①以西方騎士為對照，闡述中國之「士」與武力的關係。"
+  },
+  {
+    "page": 5,
+    "blockIndex": 10,
+    "y": 210.553,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      210.553,
+      396.98,
+      222.775
+    ],
+    "type": "text",
+    "content": "②通過儒家思想與俠的比較，說明中國古代俠文化的興衰。"
+  },
+  {
+    "page": 5,
+    "blockIndex": 11,
+    "y": 227.833,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      227.833,
+      406.1,
+      240.055
+    ],
+    "type": "text",
+    "content": "(A)①、②皆符合\n(B)①、②皆不符合"
+  },
+  {
+    "page": 5,
+    "blockIndex": 12,
+    "y": 244.873,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      244.873,
+      442.85,
+      257.095
+    ],
+    "type": "text",
+    "content": "(C)①符合，②不符合\n(D)①不符合，②無法判斷"
+  },
+  {
+    "page": 5,
+    "blockIndex": 13,
+    "y": 264.793,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      264.793,
+      408.74,
+      277.015
+    ],
+    "type": "text",
+    "content": "13. 依據上文，如果想為畫線處提供文獻佐證，最適合引用的是："
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-2",
+    "y": 276.07,
+    "x": 189.91,
+    "bbox": [
+      189.91,
+      276.07,
+      225.934,
+      276.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 14,
+    "y": 281.833,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      281.833,
+      365.78,
+      294.055
+    ],
+    "type": "text",
+    "content": "(A)桀紂之失天下也，失其民也，失其民者，失其心也"
+  },
+  {
+    "page": 5,
+    "blockIndex": 15,
+    "y": 298.903,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      298.903,
+      365.06,
+      311.125
+    ],
+    "type": "text",
+    "content": "(B)殘賊之人，謂之一夫，聞誅一夫紂矣，未聞弒君也"
+  },
+  {
+    "page": 5,
+    "blockIndex": 16,
+    "y": 315.943,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      315.943,
+      437.09,
+      328.165
+    ],
+    "type": "text",
+    "content": "(C)天行有常，不為堯存，不為桀亡，應之以治則吉，應之以亂則凶"
+  },
+  {
+    "page": 5,
+    "blockIndex": 17,
+    "y": 332.983,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      332.983,
+      437.81,
+      345.205
+    ],
+    "type": "text",
+    "content": "(D)紂之不善，不如是之甚也，是以君子惡居下流，天下之惡皆歸焉"
+  },
+  {
+    "page": 5,
+    "blockIndex": 18,
+    "y": 355.783,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      355.783,
+      279.1,
+      368.005
+    ],
+    "type": "text",
+    "content": "14-15為題組。閱讀下表，回答14-15題。"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-3",
+    "y": 366.82,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      366.82,
+      127.968,
+      367.3
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-4",
+    "y": 372.1,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      372.1,
+      83.064,
+      373.06
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-5",
+    "y": 372.1,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      372.1,
+      83.064,
+      373.06
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-6",
+    "y": 372.1,
+    "x": 83.064,
+    "bbox": [
+      83.064,
+      372.1,
+      290.524,
+      373.06
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-7",
+    "y": 372.1,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      372.1,
+      291.48,
+      373.06
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-8",
+    "y": 372.1,
+    "x": 291.48,
+    "bbox": [
+      291.48,
+      372.1,
+      524.35,
+      373.06
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-10",
+    "y": 372.1,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      372.1,
+      525.31,
+      373.06
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-9",
+    "y": 372.1,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      372.1,
+      525.31,
+      373.06
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-11",
+    "y": 373.06,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      373.06,
+      83.064,
+      390.1
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-12",
+    "y": 373.06,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      373.06,
+      291.0,
+      390.1
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-13",
+    "y": 373.06,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      373.06,
+      525.31,
+      390.1
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 19,
+    "y": 377.417,
+    "x": 156.55,
+    "bbox": [
+      156.55,
+      377.417,
+      422.56,
+      388.457
+    ],
+    "type": "text",
+    "content": "量詞的類別\n例子"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-14",
+    "y": 390.096,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      390.096,
+      83.064,
+      391.56
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-29",
+    "y": 390.096,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      390.096,
+      525.31,
+      391.56
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-15",
+    "y": 390.1,
+    "x": 83.064,
+    "bbox": [
+      83.064,
+      390.1,
+      167.352,
+      390.58
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-17",
+    "y": 390.1,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      390.1,
+      168.79,
+      390.58
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-19",
+    "y": 390.1,
+    "x": 168.79,
+    "bbox": [
+      168.79,
+      390.1,
+      212.47,
+      390.58
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-21",
+    "y": 390.1,
+    "x": 212.47,
+    "bbox": [
+      212.47,
+      390.1,
+      213.91,
+      390.58
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-23",
+    "y": 390.1,
+    "x": 213.91,
+    "bbox": [
+      213.91,
+      390.1,
+      290.518,
+      390.58
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-25",
+    "y": 390.1,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      390.1,
+      291.96,
+      390.58
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-27",
+    "y": 390.1,
+    "x": 291.96,
+    "bbox": [
+      291.96,
+      390.1,
+      524.35,
+      390.58
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-16",
+    "y": 391.056,
+    "x": 83.064,
+    "bbox": [
+      83.064,
+      391.056,
+      167.352,
+      391.56
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-18",
+    "y": 391.056,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      391.056,
+      168.79,
+      391.56
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-20",
+    "y": 391.056,
+    "x": 168.79,
+    "bbox": [
+      168.79,
+      391.056,
+      212.47,
+      391.56
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-22",
+    "y": 391.056,
+    "x": 212.47,
+    "bbox": [
+      212.47,
+      391.056,
+      213.91,
+      391.56
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-24",
+    "y": 391.056,
+    "x": 213.91,
+    "bbox": [
+      213.91,
+      391.056,
+      290.518,
+      391.56
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-26",
+    "y": 391.056,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      391.056,
+      291.96,
+      391.56
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-28",
+    "y": 391.056,
+    "x": 291.96,
+    "bbox": [
+      291.96,
+      391.056,
+      524.35,
+      391.56
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-30",
+    "y": 391.56,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      391.56,
+      83.064,
+      408.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-31",
+    "y": 391.56,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      391.56,
+      167.83,
+      408.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-32",
+    "y": 391.56,
+    "x": 212.47,
+    "bbox": [
+      212.47,
+      391.56,
+      212.95,
+      408.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-33",
+    "y": 391.56,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      391.56,
+      291.0,
+      408.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-34",
+    "y": 391.56,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      391.56,
+      525.31,
+      408.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 20,
+    "y": 394.923,
+    "x": 87.864,
+    "bbox": [
+      87.864,
+      394.923,
+      126.65,
+      407.145
+    ],
+    "type": "text",
+    "content": "名量詞"
+  },
+  {
+    "page": 5,
+    "blockIndex": 24,
+    "y": 394.923,
+    "x": 218.23,
+    "bbox": [
+      218.23,
+      394.923,
+      440.21,
+      407.145
+    ],
+    "type": "text",
+    "content": "個體量詞\n個 位 條 張 顆 本 輛 艘"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-35",
+    "y": 408.6,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      408.6,
+      83.064,
+      409.08
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-36",
+    "y": 408.6,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      408.6,
+      167.83,
+      409.08
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-37",
+    "y": 408.6,
+    "x": 212.47,
+    "bbox": [
+      212.47,
+      408.6,
+      212.95,
+      409.08
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-38",
+    "y": 408.6,
+    "x": 212.95,
+    "bbox": [
+      212.95,
+      408.6,
+      290.518,
+      409.08
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-39",
+    "y": 408.6,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      408.6,
+      291.0,
+      409.08
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-40",
+    "y": 408.6,
+    "x": 291.0,
+    "bbox": [
+      291.0,
+      408.6,
+      524.35,
+      409.08
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-41",
+    "y": 408.6,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      408.6,
+      525.31,
+      409.08
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-42",
+    "y": 409.08,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      409.08,
+      83.064,
+      426.12
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-43",
+    "y": 409.08,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      409.08,
+      167.83,
+      426.12
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-44",
+    "y": 409.08,
+    "x": 212.47,
+    "bbox": [
+      212.47,
+      409.08,
+      212.95,
+      426.12
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-45",
+    "y": 409.08,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      409.08,
+      291.0,
+      426.12
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-46",
+    "y": 409.08,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      409.08,
+      525.31,
+      426.12
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 25,
+    "y": 412.443,
+    "x": 218.23,
+    "bbox": [
+      218.23,
+      412.443,
+      366.26,
+      424.665
+    ],
+    "type": "text",
+    "content": "集合量詞\n副 套 打 群"
+  },
+  {
+    "page": 5,
+    "blockIndex": 21,
+    "y": 412.957,
+    "x": 87.864,
+    "bbox": [
+      87.864,
+      412.957,
+      161.302,
+      423.997
+    ],
+    "type": "text",
+    "content": "表示人、事、物"
+  },
+  {
+    "page": 5,
+    "blockIndex": 22,
+    "y": 421.563,
+    "x": 87.864,
+    "bbox": [
+      87.864,
+      421.563,
+      204.67,
+      441.225
+    ],
+    "type": "text",
+    "content": "數量的單位\n專用"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-47",
+    "y": 426.12,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      426.12,
+      83.064,
+      426.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-48",
+    "y": 426.12,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      426.12,
+      167.83,
+      426.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-49",
+    "y": 426.12,
+    "x": 212.47,
+    "bbox": [
+      212.47,
+      426.12,
+      212.95,
+      426.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-50",
+    "y": 426.12,
+    "x": 212.95,
+    "bbox": [
+      212.95,
+      426.12,
+      290.518,
+      426.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-51",
+    "y": 426.12,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      426.12,
+      291.0,
+      426.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-52",
+    "y": 426.12,
+    "x": 291.0,
+    "bbox": [
+      291.0,
+      426.12,
+      524.35,
+      426.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-53",
+    "y": 426.12,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      426.12,
+      525.31,
+      426.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-54",
+    "y": 426.6,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      426.6,
+      83.064,
+      443.64
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-55",
+    "y": 426.6,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      426.6,
+      167.83,
+      443.64
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-56",
+    "y": 426.6,
+    "x": 212.47,
+    "bbox": [
+      212.47,
+      426.6,
+      212.95,
+      443.64
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-57",
+    "y": 426.6,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      426.6,
+      291.0,
+      443.64
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-58",
+    "y": 426.6,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      426.6,
+      525.31,
+      443.64
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 26,
+    "y": 429.963,
+    "x": 218.23,
+    "bbox": [
+      218.23,
+      429.963,
+      414.29,
+      442.185
+    ],
+    "type": "text",
+    "content": "度量衡量詞\n公尺 公斤 公升 公頃"
+  },
+  {
+    "page": 5,
+    "blockIndex": 23,
+    "y": 438.603,
+    "x": 177.91,
+    "bbox": [
+      177.91,
+      438.603,
+      204.67,
+      450.825
+    ],
+    "type": "text",
+    "content": "量詞"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-59",
+    "y": 443.64,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      443.64,
+      83.064,
+      444.12
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-60",
+    "y": 443.64,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      443.64,
+      167.83,
+      444.12
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-61",
+    "y": 443.64,
+    "x": 212.47,
+    "bbox": [
+      212.47,
+      443.64,
+      212.95,
+      444.12
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-62",
+    "y": 443.64,
+    "x": 212.95,
+    "bbox": [
+      212.95,
+      443.64,
+      290.518,
+      444.12
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-63",
+    "y": 443.64,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      443.64,
+      291.0,
+      444.12
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-64",
+    "y": 443.64,
+    "x": 291.0,
+    "bbox": [
+      291.0,
+      443.64,
+      524.35,
+      444.12
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-65",
+    "y": 443.64,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      443.64,
+      525.31,
+      444.12
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-66",
+    "y": 444.12,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      444.12,
+      83.064,
+      461.16
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-67",
+    "y": 444.12,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      444.12,
+      167.83,
+      461.16
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-68",
+    "y": 444.12,
+    "x": 212.47,
+    "bbox": [
+      212.47,
+      444.12,
+      212.95,
+      461.16
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-69",
+    "y": 444.12,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      444.12,
+      291.0,
+      461.16
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-70",
+    "y": 444.12,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      444.12,
+      525.31,
+      461.16
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 27,
+    "y": 447.483,
+    "x": 218.23,
+    "bbox": [
+      218.23,
+      447.483,
+      329.28,
+      459.705
+    ],
+    "type": "text",
+    "content": "不定量詞\n些 點"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-71",
+    "y": 461.16,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      461.16,
+      83.064,
+      461.64
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-72",
+    "y": 461.16,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      461.16,
+      167.83,
+      461.64
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-73",
+    "y": 461.16,
+    "x": 212.47,
+    "bbox": [
+      212.47,
+      461.16,
+      212.95,
+      461.64
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-74",
+    "y": 461.16,
+    "x": 212.95,
+    "bbox": [
+      212.95,
+      461.16,
+      290.518,
+      461.64
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-75",
+    "y": 461.16,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      461.16,
+      291.0,
+      461.64
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-76",
+    "y": 461.16,
+    "x": 291.0,
+    "bbox": [
+      291.0,
+      461.16,
+      524.35,
+      461.64
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-77",
+    "y": 461.16,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      461.16,
+      525.31,
+      461.64
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-78",
+    "y": 461.64,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      461.64,
+      83.064,
+      478.68
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-79",
+    "y": 461.64,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      461.64,
+      167.83,
+      478.68
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-80",
+    "y": 461.64,
+    "x": 212.47,
+    "bbox": [
+      212.47,
+      461.64,
+      212.95,
+      478.68
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-81",
+    "y": 461.64,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      461.64,
+      291.0,
+      478.68
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-82",
+    "y": 461.64,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      461.64,
+      525.31,
+      478.68
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 28,
+    "y": 465.003,
+    "x": 218.23,
+    "bbox": [
+      218.23,
+      465.003,
+      353.3,
+      477.225
+    ],
+    "type": "text",
+    "content": "準量詞\n星期 小時"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-83",
+    "y": 478.676,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      478.676,
+      83.064,
+      479.18
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-84",
+    "y": 478.676,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      478.676,
+      167.83,
+      479.18
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-85",
+    "y": 478.676,
+    "x": 167.83,
+    "bbox": [
+      167.83,
+      478.676,
+      212.47,
+      479.18
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-86",
+    "y": 478.676,
+    "x": 212.47,
+    "bbox": [
+      212.47,
+      478.676,
+      212.95,
+      479.18
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-87",
+    "y": 478.676,
+    "x": 212.95,
+    "bbox": [
+      212.95,
+      478.676,
+      290.518,
+      479.18
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-88",
+    "y": 478.676,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      478.676,
+      291.0,
+      479.18
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-89",
+    "y": 478.676,
+    "x": 291.0,
+    "bbox": [
+      291.0,
+      478.676,
+      524.35,
+      479.18
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-90",
+    "y": 478.676,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      478.676,
+      525.31,
+      479.18
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-91",
+    "y": 479.18,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      479.18,
+      83.064,
+      513.26
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-92",
+    "y": 479.18,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      479.18,
+      167.83,
+      513.26
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-93",
+    "y": 479.18,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      479.18,
+      291.0,
+      513.26
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-94",
+    "y": 479.18,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      479.18,
+      525.31,
+      513.26
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 29,
+    "y": 482.543,
+    "x": 172.87,
+    "bbox": [
+      172.87,
+      482.543,
+      490.87,
+      503.165
+    ],
+    "type": "text",
+    "content": "借用量詞\n腔（一腔熱血）  身（一身傲骨）"
+  },
+  {
+    "page": 5,
+    "blockIndex": 30,
+    "y": 499.583,
+    "x": 296.04,
+    "bbox": [
+      296.04,
+      499.583,
+      490.87,
+      511.805
+    ],
+    "type": "text",
+    "content": "床（一床棉被）  葉（一葉扁舟）"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-95",
+    "y": 513.26,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      513.26,
+      83.064,
+      513.74
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-96",
+    "y": 513.26,
+    "x": 83.064,
+    "bbox": [
+      83.064,
+      513.26,
+      167.352,
+      513.74
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-97",
+    "y": 513.26,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      513.26,
+      167.83,
+      513.74
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-98",
+    "y": 513.26,
+    "x": 167.83,
+    "bbox": [
+      167.83,
+      513.26,
+      290.52,
+      513.74
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-99",
+    "y": 513.26,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      513.26,
+      291.0,
+      513.74
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-100",
+    "y": 513.26,
+    "x": 291.0,
+    "bbox": [
+      291.0,
+      513.26,
+      524.35,
+      513.74
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-101",
+    "y": 513.26,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      513.26,
+      525.31,
+      513.74
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-102",
+    "y": 513.74,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      513.74,
+      83.064,
+      530.78
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-103",
+    "y": 513.74,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      513.74,
+      167.83,
+      530.78
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-104",
+    "y": 513.74,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      513.74,
+      291.0,
+      530.78
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-105",
+    "y": 513.74,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      513.74,
+      525.31,
+      530.78
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 31,
+    "y": 517.103,
+    "x": 87.864,
+    "bbox": [
+      87.864,
+      517.103,
+      126.65,
+      529.325
+    ],
+    "type": "text",
+    "content": "動量詞"
+  },
+  {
+    "page": 5,
+    "blockIndex": 34,
+    "y": 517.103,
+    "x": 172.87,
+    "bbox": [
+      172.87,
+      517.103,
+      440.21,
+      529.325
+    ],
+    "type": "text",
+    "content": "專用量詞\n下 回 次 趟 場 遍 頓 遭"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-106",
+    "y": 530.78,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      530.78,
+      83.064,
+      531.26
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-107",
+    "y": 530.78,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      530.78,
+      167.83,
+      531.26
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-108",
+    "y": 530.78,
+    "x": 167.83,
+    "bbox": [
+      167.83,
+      530.78,
+      290.52,
+      531.26
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-109",
+    "y": 530.78,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      530.78,
+      291.0,
+      531.26
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-110",
+    "y": 530.78,
+    "x": 291.0,
+    "bbox": [
+      291.0,
+      530.78,
+      524.35,
+      531.26
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-111",
+    "y": 530.78,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      530.78,
+      525.31,
+      531.26
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-112",
+    "y": 531.26,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      531.26,
+      83.064,
+      565.34
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-116",
+    "y": 531.26,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      531.26,
+      167.83,
+      565.34
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-119",
+    "y": 531.26,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      531.26,
+      291.0,
+      565.34
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-122",
+    "y": 531.26,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      531.26,
+      525.31,
+      565.34
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 35,
+    "y": 534.623,
+    "x": 172.87,
+    "bbox": [
+      172.87,
+      534.623,
+      478.87,
+      555.245
+    ],
+    "type": "text",
+    "content": "借用量詞\n眼（看一眼）   腳（踢兩腳）"
+  },
+  {
+    "page": 5,
+    "blockIndex": 32,
+    "y": 534.897,
+    "x": 87.864,
+    "bbox": [
+      87.864,
+      534.897,
+      161.33,
+      545.937
+    ],
+    "type": "text",
+    "content": "表示動作次數"
+  },
+  {
+    "page": 5,
+    "blockIndex": 33,
+    "y": 550.943,
+    "x": 87.864,
+    "bbox": [
+      87.864,
+      550.943,
+      126.65,
+      563.165
+    ],
+    "type": "text",
+    "content": "的單位"
+  },
+  {
+    "page": 5,
+    "blockIndex": 36,
+    "y": 551.423,
+    "x": 296.04,
+    "bbox": [
+      296.04,
+      551.423,
+      478.87,
+      563.645
+    ],
+    "type": "text",
+    "content": "刀（切五刀）   口（咬幾口）"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-113",
+    "y": 565.34,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      565.34,
+      83.064,
+      566.3
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-114",
+    "y": 565.34,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      565.34,
+      83.064,
+      566.3
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-115",
+    "y": 565.34,
+    "x": 83.064,
+    "bbox": [
+      83.064,
+      565.34,
+      167.352,
+      566.3
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-117",
+    "y": 565.34,
+    "x": 167.35,
+    "bbox": [
+      167.35,
+      565.34,
+      168.31,
+      566.3
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-118",
+    "y": 565.34,
+    "x": 168.31,
+    "bbox": [
+      168.31,
+      565.34,
+      290.52,
+      566.3
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-120",
+    "y": 565.34,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      565.34,
+      291.48,
+      566.3
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-121",
+    "y": 565.34,
+    "x": 291.48,
+    "bbox": [
+      291.48,
+      565.34,
+      524.35,
+      566.3
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-123",
+    "y": 565.34,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      565.34,
+      525.31,
+      566.3
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-124",
+    "y": 565.34,
+    "x": 524.35,
+    "bbox": [
+      524.35,
+      565.34,
+      525.31,
+      566.3
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 37,
+    "y": 575.933,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      575.933,
+      354.74,
+      588.155
+    ],
+    "type": "text",
+    "content": "14. 依據上表，對右框5個量詞進行分類，最適當的是："
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-125",
+    "y": 592.25,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      592.25,
+      82.584,
+      592.73
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-126",
+    "y": 592.25,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      592.25,
+      82.584,
+      592.73
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-127",
+    "y": 592.25,
+    "x": 82.584,
+    "bbox": [
+      82.584,
+      592.25,
+      110.448,
+      592.73
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-128",
+    "y": 592.25,
+    "x": 110.45,
+    "bbox": [
+      110.45,
+      592.25,
+      110.93,
+      592.73
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-129",
+    "y": 592.25,
+    "x": 110.93,
+    "bbox": [
+      110.93,
+      592.25,
+      200.474,
+      592.73
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-130",
+    "y": 592.25,
+    "x": 200.47,
+    "bbox": [
+      200.47,
+      592.25,
+      200.95,
+      592.73
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-131",
+    "y": 592.25,
+    "x": 200.95,
+    "bbox": [
+      200.95,
+      592.25,
+      290.518,
+      592.73
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-132",
+    "y": 592.25,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      592.25,
+      291.0,
+      592.73
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-133",
+    "y": 592.25,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      592.25,
+      291.0,
+      592.73
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-134",
+    "y": 592.25,
+    "x": 318.84,
+    "bbox": [
+      318.84,
+      592.25,
+      319.32,
+      592.73
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-135",
+    "y": 592.25,
+    "x": 318.84,
+    "bbox": [
+      318.84,
+      592.25,
+      319.32,
+      592.73
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-136",
+    "y": 592.25,
+    "x": 319.32,
+    "bbox": [
+      319.32,
+      592.25,
+      524.59,
+      592.73
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-137",
+    "y": 592.25,
+    "x": 524.59,
+    "bbox": [
+      524.59,
+      592.25,
+      525.07,
+      592.73
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-138",
+    "y": 592.25,
+    "x": 524.59,
+    "bbox": [
+      524.59,
+      592.25,
+      525.07,
+      592.73
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-139",
+    "y": 592.73,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      592.73,
+      82.584,
+      611.21
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-140",
+    "y": 592.73,
+    "x": 110.45,
+    "bbox": [
+      110.45,
+      592.73,
+      110.93,
+      611.21
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-141",
+    "y": 592.73,
+    "x": 200.47,
+    "bbox": [
+      200.47,
+      592.73,
+      200.95,
+      611.21
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-142",
+    "y": 592.73,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      592.73,
+      291.0,
+      611.21
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-143",
+    "y": 592.73,
+    "x": 318.84,
+    "bbox": [
+      318.84,
+      592.73,
+      319.32,
+      611.21
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-144",
+    "y": 592.73,
+    "x": 524.59,
+    "bbox": [
+      524.59,
+      592.73,
+      525.07,
+      611.21
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 38,
+    "y": 595.373,
+    "x": 87.624,
+    "bbox": [
+      87.624,
+      595.373,
+      465.17,
+      608.315
+    ],
+    "type": "text",
+    "content": "名量詞\n動量詞\n\n①夫人與禽各為一「類」。"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-145",
+    "y": 611.21,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      611.21,
+      82.584,
+      611.69
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-146",
+    "y": 611.21,
+    "x": 82.584,
+    "bbox": [
+      82.584,
+      611.21,
+      110.448,
+      611.69
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-147",
+    "y": 611.21,
+    "x": 110.45,
+    "bbox": [
+      110.45,
+      611.21,
+      110.93,
+      611.69
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-148",
+    "y": 611.21,
+    "x": 110.93,
+    "bbox": [
+      110.93,
+      611.21,
+      200.474,
+      611.69
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-149",
+    "y": 611.21,
+    "x": 200.47,
+    "bbox": [
+      200.47,
+      611.21,
+      200.95,
+      611.69
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-150",
+    "y": 611.21,
+    "x": 200.95,
+    "bbox": [
+      200.95,
+      611.21,
+      290.518,
+      611.69
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-151",
+    "y": 611.21,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      611.21,
+      291.0,
+      611.69
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-152",
+    "y": 611.21,
+    "x": 318.84,
+    "bbox": [
+      318.84,
+      611.21,
+      319.32,
+      611.69
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-153",
+    "y": 611.21,
+    "x": 524.59,
+    "bbox": [
+      524.59,
+      611.21,
+      525.07,
+      611.69
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-154",
+    "y": 611.69,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      611.69,
+      82.584,
+      630.17
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-155",
+    "y": 611.69,
+    "x": 110.45,
+    "bbox": [
+      110.45,
+      611.69,
+      110.93,
+      630.17
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-156",
+    "y": 611.69,
+    "x": 200.47,
+    "bbox": [
+      200.47,
+      611.69,
+      200.95,
+      630.17
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-157",
+    "y": 611.69,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      611.69,
+      291.0,
+      630.17
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-158",
+    "y": 611.69,
+    "x": 318.84,
+    "bbox": [
+      318.84,
+      611.69,
+      319.32,
+      630.17
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-159",
+    "y": 611.69,
+    "x": 524.59,
+    "bbox": [
+      524.59,
+      611.69,
+      525.07,
+      630.17
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 39,
+    "y": 614.333,
+    "x": 87.624,
+    "bbox": [
+      87.624,
+      614.333,
+      465.28,
+      627.275
+    ],
+    "type": "text",
+    "content": "(A)\n①②\n③④⑤\n\n②孟嘗君予車五十「乘」。"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-160",
+    "y": 630.17,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      630.17,
+      82.584,
+      630.65
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-161",
+    "y": 630.17,
+    "x": 82.584,
+    "bbox": [
+      82.584,
+      630.17,
+      110.448,
+      630.65
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-162",
+    "y": 630.17,
+    "x": 110.45,
+    "bbox": [
+      110.45,
+      630.17,
+      110.93,
+      630.65
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-163",
+    "y": 630.17,
+    "x": 110.93,
+    "bbox": [
+      110.93,
+      630.17,
+      200.474,
+      630.65
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-164",
+    "y": 630.17,
+    "x": 200.47,
+    "bbox": [
+      200.47,
+      630.17,
+      200.95,
+      630.65
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-165",
+    "y": 630.17,
+    "x": 200.95,
+    "bbox": [
+      200.95,
+      630.17,
+      290.518,
+      630.65
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-166",
+    "y": 630.17,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      630.17,
+      291.0,
+      630.65
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-167",
+    "y": 630.17,
+    "x": 318.84,
+    "bbox": [
+      318.84,
+      630.17,
+      319.32,
+      630.65
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-168",
+    "y": 630.17,
+    "x": 524.59,
+    "bbox": [
+      524.59,
+      630.17,
+      525.07,
+      630.65
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-169",
+    "y": 630.65,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      630.65,
+      82.584,
+      649.13
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-170",
+    "y": 630.65,
+    "x": 110.45,
+    "bbox": [
+      110.45,
+      630.65,
+      110.93,
+      649.13
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-171",
+    "y": 630.65,
+    "x": 200.47,
+    "bbox": [
+      200.47,
+      630.65,
+      200.95,
+      649.13
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-172",
+    "y": 630.65,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      630.65,
+      291.0,
+      649.13
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-173",
+    "y": 630.65,
+    "x": 318.84,
+    "bbox": [
+      318.84,
+      630.65,
+      319.32,
+      649.13
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-174",
+    "y": 630.65,
+    "x": 524.59,
+    "bbox": [
+      524.59,
+      630.65,
+      525.07,
+      649.13
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 40,
+    "y": 633.293,
+    "x": 87.624,
+    "bbox": [
+      87.624,
+      633.293,
+      513.3,
+      646.235
+    ],
+    "type": "text",
+    "content": "(B)\n①②⑤\n③④\n\n③劉姥姥留神打量了黛玉一「番」。"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-175",
+    "y": 649.13,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      649.13,
+      82.584,
+      649.61
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-176",
+    "y": 649.13,
+    "x": 82.584,
+    "bbox": [
+      82.584,
+      649.13,
+      110.448,
+      649.61
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-177",
+    "y": 649.13,
+    "x": 110.45,
+    "bbox": [
+      110.45,
+      649.13,
+      110.93,
+      649.61
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-178",
+    "y": 649.13,
+    "x": 110.93,
+    "bbox": [
+      110.93,
+      649.13,
+      200.474,
+      649.61
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-179",
+    "y": 649.13,
+    "x": 200.47,
+    "bbox": [
+      200.47,
+      649.13,
+      200.95,
+      649.61
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-180",
+    "y": 649.13,
+    "x": 200.95,
+    "bbox": [
+      200.95,
+      649.13,
+      290.518,
+      649.61
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-181",
+    "y": 649.13,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      649.13,
+      291.0,
+      649.61
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-182",
+    "y": 649.13,
+    "x": 318.84,
+    "bbox": [
+      318.84,
+      649.13,
+      319.32,
+      649.61
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-183",
+    "y": 649.13,
+    "x": 524.59,
+    "bbox": [
+      524.59,
+      649.13,
+      525.07,
+      649.61
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-184",
+    "y": 649.606,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      649.606,
+      82.584,
+      668.11
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-185",
+    "y": 649.606,
+    "x": 110.45,
+    "bbox": [
+      110.45,
+      649.606,
+      110.93,
+      668.11
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-186",
+    "y": 649.606,
+    "x": 200.47,
+    "bbox": [
+      200.47,
+      649.606,
+      200.95,
+      668.11
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-187",
+    "y": 649.606,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      649.606,
+      291.0,
+      668.11
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-188",
+    "y": 649.606,
+    "x": 318.84,
+    "bbox": [
+      318.84,
+      649.606,
+      319.32,
+      668.11
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-189",
+    "y": 649.606,
+    "x": 524.59,
+    "bbox": [
+      524.59,
+      649.606,
+      525.07,
+      668.11
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 41,
+    "y": 652.273,
+    "x": 87.624,
+    "bbox": [
+      87.624,
+      652.273,
+      521.94,
+      665.215
+    ],
+    "type": "text",
+    "content": "(C)\n①③⑤\n②④\n\n④見靖驚喜，召坐，環飲十數「巡」。"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-190",
+    "y": 668.11,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      668.11,
+      82.584,
+      668.59
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-191",
+    "y": 668.11,
+    "x": 82.584,
+    "bbox": [
+      82.584,
+      668.11,
+      110.448,
+      668.59
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-192",
+    "y": 668.11,
+    "x": 110.45,
+    "bbox": [
+      110.45,
+      668.11,
+      110.93,
+      668.59
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-193",
+    "y": 668.11,
+    "x": 110.93,
+    "bbox": [
+      110.93,
+      668.11,
+      200.474,
+      668.59
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-194",
+    "y": 668.11,
+    "x": 200.47,
+    "bbox": [
+      200.47,
+      668.11,
+      200.95,
+      668.59
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-195",
+    "y": 668.11,
+    "x": 200.95,
+    "bbox": [
+      200.95,
+      668.11,
+      290.518,
+      668.59
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-196",
+    "y": 668.11,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      668.11,
+      291.0,
+      668.59
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-197",
+    "y": 668.11,
+    "x": 318.84,
+    "bbox": [
+      318.84,
+      668.11,
+      319.32,
+      668.59
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-198",
+    "y": 668.11,
+    "x": 524.59,
+    "bbox": [
+      524.59,
+      668.11,
+      525.07,
+      668.59
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-199",
+    "y": 668.59,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      668.59,
+      82.584,
+      687.07
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-203",
+    "y": 668.59,
+    "x": 110.45,
+    "bbox": [
+      110.45,
+      668.59,
+      110.93,
+      687.07
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-206",
+    "y": 668.59,
+    "x": 200.47,
+    "bbox": [
+      200.47,
+      668.59,
+      200.95,
+      687.07
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-209",
+    "y": 668.59,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      668.59,
+      291.0,
+      687.07
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-212",
+    "y": 668.59,
+    "x": 318.84,
+    "bbox": [
+      318.84,
+      668.59,
+      319.32,
+      687.07
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-216",
+    "y": 668.59,
+    "x": 524.59,
+    "bbox": [
+      524.59,
+      668.59,
+      525.07,
+      687.07
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 42,
+    "y": 671.233,
+    "x": 87.624,
+    "bbox": [
+      87.624,
+      671.233,
+      521.94,
+      684.175
+    ],
+    "type": "text",
+    "content": "(D)\n②④⑤\n①③\n\n⑤或當龍戰三二十「載」，建少功業。"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-200",
+    "y": 687.07,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      687.07,
+      82.584,
+      687.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-201",
+    "y": 687.07,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      687.07,
+      82.584,
+      687.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-202",
+    "y": 687.07,
+    "x": 82.584,
+    "bbox": [
+      82.584,
+      687.07,
+      110.448,
+      687.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-204",
+    "y": 687.07,
+    "x": 110.45,
+    "bbox": [
+      110.45,
+      687.07,
+      110.93,
+      687.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-205",
+    "y": 687.07,
+    "x": 110.93,
+    "bbox": [
+      110.93,
+      687.07,
+      200.474,
+      687.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-207",
+    "y": 687.07,
+    "x": 200.47,
+    "bbox": [
+      200.47,
+      687.07,
+      200.95,
+      687.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-208",
+    "y": 687.07,
+    "x": 200.95,
+    "bbox": [
+      200.95,
+      687.07,
+      290.518,
+      687.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-210",
+    "y": 687.07,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      687.07,
+      291.0,
+      687.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-211",
+    "y": 687.07,
+    "x": 290.52,
+    "bbox": [
+      290.52,
+      687.07,
+      291.0,
+      687.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-213",
+    "y": 687.07,
+    "x": 318.84,
+    "bbox": [
+      318.84,
+      687.07,
+      319.32,
+      687.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-214",
+    "y": 687.07,
+    "x": 318.84,
+    "bbox": [
+      318.84,
+      687.07,
+      319.32,
+      687.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-215",
+    "y": 687.07,
+    "x": 319.32,
+    "bbox": [
+      319.32,
+      687.07,
+      524.59,
+      687.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-217",
+    "y": 687.07,
+    "x": 524.59,
+    "bbox": [
+      524.59,
+      687.07,
+      525.07,
+      687.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-218",
+    "y": 687.07,
+    "x": 524.59,
+    "bbox": [
+      524.59,
+      687.07,
+      525.07,
+      687.55
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 43,
+    "y": 694.273,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      694.273,
+      534.55,
+      706.495
+    ],
+    "type": "text",
+    "content": "15. 依據上表，關於「名量詞中的借用量詞」與「動量詞中的借用量詞」，敘述不適當的是："
+  },
+  {
+    "page": 5,
+    "blockIndex": "drawing-219",
+    "y": 705.55,
+    "x": 460.73,
+    "bbox": [
+      460.73,
+      705.55,
+      497.234,
+      706.03
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 5,
+    "blockIndex": 44,
+    "y": 711.313,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      711.313,
+      437.81,
+      723.535
+    ],
+    "type": "text",
+    "content": "(A)前者與數詞「一」結合時，「一」即表示「滿」、「全」的意思"
+  },
+  {
+    "page": 5,
+    "blockIndex": 45,
+    "y": 728.353,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      728.353,
+      438.77,
+      740.575
+    ],
+    "type": "text",
+    "content": "(B)後者可作為某種行為的次數單位，也表示該行為所憑藉的事物"
+  },
+  {
+    "page": 5,
+    "blockIndex": 46,
+    "y": 745.419,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      745.419,
+      449.09,
+      757.641
+    ],
+    "type": "text",
+    "content": "(C)二者都可將名詞借用為量詞，且須與數詞結合，才會產生量詞意義"
+  },
+  {
+    "page": 5,
+    "blockIndex": 47,
+    "y": 762.219,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      762.219,
+      449.81,
+      774.441
+    ],
+    "type": "text",
+    "content": "(D)二者都可凸顯事物或動作的形象性，藉以營造出鮮明具體的畫面感"
+  },
+  {
+    "page": 5,
+    "blockIndex": 1,
+    "y": 788.515,
+    "x": 510.19,
+    "bbox": [
+      510.19,
+      788.515,
+      534.31,
+      799.673
+    ],
+    "type": "text",
+    "content": "- 4 -"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-1",
+    "y": 38.876,
+    "x": 204.07,
+    "bbox": [
+      204.07,
+      38.876,
+      391.1,
+      56.9
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": 2,
+    "y": 43.463,
+    "x": 204.07,
+    "bbox": [
+      204.07,
+      43.463,
+      393.86,
+      55.685
+    ],
+    "type": "text",
+    "content": "請記得在答題卷簽名欄位以正楷簽全名"
+  },
+  {
+    "page": 10,
+    "blockIndex": 0,
+    "y": 43.703,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      43.703,
+      534.55,
+      70.325
+    ],
+    "type": "text",
+    "content": "第\n9 頁\n115年學測\n共 11 頁\n國語文綜合能力測驗"
+  },
+  {
+    "page": 10,
+    "blockIndex": 3,
+    "y": 88.583,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      88.583,
+      279.1,
+      100.805
+    ],
+    "type": "text",
+    "content": "30-31為題組。閱讀下文，回答30-31題。"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-2",
+    "y": 99.62,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      99.62,
+      127.968,
+      100.1
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-23",
+    "y": 110.55,
+    "x": 181.5,
+    "bbox": [
+      181.5,
+      110.55,
+      531.0,
+      236.5
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-26",
+    "y": 112.5,
+    "x": 182.8,
+    "bbox": [
+      182.8,
+      112.5,
+      200.9,
+      130.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": 67,
+    "y": 116.217,
+    "x": 186.31,
+    "bbox": [
+      186.31,
+      116.217,
+      202.87,
+      127.257
+    ],
+    "type": "text",
+    "content": "甲"
+  },
+  {
+    "page": 10,
+    "blockIndex": 52,
+    "y": 118.137,
+    "x": 208.63,
+    "bbox": [
+      208.63,
+      118.137,
+      526.664,
+      129.177
+    ],
+    "type": "text",
+    "content": "〈出師表〉違異了「表」的典型特質。全篇始於「臣亮言」，"
+  },
+  {
+    "page": 10,
+    "blockIndex": "image-1-1",
+    "y": 122.05,
+    "x": 70.3,
+    "bbox": [
+      70.3,
+      122.05,
+      175.45,
+      164.05
+    ],
+    "type": "image",
+    "src": "images/page-010-img-001-01.jpeg"
+  },
+  {
+    "page": 10,
+    "blockIndex": 53,
+    "y": 135.207,
+    "x": 184.63,
+    "bbox": [
+      184.63,
+      135.207,
+      529.643,
+      146.247
+    ],
+    "type": "text",
+    "content": "但這位說話的「臣」受劉備遺命：「若嗣子可輔，輔之，如其不才，"
+  },
+  {
+    "page": 10,
+    "blockIndex": 54,
+    "y": 152.247,
+    "x": 184.63,
+    "bbox": [
+      184.63,
+      152.247,
+      528.556,
+      163.287
+    ],
+    "type": "text",
+    "content": "君可自取」，其實具有廢立的權柄。文中十三次提及「先帝」，"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-21",
+    "y": 167.0,
+    "x": 67.7,
+    "bbox": [
+      67.7,
+      167.0,
+      171.15,
+      236.4
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": 55,
+    "y": 169.287,
+    "x": 184.63,
+    "bbox": [
+      184.63,
+      169.287,
+      530.775,
+      180.327
+    ],
+    "type": "text",
+    "content": "使「陛下」成了虛位，故「討賊興復之效」乃陛下「託」臣而非「命」臣。"
+  },
+  {
+    "page": 10,
+    "blockIndex": 38,
+    "y": 171.687,
+    "x": 70.824,
+    "bbox": [
+      70.824,
+      171.687,
+      167.321,
+      182.727
+    ],
+    "type": "text",
+    "content": "表，下言於上，故須"
+  },
+  {
+    "page": 10,
+    "blockIndex": 56,
+    "y": 186.087,
+    "x": 184.63,
+    "bbox": [
+      184.63,
+      186.087,
+      526.76,
+      197.127
+    ],
+    "type": "text",
+    "content": "又此表也不以「誠惶誠恐，稽首頓首」結束，而是頗具生離死別意味"
+  },
+  {
+    "page": 10,
+    "blockIndex": 39,
+    "y": 188.727,
+    "x": 70.824,
+    "bbox": [
+      70.824,
+      188.727,
+      167.755,
+      199.767
+    ],
+    "type": "text",
+    "content": "先曰「臣某言」，後曰"
+  },
+  {
+    "page": 10,
+    "blockIndex": 57,
+    "y": 203.127,
+    "x": 184.63,
+    "bbox": [
+      184.63,
+      203.127,
+      529.612,
+      214.167
+    ],
+    "type": "text",
+    "content": "的真情流露：「今當遠離，臨表涕泣，不知所云」，是以格外感人。"
+  },
+  {
+    "page": 10,
+    "blockIndex": 40,
+    "y": 205.527,
+    "x": 70.824,
+    "bbox": [
+      70.824,
+      205.527,
+      167.247,
+      216.567
+    ],
+    "type": "text",
+    "content": "「臣某誠惶誠恐，"
+  },
+  {
+    "page": 10,
+    "blockIndex": 58,
+    "y": 219.193,
+    "x": 184.63,
+    "bbox": [
+      184.63,
+      219.193,
+      531.691,
+      231.415
+    ],
+    "type": "text",
+    "content": "（改寫自柯慶明〈「表」、「奏」作為文學類型之美感特質的研究〉）"
+  },
+  {
+    "page": 10,
+    "blockIndex": 41,
+    "y": 221.593,
+    "x": 70.824,
+    "bbox": [
+      70.824,
+      221.593,
+      139.61,
+      233.815
+    ],
+    "type": "text",
+    "content": "稽首頓首」。"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-22",
+    "y": 249.5,
+    "x": 68.0,
+    "bbox": [
+      68.0,
+      249.5,
+      303.5,
+      429.5
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-24",
+    "y": 249.5,
+    "x": 312.5,
+    "bbox": [
+      312.5,
+      249.5,
+      530.45,
+      429.5
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-27",
+    "y": 251.5,
+    "x": 69.8,
+    "bbox": [
+      69.8,
+      251.5,
+      87.9,
+      269.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-28",
+    "y": 251.5,
+    "x": 314.3,
+    "bbox": [
+      314.3,
+      251.5,
+      332.4,
+      269.6
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": 68,
+    "y": 255.227,
+    "x": 73.224,
+    "bbox": [
+      73.224,
+      255.227,
+      334.44,
+      266.267
+    ],
+    "type": "text",
+    "content": "乙\n丙"
+  },
+  {
+    "page": 10,
+    "blockIndex": 42,
+    "y": 257.147,
+    "x": 95.088,
+    "bbox": [
+      95.088,
+      257.147,
+      298.931,
+      268.187
+    ],
+    "type": "text",
+    "content": "今南方已定，兵甲已足，當獎率三軍，"
+  },
+  {
+    "page": 10,
+    "blockIndex": 59,
+    "y": 257.147,
+    "x": 339.72,
+    "bbox": [
+      339.72,
+      257.147,
+      529.453,
+      268.187
+    ],
+    "type": "text",
+    "content": "陛下即祚，復蒙試用，遂受上將之任，"
+  },
+  {
+    "page": 10,
+    "blockIndex": 43,
+    "y": 274.187,
+    "x": 71.064,
+    "bbox": [
+      71.064,
+      274.187,
+      301.863,
+      285.227
+    ],
+    "type": "text",
+    "content": "北定中原。庶竭駑鈍，攘除姦凶，興復漢室，"
+  },
+  {
+    "page": 10,
+    "blockIndex": 60,
+    "y": 274.187,
+    "x": 315.72,
+    "bbox": [
+      315.72,
+      274.187,
+      526.75,
+      285.227
+    ],
+    "type": "text",
+    "content": "統領二州，內參機事，實所不堪。……臣"
+  },
+  {
+    "page": 10,
+    "blockIndex": 44,
+    "y": 291.227,
+    "x": 71.064,
+    "bbox": [
+      71.064,
+      291.227,
+      302.683,
+      302.267
+    ],
+    "type": "text",
+    "content": "還於舊都，此臣所以報先帝而忠陛下之職分也。"
+  },
+  {
+    "page": 10,
+    "blockIndex": 61,
+    "y": 291.227,
+    "x": 315.72,
+    "bbox": [
+      315.72,
+      291.227,
+      529.57,
+      302.267
+    ],
+    "type": "text",
+    "content": "以區區之質，而當鐘鼎之任；以闇鈍之才，"
+  },
+  {
+    "page": 10,
+    "blockIndex": 45,
+    "y": 308.057,
+    "x": 71.064,
+    "bbox": [
+      71.064,
+      308.057,
+      299.847,
+      319.097
+    ],
+    "type": "text",
+    "content": "至於斟酌損益，進盡忠言，則攸之、禕、允之"
+  },
+  {
+    "page": 10,
+    "blockIndex": 62,
+    "y": 308.057,
+    "x": 315.72,
+    "bbox": [
+      315.72,
+      308.057,
+      526.613,
+      319.097
+    ],
+    "type": "text",
+    "content": "而奉明明之政。顧恩念責，亦臣竭節授命"
+  },
+  {
+    "page": 10,
+    "blockIndex": 46,
+    "y": 325.097,
+    "x": 71.064,
+    "bbox": [
+      71.064,
+      325.097,
+      299.14,
+      336.137
+    ],
+    "type": "text",
+    "content": "任也。願陛下託臣以討賊興復之效，不效，"
+  },
+  {
+    "page": 10,
+    "blockIndex": 63,
+    "y": 325.097,
+    "x": 315.72,
+    "bbox": [
+      315.72,
+      325.097,
+      529.123,
+      336.137
+    ],
+    "type": "text",
+    "content": "之秋也。謹條遵奉舊訓權時之宜十四事，"
+  },
+  {
+    "page": 10,
+    "blockIndex": 47,
+    "y": 342.137,
+    "x": 71.064,
+    "bbox": [
+      71.064,
+      342.137,
+      302.297,
+      353.177
+    ],
+    "type": "text",
+    "content": "則治臣之罪，以告先帝之靈。若無興德之言，"
+  },
+  {
+    "page": 10,
+    "blockIndex": 64,
+    "y": 342.137,
+    "x": 315.72,
+    "bbox": [
+      315.72,
+      342.137,
+      529.366,
+      353.177
+    ],
+    "type": "text",
+    "content": "奏如左，庶以蒸螢增明太陽，言不足採。"
+  },
+  {
+    "page": 10,
+    "blockIndex": 65,
+    "y": 358.183,
+    "x": 315.72,
+    "bbox": [
+      315.72,
+      358.183,
+      432.53,
+      370.405
+    ],
+    "type": "text",
+    "content": "（曹操〈陳損益表〉）"
+  },
+  {
+    "page": 10,
+    "blockIndex": 48,
+    "y": 359.177,
+    "x": 71.064,
+    "bbox": [
+      71.064,
+      359.177,
+      298.972,
+      370.217
+    ],
+    "type": "text",
+    "content": "則責攸之、禕、允等之慢，以彰其咎。陛下"
+  },
+  {
+    "page": 10,
+    "blockIndex": 49,
+    "y": 376.217,
+    "x": 71.064,
+    "bbox": [
+      71.064,
+      376.217,
+      299.62,
+      387.257
+    ],
+    "type": "text",
+    "content": "亦宜自課，以諮諏善道，察納雅言，深追先帝"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-25",
+    "y": 389.8,
+    "x": 325.95,
+    "bbox": [
+      325.95,
+      389.8,
+      527.45,
+      422.8
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": 50,
+    "y": 393.277,
+    "x": 71.064,
+    "bbox": [
+      71.064,
+      393.277,
+      302.491,
+      404.317
+    ],
+    "type": "text",
+    "content": "遺詔，臣不勝受恩感激。今當遠離，臨表涕泣，"
+  },
+  {
+    "page": 10,
+    "blockIndex": 66,
+    "y": 394.046,
+    "x": 329.16,
+    "bbox": [
+      329.16,
+      394.046,
+      524.11,
+      419.417
+    ],
+    "type": "text",
+    "content": "東漢建安元年，曹操迎漢獻帝至許都，受封\n司空，進呈此表。"
+  },
+  {
+    "page": 10,
+    "blockIndex": 51,
+    "y": 409.323,
+    "x": 71.064,
+    "bbox": [
+      71.064,
+      409.323,
+      241.9,
+      421.545
+    ],
+    "type": "text",
+    "content": "不知所云。（諸葛亮〈出師表〉）"
+  },
+  {
+    "page": 10,
+    "blockIndex": 21,
+    "y": 442.923,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      442.923,
+      530.59,
+      455.145
+    ],
+    "type": "text",
+    "content": "30. 「表」是古代官員進言的媒介，自信與謙敬的聲音常並存表中。關於乙、丙文的敘述，"
+  },
+  {
+    "page": 10,
+    "blockIndex": 22,
+    "y": 459.963,
+    "x": 81.864,
+    "bbox": [
+      81.864,
+      459.963,
+      144.65,
+      472.185
+    ],
+    "type": "text",
+    "content": "適當的是："
+  },
+  {
+    "page": 10,
+    "blockIndex": 23,
+    "y": 477.023,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      477.023,
+      401.78,
+      489.245
+    ],
+    "type": "text",
+    "content": "(A)乙文推薦後起新秀擔當內政，並表示若識人不明願受責罰"
+  },
+  {
+    "page": 10,
+    "blockIndex": 24,
+    "y": 494.063,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      494.063,
+      401.06,
+      506.285
+    ],
+    "type": "text",
+    "content": "(B)丙文勇於指出囿於舊訓之十四事應及時揚棄，以重振朝綱"
+  },
+  {
+    "page": 10,
+    "blockIndex": 25,
+    "y": 511.103,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      511.103,
+      401.06,
+      523.325
+    ],
+    "type": "text",
+    "content": "(C)二文均感恩國君禮遇舊臣，在國家需要用人之時賦予重任"
+  },
+  {
+    "page": 10,
+    "blockIndex": 26,
+    "y": 527.903,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      527.903,
+      401.78,
+      540.125
+    ],
+    "type": "text",
+    "content": "(D)二文均謙稱自己能力有限，但願意在當前時局中承擔使命"
+  },
+  {
+    "page": 10,
+    "blockIndex": 27,
+    "y": 544.943,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      544.943,
+      400.58,
+      557.165
+    ],
+    "type": "text",
+    "content": "(E)二文均期許自己為朝廷效力，並盼國君充分授權以為後盾"
+  },
+  {
+    "page": 10,
+    "blockIndex": 28,
+    "y": 564.893,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      564.893,
+      530.35,
+      577.115
+    ],
+    "type": "text",
+    "content": "31. 甲文運用文體知識，深入解讀乙文表層文字下的聲音，若循此方式觀察丙文，關於乙、"
+  },
+  {
+    "page": 10,
+    "blockIndex": 29,
+    "y": 581.933,
+    "x": 81.864,
+    "bbox": [
+      81.864,
+      581.933,
+      324.72,
+      594.155
+    ],
+    "type": "text",
+    "content": "丙文違異「表」的典型特質，敘述適當的是："
+  },
+  {
+    "page": 10,
+    "blockIndex": 30,
+    "y": 598.973,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      598.973,
+      497.83,
+      611.195
+    ],
+    "type": "text",
+    "content": "(A)乙文屢言「先帝」，使「下言於上」的「上」並非唯一，以重申其輔政重任"
+  },
+  {
+    "page": 10,
+    "blockIndex": 31,
+    "y": 616.013,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      616.013,
+      497.11,
+      628.235
+    ],
+    "type": "text",
+    "content": "(B)乙文以「臨表涕泣」取代表的常用套語，使老臣的稟告增添了父執輩的溫度"
+  },
+  {
+    "page": 10,
+    "blockIndex": 32,
+    "y": 633.053,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      633.053,
+      497.11,
+      645.275
+    ],
+    "type": "text",
+    "content": "(C)丙文以「不堪」表達對數項要職難以抉擇的猶豫，也暗示朝廷全仰賴其支撐"
+  },
+  {
+    "page": 10,
+    "blockIndex": 33,
+    "y": 650.113,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      650.113,
+      509.83,
+      662.335
+    ],
+    "type": "text",
+    "content": "(D)丙文以「蒸螢」對比「太陽」，暗諷國君之智遠不如己，流露恃才傲物的性格"
+  },
+  {
+    "page": 10,
+    "blockIndex": 34,
+    "y": 667.153,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      667.153,
+      508.63,
+      679.375
+    ],
+    "type": "text",
+    "content": "(E)二文的進言口吻，雖減省部分常見的應酬詞語，但仍符合身為臣下應有的態度"
+  },
+  {
+    "page": 10,
+    "blockIndex": 35,
+    "y": 691.363,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      691.363,
+      344.88,
+      705.709
+    ],
+    "type": "text",
+    "content": "第貳部分、混合題或非選擇題（占24 分）"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-3",
+    "y": 711.79,
+    "x": 60.744,
+    "bbox": [
+      60.744,
+      711.79,
+      61.464,
+      712.51
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-4",
+    "y": 711.79,
+    "x": 60.744,
+    "bbox": [
+      60.744,
+      711.79,
+      61.464,
+      712.51
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-5",
+    "y": 711.79,
+    "x": 61.464,
+    "bbox": [
+      61.464,
+      711.79,
+      534.214,
+      712.51
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-6",
+    "y": 711.79,
+    "x": 534.22,
+    "bbox": [
+      534.22,
+      711.79,
+      534.94,
+      712.51
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-7",
+    "y": 711.79,
+    "x": 534.22,
+    "bbox": [
+      534.22,
+      711.79,
+      534.94,
+      712.51
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-8",
+    "y": 712.51,
+    "x": 60.744,
+    "bbox": [
+      60.744,
+      712.51,
+      61.464,
+      729.07
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-9",
+    "y": 712.51,
+    "x": 534.22,
+    "bbox": [
+      534.22,
+      712.51,
+      534.94,
+      729.07
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": 36,
+    "y": 714.538,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      714.538,
+      531.79,
+      727.822
+    ],
+    "type": "text",
+    "content": "說明：本部分共有1題組，選擇題每題2分，非選擇題配分標於題末。限在答題卷標示題號"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-10",
+    "y": 729.072,
+    "x": 60.744,
+    "bbox": [
+      60.744,
+      729.072,
+      61.464,
+      746.136
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-11",
+    "y": 729.072,
+    "x": 534.22,
+    "bbox": [
+      534.22,
+      729.072,
+      534.94,
+      746.136
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": 37,
+    "y": 731.604,
+    "x": 99.888,
+    "bbox": [
+      99.888,
+      731.604,
+      531.46,
+      778.728
+    ],
+    "type": "text",
+    "content": "的作答區內作答。\n選擇題使用2B鉛筆作答，更正時以橡皮擦擦拭，切勿使用修正帶（液）。非選擇題\n請由左而右橫式書寫，並依題目指示作答。"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-12",
+    "y": 746.136,
+    "x": 60.744,
+    "bbox": [
+      60.744,
+      746.136,
+      61.464,
+      762.936
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-13",
+    "y": 746.136,
+    "x": 534.22,
+    "bbox": [
+      534.22,
+      746.136,
+      534.94,
+      762.936
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-19",
+    "y": 762.936,
+    "x": 60.744,
+    "bbox": [
+      60.744,
+      762.936,
+      61.464,
+      780.216
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-20",
+    "y": 762.936,
+    "x": 534.22,
+    "bbox": [
+      534.22,
+      762.936,
+      534.94,
+      780.216
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-14",
+    "y": 780.216,
+    "x": 60.744,
+    "bbox": [
+      60.744,
+      780.216,
+      61.464,
+      780.936
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-15",
+    "y": 780.216,
+    "x": 60.744,
+    "bbox": [
+      60.744,
+      780.216,
+      61.464,
+      780.936
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-16",
+    "y": 780.216,
+    "x": 61.464,
+    "bbox": [
+      61.464,
+      780.216,
+      534.214,
+      780.936
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-17",
+    "y": 780.216,
+    "x": 534.22,
+    "bbox": [
+      534.22,
+      780.216,
+      534.94,
+      780.936
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": "drawing-18",
+    "y": 780.216,
+    "x": 534.22,
+    "bbox": [
+      534.22,
+      780.216,
+      534.94,
+      780.936
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 10,
+    "blockIndex": 1,
+    "y": 788.515,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      788.515,
+      87.984,
+      799.673
+    ],
+    "type": "text",
+    "content": "- 9 -"
+  },
+  {
+    "page": 11,
+    "blockIndex": "drawing-1",
+    "y": 39.596,
+    "x": 204.07,
+    "bbox": [
+      204.07,
+      39.596,
+      391.1,
+      57.62
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 11,
+    "blockIndex": 0,
+    "y": 43.703,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      43.703,
+      534.55,
+      70.325
+    ],
+    "type": "text",
+    "content": "115年學測\n第 10 頁\n國語文綜合能力測驗\n共 11 頁"
+  },
+  {
+    "page": 11,
+    "blockIndex": 2,
+    "y": 44.183,
+    "x": 204.07,
+    "bbox": [
+      204.07,
+      44.183,
+      393.86,
+      56.405
+    ],
+    "type": "text",
+    "content": "請記得在答題卷簽名欄位以正楷簽全名"
+  },
+  {
+    "page": 11,
+    "blockIndex": 3,
+    "y": 88.583,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      88.583,
+      288.0,
+      100.805
+    ],
+    "type": "text",
+    "content": "32-36 為題組。閱讀下文，回答32-36 題。"
+  },
+  {
+    "page": 11,
+    "blockIndex": "drawing-2",
+    "y": 100.1,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      100.1,
+      130.848,
+      100.58
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 11,
+    "blockIndex": "image-7-1",
+    "y": 114.0,
+    "x": 214.32,
+    "bbox": [
+      214.32,
+      114.0,
+      307.92,
+      217.92
+    ],
+    "type": "image",
+    "src": "images/page-011-img-007-01.png"
+  },
+  {
+    "page": 11,
+    "blockIndex": "drawing-8",
+    "y": 114.0,
+    "x": 214.43,
+    "bbox": [
+      214.43,
+      114.0,
+      307.88,
+      218.0
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 11,
+    "blockIndex": 54,
+    "y": 115.002,
+    "x": 216.829,
+    "bbox": [
+      216.829,
+      115.002,
+      251.532,
+      130.537
+    ],
+    "type": "text",
+    "content": "聽見"
+  },
+  {
+    "page": 11,
+    "blockIndex": "image-8-1",
+    "y": 132.96,
+    "x": 227.28,
+    "bbox": [
+      227.28,
+      132.96,
+      294.48,
+      199.92
+    ],
+    "type": "image",
+    "src": "images/page-011-img-008-01.png"
+  },
+  {
+    "page": 11,
+    "blockIndex": "drawing-9",
+    "y": 138.137,
+    "x": 63.7,
+    "bbox": [
+      63.7,
+      138.137,
+      205.43,
+      195.68
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 11,
+    "blockIndex": "image-9-1",
+    "y": 138.24,
+    "x": 63.6,
+    "bbox": [
+      63.6,
+      138.24,
+      205.44,
+      195.6
+    ],
+    "type": "image",
+    "src": "images/page-011-img-009-01.png"
+  },
+  {
+    "page": 11,
+    "blockIndex": 56,
+    "y": 142.407,
+    "x": 66.504,
+    "bbox": [
+      66.504,
+      142.407,
+      201.722,
+      153.447
+    ],
+    "type": "text",
+    "content": "在文學與歷史的敘事中，"
+  },
+  {
+    "page": 11,
+    "blockIndex": "drawing-7",
+    "y": 152.376,
+    "x": 315.7,
+    "bbox": [
+      315.7,
+      152.376,
+      531.7,
+      205.1
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 11,
+    "blockIndex": "image-6-1",
+    "y": 152.4,
+    "x": 315.6,
+    "bbox": [
+      315.6,
+      152.4,
+      531.84,
+      205.2
+    ],
+    "type": "image",
+    "src": "images/page-011-img-006-01.png"
+  },
+  {
+    "page": 11,
+    "blockIndex": 51,
+    "y": 156.807,
+    "x": 318.6,
+    "bbox": [
+      318.6,
+      156.807,
+      527.69,
+      167.847
+    ],
+    "type": "text",
+    "content": "「聽見她的聲音」，不僅是在文本中發掘"
+  },
+  {
+    "page": 11,
+    "blockIndex": 57,
+    "y": 159.447,
+    "x": 66.504,
+    "bbox": [
+      66.504,
+      159.447,
+      201.722,
+      170.487
+    ],
+    "type": "text",
+    "content": "女性的聲音長期被忽略、"
+  },
+  {
+    "page": 11,
+    "blockIndex": 52,
+    "y": 173.607,
+    "x": 318.6,
+    "bbox": [
+      318.6,
+      173.607,
+      527.911,
+      184.647
+    ],
+    "type": "text",
+    "content": "女性話語的紀錄，更在於理解女性能否"
+  },
+  {
+    "page": 11,
+    "blockIndex": 58,
+    "y": 175.493,
+    "x": 66.504,
+    "bbox": [
+      66.504,
+      175.493,
+      153.29,
+      187.715
+    ],
+    "type": "text",
+    "content": "壓抑或誤讀……"
+  },
+  {
+    "page": 11,
+    "blockIndex": 53,
+    "y": 189.653,
+    "x": 318.6,
+    "bbox": [
+      318.6,
+      189.653,
+      513.43,
+      201.875
+    ],
+    "type": "text",
+    "content": "主動發聲，或如何被表達、被建構。"
+  },
+  {
+    "page": 11,
+    "blockIndex": 55,
+    "y": 190.613,
+    "x": 256.734,
+    "bbox": [
+      256.734,
+      190.613,
+      308.172,
+      217.0
+    ],
+    "type": "text",
+    "content": "她的聲音"
+  },
+  {
+    "page": 11,
+    "blockIndex": "image-1-1",
+    "y": 230.146,
+    "x": 475.88,
+    "bbox": [
+      475.88,
+      230.146,
+      531.15,
+      286.94
+    ],
+    "type": "image",
+    "src": "images/page-011-img-001-01.jpeg"
+  },
+  {
+    "page": 11,
+    "blockIndex": "drawing-4",
+    "y": 235.29,
+    "x": 63.7,
+    "bbox": [
+      63.7,
+      235.29,
+      481.97,
+      307.54
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 11,
+    "blockIndex": "image-3-1",
+    "y": 235.68,
+    "x": 64.08,
+    "bbox": [
+      64.08,
+      235.68,
+      471.12,
+      307.2
+    ],
+    "type": "image",
+    "src": "images/page-011-img-003-01.png"
+  },
+  {
+    "page": 11,
+    "blockIndex": 38,
+    "y": 240.107,
+    "x": 90.984,
+    "bbox": [
+      90.984,
+      240.107,
+      467.967,
+      251.147
+    ],
+    "type": "text",
+    "content": "我認為：三代王教修明，內外順治，「閨門之事皆可歌詠而傳道之」。所述"
+  },
+  {
+    "page": 11,
+    "blockIndex": 39,
+    "y": 257.147,
+    "x": 66.984,
+    "bbox": [
+      66.984,
+      257.147,
+      468.667,
+      268.187
+    ],
+    "type": "text",
+    "content": "雖「婦人女子之常，而事之至微者」，但「幽閑貞靜之德，隱然寓於其間，"
+  },
+  {
+    "page": 11,
+    "blockIndex": 40,
+    "y": 273.947,
+    "x": 66.984,
+    "bbox": [
+      66.984,
+      273.947,
+      467.69,
+      284.987
+    ],
+    "type": "text",
+    "content": "而足以章明王者之化」。可惜的是，此後女子在史傳作者眼中，必有「非平常"
+  },
+  {
+    "page": 11,
+    "blockIndex": 41,
+    "y": 289.972,
+    "x": 66.984,
+    "bbox": [
+      66.984,
+      289.972,
+      453.896,
+      302.22
+    ],
+    "type": "text",
+    "content": "之行」，乃能「著美名」於後世，導致女性「罕可紀述」，幾近銷聲匿跡。"
+  },
+  {
+    "page": 11,
+    "blockIndex": "drawing-3",
+    "y": 292.291,
+    "x": 484.57,
+    "bbox": [
+      484.57,
+      292.291,
+      526.027,
+      310.05
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 11,
+    "blockIndex": "image-2-1",
+    "y": 292.56,
+    "x": 484.8,
+    "bbox": [
+      484.8,
+      292.56,
+      525.6,
+      309.6
+    ],
+    "type": "image",
+    "src": "images/page-011-img-002-01.png"
+  },
+  {
+    "page": 11,
+    "blockIndex": 37,
+    "y": 295.679,
+    "x": 488.83,
+    "bbox": [
+      488.83,
+      295.679,
+      524.47,
+      306.837
+    ],
+    "type": "text",
+    "content": "歸有光"
+  },
+  {
+    "page": 11,
+    "blockIndex": "drawing-6",
+    "y": 328.4,
+    "x": 63.7,
+    "bbox": [
+      63.7,
+      328.4,
+      81.8,
+      346.5
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 11,
+    "blockIndex": "drawing-5",
+    "y": 328.4,
+    "x": 85.062,
+    "bbox": [
+      85.062,
+      328.4,
+      530.652,
+      483.05
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 11,
+    "blockIndex": "image-4-1",
+    "y": 328.56,
+    "x": 85.2,
+    "bbox": [
+      85.2,
+      328.56,
+      530.4,
+      482.88
+    ],
+    "type": "image",
+    "src": "images/page-011-img-004-01.png"
+  },
+  {
+    "page": 11,
+    "blockIndex": "image-5-1",
+    "y": 328.8,
+    "x": 64.08,
+    "bbox": [
+      64.08,
+      328.8,
+      81.36,
+      343.2
+    ],
+    "type": "image",
+    "src": "images/page-011-img-005-01.png"
+  },
+  {
+    "page": 11,
+    "blockIndex": 50,
+    "y": 332.057,
+    "x": 67.224,
+    "bbox": [
+      67.224,
+      332.057,
+      83.784,
+      343.097
+    ],
+    "type": "text",
+    "content": "甲"
+  },
+  {
+    "page": 11,
+    "blockIndex": 42,
+    "y": 335.897,
+    "x": 112.13,
+    "bbox": [
+      112.13,
+      335.897,
+      345.72,
+      346.937
+    ],
+    "type": "text",
+    "content": "下列三段節錄文字，都出自歸有光的作品："
+  },
+  {
+    "page": 11,
+    "blockIndex": 43,
+    "y": 356.057,
+    "x": 112.13,
+    "bbox": [
+      112.13,
+      356.057,
+      525.976,
+      367.097
+    ],
+    "type": "text",
+    "content": "〈項脊軒志〉：一日，大母過余曰：「吾兒，久不見若影，何竟日默默在此，大類"
+  },
+  {
+    "page": 11,
+    "blockIndex": 44,
+    "y": 373.078,
+    "x": 88.104,
+    "bbox": [
+      88.104,
+      373.078,
+      527.212,
+      384.142
+    ],
+    "type": "text",
+    "content": "女郎也？」比去，以手闔門，自語曰：「吾家讀書久不效，兒之成，則可待乎？」"
+  },
+  {
+    "page": 11,
+    "blockIndex": 45,
+    "y": 390.157,
+    "x": 88.104,
+    "bbox": [
+      88.104,
+      390.157,
+      495.79,
+      401.197
+    ],
+    "type": "text",
+    "content": "頃之，持一象笏至，曰：「此吾祖太常公宣德間執此以朝，他日汝當用之。」"
+  },
+  {
+    "page": 11,
+    "blockIndex": 46,
+    "y": 410.077,
+    "x": 112.85,
+    "bbox": [
+      112.85,
+      410.077,
+      526.02,
+      421.117
+    ],
+    "type": "text",
+    "content": "〈先妣事略〉：有光七歲，與從兄有嘉入學。每陰風細雨，從兄輒留，有光意"
+  },
+  {
+    "page": 11,
+    "blockIndex": 47,
+    "y": 427.117,
+    "x": 88.104,
+    "bbox": [
+      88.104,
+      427.117,
+      533.23,
+      438.157
+    ],
+    "type": "text",
+    "content": "戀戀，不得留也。孺人中夜覺寢，促有光暗誦《孝經》，即熟讀，無一字齟齬，乃喜。"
+  },
+  {
+    "page": 11,
+    "blockIndex": 48,
+    "y": 447.037,
+    "x": 112.13,
+    "bbox": [
+      112.13,
+      447.037,
+      529.069,
+      458.077
+    ],
+    "type": "text",
+    "content": "〈祭外姑文〉：昔吾亡妻，能孝於吾父母，友於吾女兄弟，知夫人(按：即外姑，"
+  },
+  {
+    "page": 11,
+    "blockIndex": 49,
+    "y": 464.058,
+    "x": 88.104,
+    "bbox": [
+      88.104,
+      464.058,
+      435.782,
+      475.122
+    ],
+    "type": "text",
+    "content": "指妻子的母親)之能教也；粗食之養，未嘗不甘，知夫人之儉也。"
+  },
+  {
+    "page": 11,
+    "blockIndex": 26,
+    "y": 494.303,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      494.303,
+      530.556,
+      506.525
+    ],
+    "type": "text",
+    "content": "32. 歸有光的抒情散文中，有意識地留存了家族女性的聲音，而成為其特色，請回答下列"
+  },
+  {
+    "page": 11,
+    "blockIndex": 27,
+    "y": 511.343,
+    "x": 81.864,
+    "bbox": [
+      81.864,
+      511.343,
+      121.13,
+      523.565
+    ],
+    "type": "text",
+    "content": "問題："
+  },
+  {
+    "page": 11,
+    "blockIndex": 28,
+    "y": 531.263,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      531.263,
+      531.07,
+      543.485
+    ],
+    "type": "text",
+    "content": "（1）依據甲文所引三段文字，文中的「大母」、「孺人」、「夫人」對自己角色所擔負"
+  },
+  {
+    "page": 11,
+    "blockIndex": 29,
+    "y": 548.303,
+    "x": 112.13,
+    "bbox": [
+      112.13,
+      548.303,
+      457.01,
+      560.525
+    ],
+    "type": "text",
+    "content": "責任的認知，共通點是什麼？（占2分，作答字數：10字以內。）"
+  },
+  {
+    "page": 11,
+    "blockIndex": 30,
+    "y": 568.253,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      568.253,
+      531.07,
+      580.475
+    ],
+    "type": "text",
+    "content": "（2）當代學者指出歸有光書寫女性，取材固然與後世史傳不同，但也有其所本。請依據"
+  },
+  {
+    "page": 11,
+    "blockIndex": 31,
+    "y": 585.533,
+    "x": 112.13,
+    "bbox": [
+      112.13,
+      585.533,
+      524.23,
+      614.555
+    ],
+    "type": "text",
+    "content": "上述的「我認為……」，說明：①他的取材有別於後世史傳的內容是什麼？\n②他的特定標準是什麼？（占4分，作答字數：①、②各15字以內。）"
+  },
+  {
+    "page": 11,
+    "blockIndex": "drawing-10",
+    "y": 630.95,
+    "x": 84.85,
+    "bbox": [
+      84.85,
+      630.95,
+      530.4,
+      758.4
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 11,
+    "blockIndex": "drawing-11",
+    "y": 632.2,
+    "x": 63.8,
+    "bbox": [
+      63.8,
+      632.2,
+      81.9,
+      650.3
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 11,
+    "blockIndex": 66,
+    "y": 635.967,
+    "x": 67.224,
+    "bbox": [
+      67.224,
+      635.967,
+      83.784,
+      647.007
+    ],
+    "type": "text",
+    "content": "乙"
+  },
+  {
+    "page": 11,
+    "blockIndex": 59,
+    "y": 638.607,
+    "x": 111.89,
+    "bbox": [
+      111.89,
+      638.607,
+      525.813,
+      649.647
+    ],
+    "type": "text",
+    "content": "作為一位母親，如果不選擇「你無理取鬧，我不睬你」，也不以打罵碎唸管束，"
+  },
+  {
+    "page": 11,
+    "blockIndex": 60,
+    "y": 655.667,
+    "x": 87.864,
+    "bbox": [
+      87.864,
+      655.667,
+      529.215,
+      666.707
+    ],
+    "type": "text",
+    "content": "那麼她所碰上的難題不但超乎想像，要處理的委屈恐怕也成倍增長。如果長輩在旁，"
+  },
+  {
+    "page": 11,
+    "blockIndex": 61,
+    "y": 672.707,
+    "x": 87.864,
+    "bbox": [
+      87.864,
+      672.707,
+      526.089,
+      683.747
+    ],
+    "type": "text",
+    "content": "複雜度往往更高。想耐心等待哭泣的雲朵飄去，接納他表達情緒的自由時，就會被"
+  },
+  {
+    "page": 11,
+    "blockIndex": 62,
+    "y": 689.747,
+    "x": 87.864,
+    "bbox": [
+      87.864,
+      689.747,
+      525.687,
+      700.787
+    ],
+    "type": "text",
+    "content": "貼上「怎麼都不教小孩？」「不教以後他長大很難控制」的標籤。我練習克制脾氣，"
+  },
+  {
+    "page": 11,
+    "blockIndex": 63,
+    "y": 706.787,
+    "x": 87.864,
+    "bbox": [
+      87.864,
+      706.787,
+      526.51,
+      717.827
+    ],
+    "type": "text",
+    "content": "盡可能耐心走過他們哭泣、踢東西等情緒。有時得忍耐譴責，背對著理所當然的教養"
+  },
+  {
+    "page": 11,
+    "blockIndex": 64,
+    "y": 723.587,
+    "x": 87.864,
+    "bbox": [
+      87.864,
+      723.587,
+      526.031,
+      734.627
+    ],
+    "type": "text",
+    "content": "方式，爭取時間讓孩子認識自己的負面情緒。看看內心湧動出多少黑色河流，在高大"
+  },
+  {
+    "page": 11,
+    "blockIndex": 65,
+    "y": 739.659,
+    "x": 87.864,
+    "bbox": [
+      87.864,
+      739.659,
+      510.79,
+      751.881
+    ],
+    "type": "text",
+    "content": "濃密的黑森林裡，試著踏出一條日光照得到的路徑。（改寫自李欣倫〈水面下〉）"
+  },
+  {
+    "page": 11,
+    "blockIndex": 1,
+    "y": 788.515,
+    "x": 505.15,
+    "bbox": [
+      505.15,
+      788.515,
+      534.31,
+      799.673
+    ],
+    "type": "text",
+    "content": "- 10 -"
+  },
+  {
+    "page": 12,
+    "blockIndex": "drawing-1",
+    "y": 38.876,
+    "x": 204.07,
+    "bbox": [
+      204.07,
+      38.876,
+      391.1,
+      56.9
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 12,
+    "blockIndex": 2,
+    "y": 43.463,
+    "x": 204.07,
+    "bbox": [
+      204.07,
+      43.463,
+      393.86,
+      55.685
+    ],
+    "type": "text",
+    "content": "請記得在答題卷簽名欄位以正楷簽全名"
+  },
+  {
+    "page": 12,
+    "blockIndex": 0,
+    "y": 43.703,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      43.703,
+      534.55,
+      70.325
+    ],
+    "type": "text",
+    "content": "第 11 頁\n115年學測\n共 11 頁\n國語文綜合能力測驗"
+  },
+  {
+    "page": 12,
+    "blockIndex": "drawing-4",
+    "y": 88.85,
+    "x": 63.9,
+    "bbox": [
+      63.9,
+      88.85,
+      82.041,
+      106.99
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 12,
+    "blockIndex": "drawing-2",
+    "y": 88.85,
+    "x": 85.206,
+    "bbox": [
+      85.206,
+      88.85,
+      530.046,
+      285.0
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 12,
+    "blockIndex": "image-1-1",
+    "y": 89.04,
+    "x": 85.44,
+    "bbox": [
+      85.44,
+      89.04,
+      529.92,
+      284.64
+    ],
+    "type": "image",
+    "src": "images/page-012-img-001-01.png"
+  },
+  {
+    "page": 12,
+    "blockIndex": "image-2-1",
+    "y": 89.28,
+    "x": 64.32,
+    "bbox": [
+      64.32,
+      89.28,
+      81.6,
+      103.92
+    ],
+    "type": "image",
+    "src": "images/page-012-img-002-01.png"
+  },
+  {
+    "page": 12,
+    "blockIndex": 47,
+    "y": 92.457,
+    "x": 67.464,
+    "bbox": [
+      67.464,
+      92.457,
+      84.024,
+      103.497
+    ],
+    "type": "text",
+    "content": "丙"
+  },
+  {
+    "page": 12,
+    "blockIndex": 36,
+    "y": 96.297,
+    "x": 112.37,
+    "bbox": [
+      112.37,
+      96.297,
+      529.15,
+      107.337
+    ],
+    "type": "text",
+    "content": "以前生活比較艱苦，小孩又多，養不活，很多人只好把女兒送給人家做媳婦仔。"
+  },
+  {
+    "page": 12,
+    "blockIndex": 37,
+    "y": 113.318,
+    "x": 88.344,
+    "bbox": [
+      88.344,
+      113.318,
+      526.292,
+      124.382
+    ],
+    "type": "text",
+    "content": "我們也不例外，七個女兒中除了最大的和最小的，其餘那五個都曾經送給別人養。"
+  },
+  {
+    "page": 12,
+    "blockIndex": 38,
+    "y": 130.407,
+    "x": 88.344,
+    "bbox": [
+      88.344,
+      130.407,
+      526.054,
+      141.447
+    ],
+    "type": "text",
+    "content": "第六個女兒養到四、五歲時，屘嬸婆又來強要我們把女兒送給她親戚，一直說：「她會"
+  },
+  {
+    "page": 12,
+    "blockIndex": 39,
+    "y": 147.447,
+    "x": 88.344,
+    "bbox": [
+      88.344,
+      147.447,
+      526.01,
+      158.487
+    ],
+    "type": "text",
+    "content": "疼她啦！她只有兩個兒子而已！」我先生只好又把女兒抱給他們。那麼多個女兒都是"
+  },
+  {
+    "page": 12,
+    "blockIndex": 40,
+    "y": 164.487,
+    "x": 88.344,
+    "bbox": [
+      88.344,
+      164.487,
+      525.775,
+      175.527
+    ],
+    "type": "text",
+    "content": "他抱給人背走的，我都不忍心，把頭轉走，不敢看。這個女兒真的是「媳婦仔王」，"
+  },
+  {
+    "page": 12,
+    "blockIndex": 41,
+    "y": 181.527,
+    "x": 88.344,
+    "bbox": [
+      88.344,
+      181.527,
+      525.77,
+      192.567
+    ],
+    "type": "text",
+    "content": "因為他們沒有生女兒，所以很疼愛她。但後來要她「作新娘」，沒想到她還是不肯，"
+  },
+  {
+    "page": 12,
+    "blockIndex": 42,
+    "y": 198.548,
+    "x": 88.344,
+    "bbox": [
+      88.344,
+      198.548,
+      525.931,
+      209.612
+    ],
+    "type": "text",
+    "content": "實在對不住。因為她和養兄沒有感情，不願意和他結婚。她養母很生氣，但養父親自"
+  },
+  {
+    "page": 12,
+    "blockIndex": 43,
+    "y": 215.387,
+    "x": 88.344,
+    "bbox": [
+      88.344,
+      215.387,
+      526.485,
+      226.427
+    ],
+    "type": "text",
+    "content": "來家裡跟我們說：「她已經和一個男的在交往，人家也打算來訂親了。那個男的我去"
+  },
+  {
+    "page": 12,
+    "blockIndex": 44,
+    "y": 232.427,
+    "x": 88.344,
+    "bbox": [
+      88.344,
+      232.427,
+      526.588,
+      243.467
+    ],
+    "type": "text",
+    "content": "探聽過，聽說很乖啦！既然不能在一起，就不要勉強。不然，像我這樣，就一輩子"
+  },
+  {
+    "page": 12,
+    "blockIndex": 45,
+    "y": 249.467,
+    "x": 88.344,
+    "bbox": [
+      88.344,
+      249.467,
+      525.82,
+      260.507
+    ],
+    "type": "text",
+    "content": "不幸福了。」她養母也是小時候養大的，「作新娘」後，兩個感情並不好。（改寫自"
+  },
+  {
+    "page": 12,
+    "blockIndex": 46,
+    "y": 265.513,
+    "x": 88.344,
+    "bbox": [
+      88.344,
+      265.513,
+      480.31,
+      277.735
+    ],
+    "type": "text",
+    "content": "曾秋美訪問整理《消失中的台灣阿嬤‧將女兒送養的阿母\n曾林阿珠》）"
+  },
+  {
+    "page": 12,
+    "blockIndex": "drawing-3",
+    "y": 271.796,
+    "x": 388.32,
+    "bbox": [
+      388.32,
+      271.796,
+      410.4,
+      272.13
+    ],
+    "type": "drawing",
+    "content": "vector drawing / table line / box"
+  },
+  {
+    "page": 12,
+    "blockIndex": 15,
+    "y": 295.783,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      295.783,
+      444.77,
+      308.005
+    ],
+    "type": "text",
+    "content": "33. 乙、丙文中，都存在面對社會觀念、習俗的難題，請回答下列問題："
+  },
+  {
+    "page": 12,
+    "blockIndex": 16,
+    "y": 315.943,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      315.943,
+      517.03,
+      328.165
+    ],
+    "type": "text",
+    "content": "（1）乙文提到的「理所當然」，指的是什麼？（占2分，作答字數：15字以內。）"
+  },
+  {
+    "page": 12,
+    "blockIndex": 17,
+    "y": 335.863,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      335.863,
+      531.02,
+      348.085
+    ],
+    "type": "text",
+    "content": "（2）丙文的受訪者知道六女兒對「作新娘」的想法後，①有何反應？②此反應背後的"
+  },
+  {
+    "page": 12,
+    "blockIndex": 18,
+    "y": 352.903,
+    "x": 112.13,
+    "bbox": [
+      112.13,
+      352.903,
+      384.98,
+      365.125
+    ],
+    "type": "text",
+    "content": "原因為何？（占4分，作答字數：合計40字以內。）"
+  },
+  {
+    "page": 12,
+    "blockIndex": 19,
+    "y": 372.823,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      372.823,
+      533.284,
+      385.045
+    ],
+    "type": "text",
+    "content": "34. 乙文的「我」、丙文的「六女兒」皆因自我的覺醒，而以具體行動勇敢挑戰傳統觀念。"
+  },
+  {
+    "page": 12,
+    "blockIndex": 20,
+    "y": 389.883,
+    "x": 81.864,
+    "bbox": [
+      81.864,
+      389.883,
+      180.67,
+      402.105
+    ],
+    "type": "text",
+    "content": "請回答下列問題："
+  },
+  {
+    "page": 12,
+    "blockIndex": 21,
+    "y": 409.803,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      409.803,
+      533.69,
+      422.025
+    ],
+    "type": "text",
+    "content": "（1）乙文的「我」，基於何種考量，因此而採取了什麼行動？（占4分，作答字數："
+  },
+  {
+    "page": 12,
+    "blockIndex": 22,
+    "y": 427.083,
+    "x": 112.13,
+    "bbox": [
+      112.13,
+      427.083,
+      210.91,
+      439.305
+    ],
+    "type": "text",
+    "content": "合計40字以內。）"
+  },
+  {
+    "page": 12,
+    "blockIndex": 23,
+    "y": 447.003,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      447.003,
+      531.01,
+      459.225
+    ],
+    "type": "text",
+    "content": "（2）丙文的「六女兒」，基於何種認知，因此而採取了什麼行動？（占4分，作答字數："
+  },
+  {
+    "page": 12,
+    "blockIndex": 24,
+    "y": 464.043,
+    "x": 112.13,
+    "bbox": [
+      112.13,
+      464.043,
+      210.91,
+      476.265
+    ],
+    "type": "text",
+    "content": "合計30字以內。）"
+  },
+  {
+    "page": 12,
+    "blockIndex": 25,
+    "y": 483.983,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      483.983,
+      498.79,
+      496.205
+    ],
+    "type": "text",
+    "content": "35. 關於甲、乙、丙文所呈現的「她的聲音」，敘述最適當的是：（占2分，單選題）"
+  },
+  {
+    "page": 12,
+    "blockIndex": 26,
+    "y": 501.023,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      501.023,
+      521.83,
+      513.245
+    ],
+    "type": "text",
+    "content": "(A)甲文中敘寫三位女性親屬的聲音各有用意，如「持笏」即暗喻大母為家中掌權者"
+  },
+  {
+    "page": 12,
+    "blockIndex": 27,
+    "y": 518.063,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      518.063,
+      533.11,
+      530.285
+    ],
+    "type": "text",
+    "content": "(B)乙文是女性主動發聲，「黑色河流」、「黑森林」的比喻委婉傳達反抗傳統的不安"
+  },
+  {
+    "page": 12,
+    "blockIndex": 28,
+    "y": 535.103,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      535.103,
+      533.11,
+      547.325
+    ],
+    "type": "text",
+    "content": "(C)丙文記錄受訪者及其記憶中他人的聲音，敘事的時間跨度大，事件場景未必其親歷"
+  },
+  {
+    "page": 12,
+    "blockIndex": 29,
+    "y": 551.903,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      551.903,
+      533.83,
+      564.125
+    ],
+    "type": "text",
+    "content": "(D)三文皆呈現不同世代女性的聲音，代間隔閡雖不免形成對立，最終仍能找到平衡點"
+  },
+  {
+    "page": 12,
+    "blockIndex": 30,
+    "y": 571.853,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      571.853,
+      530.687,
+      584.075
+    ],
+    "type": "text",
+    "content": "36. 依據本題組所有資料，下列關於「她的聲音」被「聽見」的推論是否正確，最適當的"
+  },
+  {
+    "page": 12,
+    "blockIndex": 31,
+    "y": 589.133,
+    "x": 81.864,
+    "bbox": [
+      81.864,
+      589.133,
+      517.03,
+      617.675
+    ],
+    "type": "text",
+    "content": "研判是：（占2分，單選題）\n①舊時代的女性常因社會限制而受到忽略，人們甚至視靜默不出聲為女性的特質。"
+  },
+  {
+    "page": 12,
+    "blockIndex": 32,
+    "y": 622.493,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      622.493,
+      529.03,
+      634.715
+    ],
+    "type": "text",
+    "content": "②教育普及促使當代關注女性的聲音，女性的自我敘說往往比受訪紀錄更直擊人心。"
+  },
+  {
+    "page": 12,
+    "blockIndex": 33,
+    "y": 639.533,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      639.533,
+      534.55,
+      651.755
+    ],
+    "type": "text",
+    "content": "③看重非平常之行的史傳使女性聲音難以真實呈現，當代口述歷史則可呈現多元的聲音。"
+  },
+  {
+    "page": 12,
+    "blockIndex": 34,
+    "y": 657.073,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      657.073,
+      460.61,
+      669.295
+    ],
+    "type": "text",
+    "content": "(A)①、③皆正確，②無法判斷\n(B)①、②皆無法判斷，③正確"
+  },
+  {
+    "page": 12,
+    "blockIndex": 35,
+    "y": 674.113,
+    "x": 82.104,
+    "bbox": [
+      82.104,
+      674.113,
+      473.33,
+      686.335
+    ],
+    "type": "text",
+    "content": "(C)①錯誤，②無法判斷，③正確\n(D)①正確，②錯誤，③無法判斷"
+  },
+  {
+    "page": 12,
+    "blockIndex": 1,
+    "y": 788.515,
+    "x": 63.864,
+    "bbox": [
+      63.864,
+      788.515,
+      93.024,
+      799.673
+    ],
+    "type": "text",
+    "content": "- 11 -"
+  }
+]

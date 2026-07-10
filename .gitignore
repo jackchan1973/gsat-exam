@@ -1,0 +1,21 @@
+# Python 虛擬環境（很大，不上傳）
+.venv-openocr-test/
+.venv-pdf-parser-test/
+.venv*/
+__pycache__/
+*.pyc
+
+# 暫存與系統檔
+tmp/
+.DS_Store
+**/.DS_Store
+.server-*.log
+.server-*.pid
+
+# 本機工具設定
+.claude/
+node_modules/
+
+# 官方 PDF 原檔不上公開網站（版權），只留本機當建題庫來源
+資料/大考中心官方PDF/
+*.pdf

@@ -1,0 +1,1645 @@
+{
+  "source": {
+    "path": "資料/大考中心官方PDF/115學年度/數學B/115學測-數學B-試題內容-04-115學測數學b試卷.pdf",
+    "year": "115",
+    "subject": "數學B",
+    "fileName": "115學測-數學B-試題內容-04-115學測數學b試卷.pdf",
+    "fileType": "試題內容"
+  },
+  "meta": {
+    "extractor": "batch_extract.py v1",
+    "extractedAt": "2026-07-10T09:21:29",
+    "mode": "full",
+    "pageCount": 8
+  },
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.22,
+      "height": 842,
+      "text": "財團法人大學入學考試中心基金會\n115學年度學科能力測驗試題\n數學B考科\n請於考試開始鈴響起，在答題卷簽名欄位以正楷簽全名\n作答注意事項\n考試時間：100分鐘\n作答方式：\n․選擇（填）題用 2B 鉛筆在「答題卷」上作答；更正時以橡皮擦擦拭，切勿使用\n修正帶（液）。\n․除題目另有規定外，非選擇題用筆尖較粗之黑色墨水的筆在「答題卷」上作答；更正時，\n可以使用修正帶（液）。\n․考生須依上述規定劃記或作答，若未依規定而導致答案難以辨識或評閱時，恐將影響\n成績。\n․答題卷每人一張，不得要求增補。\n․選填題考生必須依各題的格式填答，且每一個列號只能在一個格子劃記。請仔細閱讀\n下面的例子。\n18-1\n3\n例：若答案格式是 ，而依題意計算出來的答案是 ，則考生必須分別在答題卷上\n18-2 8\n的第 18-1 列的 3 與第 18-2 列的 8 劃記，如：\n \n18-1 1 2 3 4 5 6 7 8 9 0\n \n18-2 1 2 3 4 5 6 7 8 9 0\n7\n例：若答案格式是 1 9 -1 1 9 -2 ，而答案是 時，則考生必須分別在答題卷的第 19-1 列\n50\n50\n的  與第 19-2 列的 7 劃記，如：\n \n19-1 1 2 3 4 5 6 7 8 9 0\n19-2 1 2 3 4 5 6 7 8 9 0  \n選擇（填）題計分方式：\n․單選題：每題有 n 個選項，其中只有一個是正確或最適當的選項。各題答對者，得該題\n的分數；答錯、未作答或劃記多於一個選項者，該題以零分計算。\n․多選題：每題有 n 個選項，其中至少有一個是正確的選項。各題之選項獨立判定，所有\nn2k\n選項均答對者，得該題全部的分數；答錯 k 個選項者，得該題 的分數；但得分\nn\n低於零分或所有選項均未作答者，該題以零分計算。\n․選填題每題有 n 個空格，須全部答對才給分，答錯不倒扣。\n※試題中參考的附圖均為示意圖，試題後附有參考公式及數值。",
+      "charCount": 830
+    },
+    {
+      "page": 2,
+      "width": 595.22,
+      "height": 842,
+      "text": "第 1 頁 115年學測\n請記得在答題卷簽名欄位以正楷簽全名\n共 7 頁 數學B考科\n第壹部分、選擇（填）題（占85分）\n一、單選題（占 35 分）\n說明：第1題至第7題，每題5分。\nN 95\n1. 當標準值為95，試選出有幾個整數 N 與標準值的誤差百分比 100%小於5%。\n95\n(1) 4 個 (2) 5 個 (3) 8 個 (4) 9 個 (5) 10 個\n3n\n2. 以計算機的自然對數按鍵ln（即lnxlog x）估算連續複利本利和100e100 135所需期數n，\ne\n試選出等於n的選項。\n3 100 135  3 \n(1) ln(135100) (2) ln(135100) (3) ln\n \n100 3 100 100\n3 135 100 135\n(4) ln (5) ln\n   \n100 100 3 100\n1 0 1  1\n3. 已知實數二階方陣 A 滿足 A  以及 A  。試選出 A的反方陣。\n       \n1 1 1 0\n 1  1\n1 1 \n0 1  1 1 1 1   2   2 \n(1)   (2)   (3)   (4)   (5)  \n1 0 1 1 1 1  1  1 \n 1 1\n 2  2 \n4. 電腦程式模擬在太平洋等速航行的甲、乙兩艘船。甲船沿著北緯 60 度向西航行，乙船\n沿著赤道向東航行。在某一時間點甲船在西經 169 度、乙船在東經 140 度，試選出\n當甲船到達東經 171 度時，乙船在東經幾度。\n(1) 120 度 (2) 130 度 (3) 150 度 (4) 160 度 (5) 180 度\n- 1 -",
+      "charCount": 787
+    },
+    {
+      "page": 3,
+      "width": 595.22,
+      "height": 842,
+      "text": "115年學測 第 2 頁\n請記得在答題卷簽名欄位以正楷簽全名\n數學B考科 共 7 頁\n5. 某人購買公益彩券，第一次以 N 元為投注金額。之後每次要投注時，先將前次投注金額\n增加一半設為預定金額。如果預定金額大於2N 元，則將預定金額減少一半投注；否則\n就以預定金額投注。前四次投注紀錄如下表：\n第一次 第二次 第三次 第四次\n3 9 27\n預定金額（元） N N N\n2 4 16\n3 9 27\n投注金額（元） N N N N\n2 8 16\n試選出此人第七次的投注金額為多少元。\n36 36 36 37 37\n(1) N (2) N (3) N (4) N (5) N\n26 28 29 27 210\n6. 各國沿岸的「領海基線」其外側距離基線十二浬間之海域，為該國之「領海」。在以浬為\n單位的坐標平面上，某國有一部分的領海基線為直線 L:4x3y120上的某一線段，且\n(5,5)位於該領海基線的內側，如圖所示。試選出該段領海在 L與下列哪一條直線之間。\n(1) 4x3y480 (2) 4x3y180 (3) 4x3y0\n(4) 4x3y240 (5) 4x3y720\n領海\n領海基線\n3 2 1\n7. 有 A、B、C 三種福袋各一個，其中 A、B、C 中獎的機率分別為 、 、 ，且不同\n4 3 2\n福袋中獎與否互不影響。設在福袋 A 中獎的條件下，至少有兩個福袋中獎的機率為 p，\np\n且設在至少有兩個福袋中獎的條件下，福袋 A 中獎的機率為q。試選出 之值。\nq\n11 17 18 18\n(1) (2) (3) 1 (4) (5)\n18 18 17 11\n- 2 -",
+      "charCount": 706
+    },
+    {
+      "page": 4,
+      "width": 595.22,
+      "height": 842,
+      "text": "第 3 頁 115年學測\n請記得在答題卷簽名欄位以正楷簽全名\n共 7 頁 數學B考科\n二、多選題（占 25 分）\n說明：第8題至第12題，每題5分。\n \n8. 試選出與函數 y3sin x 3在每個實數 x所得函數值皆相同的函數。\n \n 5 \n \n(1) y6sin x 3\n \n 5 \n  \n(2) y3sin ( 2)x 3\n \n 5 \n \n(3) y3sin x 3\n \n 5 \n \n(4) y3sin x 3\n \n 5 \n \n(5) y3sin x 3\n \n 5 \n9. 設 f(x)(1x)(2x)2(4x)。試選出正確的選項。\n(1) f(x)除以(1x)(2x)(4x)的餘式為x2\n(2) 若將 f(x)表為a(x2)4 b(x2)3 c(x2)2，則c6\n(3) f(x)0的解區間為(4,2)\nf(2026)\n(4) 1\nf(2022)\n(5) f(2026) f(2022)\n10. 某研究探討昆蟲的身長與其體內兩種養分 A、B 濃度的關係。研究中蒐集某種昆蟲，\n測得牠們身長與體內 A 濃度的數據如下表。\n平均數 變異數 相關係數\n身長 65單位 100平方單位\n0.75\nA濃度 50單位 225平方單位\n已知每隻昆蟲體內的 B 濃度均為 A 濃度的 0.5 倍。試選出正確的選項。\n15\n(1) B 濃度的標準差為 單位\n2\n(2) 若身長的中位數為 65 單位，則 B 濃度的中位數為 25 單位\n(3) B 濃度與 A 濃度的相關係數為 0.5\n(4) 若找到一身長為 65 單位的昆蟲，利用 A 濃度對身長的迴歸直線（最適直線）預測，\n其體內 A 濃度為 50 單位\n1\n(5) B 濃度(Y)對身長(X)的迴歸直線斜率為\n2\n- 3 -",
+      "charCount": 822
+    },
+    {
+      "page": 5,
+      "width": 595.22,
+      "height": 842,
+      "text": "115年學測 第 4 頁\n請記得在答題卷簽名欄位以正楷簽全名\n數學B考科 共 7 頁\n11. 有一立燈為了採光，採用兩個可以替換的大、小燈罩。兩燈罩皆為直圓錐面的一部分，\n裝在燈上其軸線位置相同、燈源皆在頂點，且大燈罩照射在地面上的光線範圍大於小燈罩\n的光線範圍，如圖所示。令大、小燈罩在地面上所成的光線邊緣分別為圓錐曲線、\n的一部分。試選出正確的選項。\n(1) 如果是橢圓，則是拋物線 頂點\n小燈罩\n(2) 如果是拋物線，則是橢圓 大燈罩\n(3) 如果是雙曲線，則是拋物線\n(4) 如果是拋物線，則是拋物線\n軸線\n(5) 如果是雙曲線，則是雙曲線\n12. 有兩容器，A 瓶內有含糖 100 公克的紅茶 1000 毫升，B 瓶內有不含糖的紅茶 500 毫升。\n用以下方式稀釋 A 瓶的甜度：將 A 瓶混合均勻後，倒出 500 毫升至 B 瓶，再將 B 瓶\n混合均勻後，倒 500 毫升回 A 瓶，稱此為一次稀釋。重複此稀釋動作，令第n次稀釋\n完，A 瓶的含糖量為a 公克。試選出正確的選項。\nn\n(1) a 75\n1\n1\n(2) 第n次稀釋完，B 瓶的含糖量為50 a 公克\n2 n\n1 1 1 \n(3) a  a  100 a\nn1 2 n 2   2 n \n1\n(4) 可找到實數c滿足數列 a c 為公比是 的等比數列\nn 4\n(5) 第 100 次稀釋完，A 瓶的含糖量小於 60 公克\n三、選填題（占 25 分）\n說明：第 13 題至第 17 題，每題 5 分。\n13. 坐標平面上，L 為通過原點 O且斜角為75的直線；L 為通過點(20,0)且斜角為30的直線，\n1 2\n○○\n如圖所示。則 L 、 L 的交點到原點的距離為 13-1 13-2 。（四捨五入至整數）\n1 2\nL\n2\nL\n1\nx\n20 O\n- 4 -",
+      "charCount": 793
+    },
+    {
+      "page": 6,
+      "width": 595.22,
+      "height": 842,
+      "text": "第 5 頁 115年學測\n請記得在答題卷簽名欄位以正楷簽全名\n共 7 頁 數學B考科\n14. 將 1, 2, 3, 4, 5, 6, 7 七個數字排成一個七位數。若要求排出的數字 3, 4 相鄰、5, 6 相鄰\n○○\n以及 6, 7 相鄰，則共可排出 14-1 14-2 個七位數。\n1 1\n15. 某校健康檢查：全體學生中有近視的占 、有蛀牙的占 。設 p為全體學生中無近視且\n2 3\n無蛀牙的學生所占比例。將部分資料依所占比例以列聯表呈現如下：\n有近視 無近視 總和\n1\n有蛀牙\n3\n2\n無蛀牙 p\n3\n1 1\n總和 1\n2 2\n已知有近視的學生中，有蛀牙的占少數；有蛀牙的學生中，有近視的占多數。則 p的\n○ ○\n15-1 15-3\n範圍為  p  。（化為最簡分數）\n○ ○○\n15-2 15-4 15-5\n16. 坐標平面上，L為一次函數 y f(x)的圖形，為二次函數 yg(x)的圖形。已知L與交於\n○\n16-1\n(1,0)、(5,4)兩點，且點(2,2)在上。則 g(x) f(x)的最大值為 。（化為最簡分數）\n○\n16-2\n- 5 -",
+      "charCount": 485
+    },
+    {
+      "page": 7,
+      "width": 595.22,
+      "height": 842,
+      "text": "115年學測 第 6 頁\n請記得在答題卷簽名欄位以正楷簽全名\n數學B考科 共 7 頁\n17. 利用單點透視法將坐標空間的點繪製在畫布的坐標平面上。已知\n（一）空間中與 y軸平行的直線，在畫布上的消失點為(0,15)\n（二）空間中與 z軸平行的直線，在畫布上都與 y軸平行\n13\n若點(0,0,0)、(3,4,0)、(3,0,3)繪在畫布上分別為(0,0)、( ,2)、(3,3)，則點(3,4,3)\n5\nz\n○○\n17-1 17-2\n(3,4,3)\n(3,0,3)\n繪在畫布上的 y坐標為 。（化為最簡分數）\n○ y\n17-3\nx (3,4,0)\n（註：右圖為三點(3,4,0)、(3,0,3)、(3,4,3)於坐標空間的位置關係）\n第貳部分、混合題或非選擇題（占 15 分）\n說明︰本部分共有 1 題組，單選題每題 3 分，非選擇題配分標於題末。限在答題卷標示\n題號的作答區內作答。\n選擇（填）題與「非選擇題作圖部分」使用 2B 鉛筆作答，更正時以橡皮擦擦拭，\n切勿使用修正帶（液）。非選擇題請由左而右橫式書寫，作答時必須寫出計算過程\n或理由，否則將酌予扣分。\n18-20 題為題組\n有一張星軌照片，照片中的星星各自繞著以北極星為圓心且以逆時鐘\n方向旋轉90角所畫出的圓弧軌跡。在此照片所設的坐標平面上令北極星\n為點P。已知甲星軌跡的起點、終點坐標分別為 (8,0)、(0,0)，軌跡如圖所示。\n根據上述，試回答下列問題。\n18. 試選出甲星軌跡的起點與終點連線線段的中垂線方程式。（單選題，3 分）\n(1) x4 (2) y4 (3) yx4\n(4) yx4 (5) y4x\n19. 令 L為通過點 (8,0) 且斜率為 1 的直線。試說明點 P在 L上，並求甲星軌跡所在的\n圓方程式。（非選擇題，6 分）\n\n20. 已知照片中乙星軌跡的起點Q坐標為 (2,8)。令R為其軌跡終點，試求PR以及點R的坐標。\n（非選擇題，6 分）\n- 6 -",
+      "charCount": 832
+    },
+    {
+      "page": 8,
+      "width": 595.22,
+      "height": 842,
+      "text": "第 7 頁 115年學測\n請記得在答題卷簽名欄位以正楷簽全名\n共 7 頁 數學B考科\n參考公式及可能用到的數值\nn(2a(n1)d)\n1. 首項為 a，公差為 d 的等差數列前 n項之和為 S \n2\na(1rn)\n首項為 a，公比為 r(r 1)的等比數列前 n項之和為 S \n1r\na b c\n2. ABC的正弦定理：   2R（ R為 ABC外接圓半徑）\nsinA sinB sinC\nABC的餘弦定理： c2 a2 b2 2abcosC\n3. 一維數據 X :x ,x ,,x ，\n1 2 n\n1\n算術平均數   (x x x )\nX n 1 2 n\n1 1\n標準差 X  n [(x 1  X )2  (x 2  X )2  (x n  X )2] n [(x 1 2  x 2 2  x n 2)n X 2]\n4. 二維數據 (X,Y):(x ,y ),(x ,y ),,(x ,y )，\n1 1 2 2 n n\n(x  )(y  )(x  )(y  )(x  )(y  )\n相關係數 r  1 X 1 Y 2 X 2 Y n X n Y\nX,Y n \nX Y\n\n迴歸直線（最適合直線）方程式 y r Y (x )\nY X,Y X\nX\n5. 參考數值： 2 1.414, 3 1.732, 5 2.236, 6 2.449,3.142\n6. 對數值： log20.3010, log30.4771, log50.6990, log70.8451\n- 7 -",
+      "charCount": 714
+    }
+  ],
+  "tables": [
+    {
+      "page": 1,
+      "tableIndex": 0,
+      "bbox": [
+        336.63,
+        471.63,
+        414.45,
+        488.509
+      ],
+      "rowCount": 2,
+      "colCount": 6,
+      "cells": [
+        [
+          null,
+          null,
+          null,
+          "",
+          null,
+          ""
+        ],
+        [
+          "8",
+          "9",
+          "0",
+          null,
+          "",
+          null
+        ]
+      ]
+    },
+    {
+      "page": 1,
+      "tableIndex": 1,
+      "bbox": [
+        171.99,
+        475.968,
+        299.95,
+        488.509
+      ],
+      "rowCount": 1,
+      "colCount": 10,
+      "cells": [
+        [
+          "",
+          "18-1",
+          "",
+          "1",
+          "2",
+          "3",
+          "",
+          "4",
+          "",
+          "5"
+        ]
+      ]
+    },
+    {
+      "page": 1,
+      "tableIndex": 2,
+      "bbox": [
+        203.34,
+        498.777,
+        374.841,
+        511.392
+      ],
+      "rowCount": 1,
+      "colCount": 14,
+      "cells": [
+        [
+          "1",
+          "2",
+          "",
+          "3",
+          "",
+          "4",
+          "",
+          "5",
+          "",
+          "6",
+          "",
+          "7",
+          "8",
+          "9"
+        ]
+      ]
+    },
+    {
+      "page": 1,
+      "tableIndex": 3,
+      "bbox": [
+        336.63,
+        584.67,
+        414.45,
+        602.889
+      ],
+      "rowCount": 2,
+      "colCount": 6,
+      "cells": [
+        [
+          null,
+          null,
+          null,
+          "",
+          null,
+          ""
+        ],
+        [
+          "8",
+          "9",
+          "0",
+          null,
+          "",
+          null
+        ]
+      ]
+    },
+    {
+      "page": 1,
+      "tableIndex": 4,
+      "bbox": [
+        171.99,
+        589.2,
+        299.95,
+        602.889
+      ],
+      "rowCount": 1,
+      "colCount": 10,
+      "cells": [
+        [
+          "",
+          "19-1",
+          "",
+          "1",
+          "2",
+          "3",
+          "",
+          "4",
+          "",
+          "5"
+        ]
+      ]
+    },
+    {
+      "page": 3,
+      "tableIndex": 0,
+      "bbox": [
+        156.0,
+        148.32,
+        439.26,
+        231.42
+      ],
+      "rowCount": 3,
+      "colCount": 5,
+      "cells": [
+        [
+          "",
+          "第一次",
+          "第二次",
+          "第三次",
+          "第四次"
+        ],
+        [
+          "預定金額（元）",
+          "",
+          "3\nN\n2",
+          "9\nN\n4",
+          "27\nN\n16"
+        ],
+        [
+          "投注金額（元）",
+          "N",
+          "3\nN\n2",
+          "9\nN\n8",
+          "27\nN\n16"
+        ]
+      ]
+    },
+    {
+      "page": 4,
+      "tableIndex": 0,
+      "bbox": [
+        157.56,
+        544.68,
+        437.7,
+        595.8
+      ],
+      "rowCount": 3,
+      "colCount": 4,
+      "cells": [
+        [
+          "",
+          "平均數",
+          "變異數",
+          "相關係數"
+        ],
+        [
+          "身長",
+          "65單位",
+          "100平方單位",
+          "0.75"
+        ],
+        [
+          "A濃度",
+          "50單位",
+          "225平方單位",
+          null
+        ]
+      ]
+    },
+    {
+      "page": 6,
+      "tableIndex": 0,
+      "bbox": [
+        174.18,
+        271.5,
+        421.08,
+        384.6
+      ],
+      "rowCount": 4,
+      "colCount": 4,
+      "cells": [
+        [
+          "",
+          "有近視",
+          "無近視",
+          "總和"
+        ],
+        [
+          "有蛀牙",
+          "",
+          "",
+          "1\n3"
+        ],
+        [
+          "無蛀牙",
+          "",
+          "p",
+          "2\n3"
+        ],
+        [
+          "總和",
+          "1\n2",
+          "1\n2",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 164,
+      "bbox": [
+        187.68,
+        451.68,
+        213.12,
+        468.96
+      ],
+      "pixelWidth": 106,
+      "pixelHeight": 72,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 1,
+      "xref": 165,
+      "bbox": [
+        208.08,
+        528.48,
+        232.56,
+        543.12
+      ],
+      "pixelWidth": 102,
+      "pixelHeight": 61,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 3,
+      "rectIndex": 1,
+      "xref": 166,
+      "bbox": [
+        195.12,
+        547.68,
+        223.68,
+        562.8
+      ],
+      "pixelWidth": 119,
+      "pixelHeight": 63,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 4,
+      "rectIndex": 1,
+      "xref": 167,
+      "bbox": [
+        213.12,
+        530.4,
+        228.48,
+        538.8
+      ],
+      "pixelWidth": 64,
+      "pixelHeight": 35,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 5,
+      "rectIndex": 1,
+      "xref": 168,
+      "bbox": [
+        393.12,
+        607.68,
+        431.76,
+        625.68
+      ],
+      "pixelWidth": 161,
+      "pixelHeight": 75,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 1,
+      "xref": 169,
+      "bbox": [
+        392.88,
+        511.92,
+        407.76,
+        512.4
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 7,
+      "rectIndex": 1,
+      "xref": 170,
+      "bbox": [
+        409.44,
+        511.92,
+        424.32,
+        512.4
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 7,
+      "rectIndex": 2,
+      "xref": 170,
+      "bbox": [
+        355.44,
+        511.92,
+        370.32,
+        512.4
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 8,
+      "rectIndex": 1,
+      "xref": 171,
+      "bbox": [
+        370.8,
+        498.48,
+        396.24,
+        515.76
+      ],
+      "pixelWidth": 106,
+      "pixelHeight": 72,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 9,
+      "rectIndex": 1,
+      "xref": 172,
+      "bbox": [
+        242.64,
+        488.88,
+        257.52,
+        489.36
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 9,
+      "rectIndex": 2,
+      "xref": 172,
+      "bbox": [
+        318.96,
+        626.16,
+        333.84,
+        626.64
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 1,
+      "xref": 173,
+      "bbox": [
+        224.16,
+        511.92,
+        239.04,
+        512.4
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 2,
+      "xref": 173,
+      "bbox": [
+        224.16,
+        488.88,
+        239.04,
+        489.36
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 3,
+      "xref": 173,
+      "bbox": [
+        280.32,
+        488.88,
+        295.2,
+        489.36
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 4,
+      "xref": 173,
+      "bbox": [
+        299.28,
+        625.2,
+        314.16,
+        625.68
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 5,
+      "xref": 173,
+      "bbox": [
+        262.08,
+        602.16,
+        276.96,
+        602.64
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 11,
+      "rectIndex": 1,
+      "xref": 174,
+      "bbox": [
+        261.6,
+        511.92,
+        276.48,
+        512.4
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 11,
+      "rectIndex": 2,
+      "xref": 174,
+      "bbox": [
+        298.8,
+        511.92,
+        313.68,
+        512.4
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 11,
+      "rectIndex": 3,
+      "xref": 174,
+      "bbox": [
+        261.6,
+        488.88,
+        276.48,
+        489.36
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 1,
+      "xref": 175,
+      "bbox": [
+        280.32,
+        511.92,
+        295.2,
+        512.4
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 2,
+      "xref": 175,
+      "bbox": [
+        262.08,
+        625.2,
+        276.96,
+        625.68
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 1,
+      "xref": 176,
+      "bbox": [
+        318.48,
+        511.92,
+        333.36,
+        512.4
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 2,
+      "xref": 176,
+      "bbox": [
+        280.56,
+        625.2,
+        295.44,
+        625.68
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 14,
+      "rectIndex": 1,
+      "xref": 177,
+      "bbox": [
+        337.2,
+        512.64,
+        352.08,
+        513.12
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 15,
+      "rectIndex": 1,
+      "xref": 178,
+      "bbox": [
+        374.4,
+        511.92,
+        389.28,
+        512.4
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 15,
+      "rectIndex": 2,
+      "xref": 178,
+      "bbox": [
+        337.2,
+        488.88,
+        352.08,
+        489.36
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 16,
+      "rectIndex": 1,
+      "xref": 179,
+      "bbox": [
+        204.72,
+        511.92,
+        219.6,
+        512.4
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 16,
+      "rectIndex": 2,
+      "xref": 179,
+      "bbox": [
+        374.4,
+        488.88,
+        389.28,
+        489.36
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 16,
+      "rectIndex": 3,
+      "xref": 179,
+      "bbox": [
+        204.72,
+        488.88,
+        219.6,
+        489.36
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 16,
+      "rectIndex": 4,
+      "xref": 179,
+      "bbox": [
+        408.96,
+        602.16,
+        423.84,
+        602.64
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 1,
+      "xref": 180,
+      "bbox": [
+        242.64,
+        511.92,
+        257.52,
+        512.4
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 2,
+      "xref": 180,
+      "bbox": [
+        298.8,
+        488.88,
+        313.68,
+        489.36
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 3,
+      "xref": 180,
+      "bbox": [
+        224.4,
+        625.2,
+        239.28,
+        625.68
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 4,
+      "xref": 180,
+      "bbox": [
+        224.4,
+        602.16,
+        239.28,
+        602.64
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 5,
+      "xref": 180,
+      "bbox": [
+        280.56,
+        602.16,
+        295.44,
+        602.64
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 18,
+      "rectIndex": 1,
+      "xref": 181,
+      "bbox": [
+        371.28,
+        611.76,
+        396.72,
+        628.8
+      ],
+      "pixelWidth": 106,
+      "pixelHeight": 71,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 19,
+      "rectIndex": 1,
+      "xref": 182,
+      "bbox": [
+        409.68,
+        624.96,
+        424.56,
+        625.68
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 3,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 20,
+      "rectIndex": 1,
+      "xref": 183,
+      "bbox": [
+        318.72,
+        488.88,
+        333.6,
+        489.36
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 20,
+      "rectIndex": 2,
+      "xref": 183,
+      "bbox": [
+        374.88,
+        625.2,
+        389.76,
+        625.68
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 20,
+      "rectIndex": 3,
+      "xref": 183,
+      "bbox": [
+        337.68,
+        602.16,
+        352.56,
+        602.64
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 21,
+      "rectIndex": 1,
+      "xref": 184,
+      "bbox": [
+        408.48,
+        488.88,
+        423.36,
+        489.36
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 22,
+      "rectIndex": 1,
+      "xref": 185,
+      "bbox": [
+        295.2,
+        475.44,
+        320.88,
+        492.72
+      ],
+      "pixelWidth": 107,
+      "pixelHeight": 72,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 23,
+      "rectIndex": 1,
+      "xref": 186,
+      "bbox": [
+        313.92,
+        475.44,
+        329.76,
+        486.72
+      ],
+      "pixelWidth": 66,
+      "pixelHeight": 47,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 24,
+      "rectIndex": 1,
+      "xref": 187,
+      "bbox": [
+        370.8,
+        475.44,
+        396.24,
+        492.72
+      ],
+      "pixelWidth": 106,
+      "pixelHeight": 72,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 25,
+      "rectIndex": 1,
+      "xref": 188,
+      "bbox": [
+        171.36,
+        501.12,
+        208.32,
+        514.32
+      ],
+      "pixelWidth": 154,
+      "pixelHeight": 55,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 26,
+      "rectIndex": 1,
+      "xref": 189,
+      "bbox": [
+        355.44,
+        488.88,
+        370.32,
+        489.36
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 27,
+      "rectIndex": 1,
+      "xref": 190,
+      "bbox": [
+        392.16,
+        488.88,
+        407.04,
+        489.36
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 27,
+      "rectIndex": 2,
+      "xref": 190,
+      "bbox": [
+        205.2,
+        625.2,
+        220.08,
+        625.68
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 28,
+      "rectIndex": 1,
+      "xref": 191,
+      "bbox": [
+        192.48,
+        403.2,
+        208.08,
+        411.36
+      ],
+      "pixelWidth": 65,
+      "pixelHeight": 34,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 29,
+      "rectIndex": 1,
+      "xref": 192,
+      "bbox": [
+        338.4,
+        625.68,
+        353.28,
+        626.4
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 3,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 30,
+      "rectIndex": 1,
+      "xref": 193,
+      "bbox": [
+        355.68,
+        625.2,
+        370.56,
+        625.68
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 30,
+      "rectIndex": 2,
+      "xref": 193,
+      "bbox": [
+        374.64,
+        602.16,
+        389.52,
+        602.64
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 30,
+      "rectIndex": 3,
+      "xref": 193,
+      "bbox": [
+        204.96,
+        602.16,
+        219.84,
+        602.64
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 31,
+      "rectIndex": 1,
+      "xref": 194,
+      "bbox": [
+        242.88,
+        625.2,
+        257.76,
+        625.68
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 31,
+      "rectIndex": 2,
+      "xref": 194,
+      "bbox": [
+        299.04,
+        602.16,
+        313.92,
+        602.64
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 31,
+      "rectIndex": 3,
+      "xref": 194,
+      "bbox": [
+        242.88,
+        602.16,
+        257.76,
+        602.64
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 32,
+      "rectIndex": 1,
+      "xref": 195,
+      "bbox": [
+        318.96,
+        601.92,
+        333.84,
+        602.64
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 3,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 33,
+      "rectIndex": 1,
+      "xref": 196,
+      "bbox": [
+        295.68,
+        588.72,
+        321.12,
+        605.76
+      ],
+      "pixelWidth": 106,
+      "pixelHeight": 71,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 34,
+      "rectIndex": 1,
+      "xref": 197,
+      "bbox": [
+        314.16,
+        588.72,
+        330.0,
+        600.0
+      ],
+      "pixelWidth": 66,
+      "pixelHeight": 47,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 35,
+      "rectIndex": 1,
+      "xref": 198,
+      "bbox": [
+        371.28,
+        588.72,
+        396.72,
+        605.76
+      ],
+      "pixelWidth": 106,
+      "pixelHeight": 71,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 36,
+      "rectIndex": 1,
+      "xref": 199,
+      "bbox": [
+        192.48,
+        428.4,
+        208.08,
+        436.56
+      ],
+      "pixelWidth": 65,
+      "pixelHeight": 34,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 37,
+      "rectIndex": 1,
+      "xref": 200,
+      "bbox": [
+        355.68,
+        602.16,
+        370.56,
+        602.64
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 38,
+      "rectIndex": 1,
+      "xref": 201,
+      "bbox": [
+        392.64,
+        601.92,
+        407.52,
+        602.64
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 3,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 39,
+      "rectIndex": 1,
+      "xref": 202,
+      "bbox": [
+        171.6,
+        614.16,
+        208.8,
+        627.36
+      ],
+      "pixelWidth": 155,
+      "pixelHeight": 55,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 40,
+      "rectIndex": 1,
+      "xref": 203,
+      "bbox": [
+        280.56,
+        450.24,
+        306.0,
+        467.52
+      ],
+      "pixelWidth": 106,
+      "pixelHeight": 72,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 41,
+      "rectIndex": 1,
+      "xref": 204,
+      "bbox": [
+        218.88,
+        563.76,
+        244.32,
+        579.12
+      ],
+      "pixelWidth": 106,
+      "pixelHeight": 64,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 42,
+      "rectIndex": 1,
+      "xref": 205,
+      "bbox": [
+        123.12,
+        565.44,
+        148.56,
+        582.72
+      ],
+      "pixelWidth": 106,
+      "pixelHeight": 72,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 43,
+      "rectIndex": 1,
+      "xref": 206,
+      "bbox": [
+        189.36,
+        530.16,
+        204.96,
+        538.56
+      ],
+      "pixelWidth": 65,
+      "pixelHeight": 35,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 8,
+      "bbox": [
+        424.56,
+        474.48,
+        462.24,
+        488.88
+      ],
+      "pixelWidth": 157,
+      "pixelHeight": 60,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 2,
+      "rectIndex": 1,
+      "xref": 9,
+      "bbox": [
+        462.24,
+        458.16,
+        500.4,
+        472.08
+      ],
+      "pixelWidth": 159,
+      "pixelHeight": 58,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 26,
+      "bbox": [
+        360.0,
+        263.52,
+        465.6,
+        294.24
+      ],
+      "pixelWidth": 440,
+      "pixelHeight": 128,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 2,
+      "rectIndex": 1,
+      "xref": 27,
+      "bbox": [
+        414.24,
+        221.28,
+        433.92,
+        240.72
+      ],
+      "pixelWidth": 82,
+      "pixelHeight": 81,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 3,
+      "rectIndex": 1,
+      "xref": 28,
+      "bbox": [
+        325.68,
+        145.92,
+        453.6,
+        268.08
+      ],
+      "pixelWidth": 533,
+      "pixelHeight": 509,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 4,
+      "rectIndex": 1,
+      "xref": 29,
+      "bbox": [
+        353.04,
+        167.76,
+        392.64,
+        180.24
+      ],
+      "pixelWidth": 165,
+      "pixelHeight": 52,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 5,
+      "rectIndex": 1,
+      "xref": 30,
+      "bbox": [
+        420.0,
+        234.96,
+        460.56,
+        252.48
+      ],
+      "pixelWidth": 169,
+      "pixelHeight": 73,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 6,
+      "rectIndex": 1,
+      "xref": 31,
+      "bbox": [
+        367.2,
+        190.32,
+        382.08,
+        264.48
+      ],
+      "pixelWidth": 62,
+      "pixelHeight": 309,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 7,
+      "rectIndex": 1,
+      "xref": 32,
+      "bbox": [
+        408.0,
+        214.32,
+        436.8,
+        245.04
+      ],
+      "pixelWidth": 120,
+      "pixelHeight": 128,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 8,
+      "rectIndex": 1,
+      "xref": 33,
+      "bbox": [
+        399.36,
+        177.6,
+        445.68,
+        190.8
+      ],
+      "pixelWidth": 193,
+      "pixelHeight": 55,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 9,
+      "rectIndex": 1,
+      "xref": 34,
+      "bbox": [
+        378.0,
+        709.2,
+        505.92,
+        765.12
+      ],
+      "pixelWidth": 533,
+      "pixelHeight": 233,
+      "ext": "jpeg"
+    },
+    {
+      "page": 5,
+      "imageIndex": 10,
+      "rectIndex": 1,
+      "xref": 35,
+      "bbox": [
+        415.92,
+        715.68,
+        435.6,
+        728.88
+      ],
+      "pixelWidth": 82,
+      "pixelHeight": 55,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 11,
+      "rectIndex": 1,
+      "xref": 36,
+      "bbox": [
+        442.56,
+        752.4,
+        462.24,
+        765.36
+      ],
+      "pixelWidth": 82,
+      "pixelHeight": 54,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 12,
+      "rectIndex": 1,
+      "xref": 37,
+      "bbox": [
+        413.52,
+        751.92,
+        433.44,
+        765.12
+      ],
+      "pixelWidth": 83,
+      "pixelHeight": 55,
+      "ext": "png"
+    },
+    {
+      "page": 7,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 48,
+      "bbox": [
+        412.8,
+        193.68,
+        442.8,
+        205.2
+      ],
+      "pixelWidth": 125,
+      "pixelHeight": 48,
+      "ext": "png"
+    },
+    {
+      "page": 7,
+      "imageIndex": 2,
+      "rectIndex": 1,
+      "xref": 49,
+      "bbox": [
+        432.06,
+        171.96,
+        533.88,
+        240.54
+      ],
+      "pixelWidth": 311,
+      "pixelHeight": 209,
+      "ext": "jpeg"
+    },
+    {
+      "page": 7,
+      "imageIndex": 3,
+      "rectIndex": 1,
+      "xref": 50,
+      "bbox": [
+        453.84,
+        463.44,
+        540.0,
+        559.68
+      ],
+      "pixelWidth": 359,
+      "pixelHeight": 401,
+      "ext": "jpeg"
+    },
+    {
+      "page": 7,
+      "imageIndex": 4,
+      "rectIndex": 1,
+      "xref": 51,
+      "bbox": [
+        472.32,
+        185.28,
+        502.32,
+        196.8
+      ],
+      "pixelWidth": 125,
+      "pixelHeight": 48,
+      "ext": "png"
+    },
+    {
+      "page": 7,
+      "imageIndex": 5,
+      "rectIndex": 1,
+      "xref": 52,
+      "bbox": [
+        532.08,
+        210.0,
+        542.88,
+        229.92
+      ],
+      "pixelWidth": 45,
+      "pixelHeight": 83,
+      "ext": "png"
+    },
+    {
+      "page": 7,
+      "imageIndex": 6,
+      "rectIndex": 1,
+      "xref": 53,
+      "bbox": [
+        477.84,
+        235.2,
+        507.84,
+        246.96
+      ],
+      "pixelWidth": 125,
+      "pixelHeight": 49,
+      "ext": "png"
+    }
+  ],
+  "warnings": []
+}

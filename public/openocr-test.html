@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:,">
+  <title>OpenOCR 小範圍測試</title>
+  <style>
+    :root { color-scheme: light; font-family: system-ui, -apple-system, "PingFang TC", sans-serif; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #eef3f8; color: #18263a; }
+    header { padding: 24px clamp(18px, 4vw, 48px); background: #fff; border-bottom: 1px solid #d7e0ea; }
+    h1 { margin: 0 0 8px; font-size: 28px; letter-spacing: 0; }
+    p { margin: 0; color: #5a6b80; line-height: 1.6; }
+    main { width: min(1320px, calc(100% - 32px)); margin: 24px auto 48px; }
+    nav { display: flex; gap: 8px; margin-bottom: 18px; flex-wrap: wrap; }
+    button { border: 1px solid #aebccc; background: #fff; color: #24364e; padding: 9px 14px; cursor: pointer; font: inherit; }
+    button[aria-selected="true"] { background: #176b52; border-color: #176b52; color: #fff; }
+    figure { margin: 0; background: #fff; border: 1px solid #d7e0ea; padding: 14px; }
+    img { display: block; width: 100%; height: auto; }
+    figcaption { padding: 12px 4px 2px; color: #5a6b80; line-height: 1.6; }
+    [hidden] { display: none; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>OpenOCR 小範圍測試</h1>
+    <p>綠框為文字，紅框為表格，黃框為圖片；此頁只用來比較版面辨識，不代表正式題目內容。</p>
+  </header>
+  <main>
+    <nav aria-label="測試頁面">
+      <button type="button" aria-selected="true" data-page="02">第 4 題框選插圖</button>
+      <button type="button" aria-selected="false" data-page="05">第 14-15 題表格</button>
+      <button type="button" aria-selected="false" data-page="07">第 19-21 題圖片題組</button>
+    </nav>
+    <figure data-result="02">
+      <img src="../data/openocr-tests/115-chinese/output/page-02/page-02/page-02_vis.jpg" alt="第 4 題 OpenOCR 辨識結果">
+      <figcaption>人物插圖有被辨識，但框內說明文字被拆成多個文字區塊。</figcaption>
+    </figure>
+    <figure data-result="05" hidden>
+      <img src="../data/openocr-tests/115-chinese/output/page-05/page-05/page-05_vis.jpg" alt="第 14 至 15 題 OpenOCR 辨識結果">
+      <figcaption>主表格與選項表格皆成功辨識為完整表格區域。</figcaption>
+    </figure>
+    <figure data-result="07" hidden>
+      <img src="../data/openocr-tests/115-chinese/output/page-07/page-07/page-07_vis.jpg" alt="第 19 至 21 題 OpenOCR 辨識結果">
+      <figcaption>書法圖片成功辨識為獨立圖片，題組材料和題目也有分區。</figcaption>
+    </figure>
+  </main>
+  <script>
+    const buttons = [...document.querySelectorAll('[data-page]')];
+    const results = [...document.querySelectorAll('[data-result]')];
+    buttons.forEach((button) => {
+      button.addEventListener('click', () => {
+        buttons.forEach((item) => item.setAttribute('aria-selected', String(item === button)));
+        results.forEach((item) => { item.hidden = item.dataset.result !== button.dataset.page; });
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,5117 @@
+{
+  "source": {
+    "path": "資料/大考中心官方PDF/114學年度/數學A/114學測-數學A-試題內容-03-114學測數學a試題.pdf",
+    "year": "114",
+    "subject": "數學A",
+    "fileName": "114學測-數學A-試題內容-03-114學測數學a試題.pdf",
+    "fileType": "試題內容"
+  },
+  "meta": {
+    "extractor": "batch_extract.py v1",
+    "extractedAt": "2026-07-10T09:21:20",
+    "mode": "full",
+    "pageCount": 8
+  },
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.32,
+      "height": 841.92,
+      "text": "財團法人大學入學考試中心基金會\n114學年度學科能力測驗試題\n數學A考科\n請於考試開始鈴響起，在答題卷簽名欄位以正楷簽全名\n⎯作答注意事項⎯\n考試時間：100分鐘\n作答方式：\n˙選擇（填）題用 2B 鉛筆在「答題卷」上作答；更正時以橡皮擦擦拭，切勿使用\n修正帶（液）。\n˙除題目另有規定外，非選擇題用筆尖較粗之黑色墨水的筆在「答題卷」上作答；更正時，\n可以使用修正帶（液）。\n˙考生須依上述規定劃記或作答，若未依規定而導致答案難以辨識或評閱時，恐將影響\n成績。\n˙答題卷每人一張，不得要求增補。\n˙選填題考生必須依各題的格式填答，且每一個列號只能在一個格子劃記。請仔細閱讀\n下面的例子。\n例：若答案格式是 ，而依題意計算出來的答案是 ，則考生必須分別在答題卷上\n的第18-1列的 與第18-2列的 劃記，如：\n例：若答案格式是 ，而答案是 時，則考生必須分別在答題卷的第 19-1 列\n的 與第19-2列的 劃記，如：\n選擇（填）題計分方式：\n˙單選題：每題有 n\n18- 1\n3\n18 -2 8\n3 8\n18-1 1 2 3 4 5 6 7 8 9 0 − \n18-2 1 2 3 4 5 6 7 8 9 0 − \n−7\n19 -1 19 -2\n50\n50\n− 7\n19-1 1 2 3 4 5 6 7 8 9 0 − \n1 2 3 4 5 6 7 8 9 0 − \n19-2\n個選項，其中只有一個是正確或最適當的選項。各題答對者，得該題\n的分數；答錯、未作答或劃記多於一個選項者，該題以零分計算。\n˙多選題：每題有n個選項，其中至少有一個是正確的選項。各題之選項獨立判定，所有\nn−2k\n選項均答對者，得該題全部的分數；答錯 k 個選項者，得該題 的分數；但得分\nn\n低於零分或所有選項均未作答者，該題以零分計算。\n˙選填題每題有n個空格，須全部答對才給分，答錯不倒扣。\n※試題中參考的附圖均為示意圖，試題後附有參考公式及數值。",
+      "charCount": 820
+    },
+    {
+      "page": 2,
+      "width": 595.32,
+      "height": 841.92,
+      "text": "第 1 頁 請記得在答題卷簽名欄位以正楷簽全名 114年學測\n共 7 頁 數學A考科\n第壹部分、選擇（填）題（占85分）\n一、單選題（占 30 分）\n說明：第1題至第6題，每題 5分。\n1. 不透明袋中有藍、綠色球各若干顆，且球上皆有\n- 1 -\n1 或 2 的編號，其顆數如下表，例如\n標有1號的藍色球有2顆。\n藍 綠\n1號 2 4\n2 號 3 k\n從此袋中隨機抽取一球（每顆球被抽到的機率相等），若已知抽到藍色球的事件與抽到\n1號球的事件互相獨立，試問 k 值為何？\n(1) 2 (2) 3 (3) 4 (4) 5 (5) 6\n2. 坐標平面上， P ( a , 0 ) 為 x 軸上一點，其中 a  0 。令 L\n1\n4 3\n、L 為通過P點，斜率分別為− 、−\n2 3 2\n的直線。已知 L、\n1\nL\n2\n分別與兩坐標軸圍成的兩個直角三角形的面積差為 3 ，試問 a值\n為何？\n(1) 3 2 (2) 6 (3) 6 2 (4) 9 (5) 8 2\n3. 某校舉辦音樂會，包含鋼琴表演 5 個、小提琴表演 4 個、歌唱表演 3 個等三類表演\n共 12 個不同曲目。該校想將同類表演排在一起，且歌唱必須排在鋼琴之後或是小提琴\n之後。試問這場音樂會可能的曲目排列方式共有幾種？\n(1) 5 !  4 !  3 !\n(2) 2  5 !  4 !  3 !\n(3)35!4!3!\n(4)45!4!3!\n(5) 6  5 !  4 !  3 !",
+      "charCount": 637
+    },
+    {
+      "page": 3,
+      "width": 595.32,
+      "height": 841.92,
+      "text": "114年學測 請記得在答題卷簽名欄位以正楷簽全名 第 2 頁\n數學A考科 共 7 頁\n4. 坐 標 平 面 上 ，\n- 2 -\nx 坐 標 與 y 坐 標 均 為 整 數 的 點 稱 為 格 子 點 。 試 問 在 函 數 圖 形\ny = lo g\n2\nx 、 x 軸與直線 x =\n6\n2\n1\n所圍有界區域的內部（不含邊界）共有多少個格子點？\n(1) 88 (2) 8 9 (3) 90 (4) 91 (5) 9 2\n5. 設 0 2     。已知所有滿足 s i n 2 s i n    且 cos2cos的可表為 a b      ，\n其中 a , b 為實數，試問 b−a值為何？\n(1)\n1\n3\n1\n(2) (3)\n2\n2\n3\n(4)\n3\n4\n(5) 1\n6. 坐標空間中有三個彼此互相垂直之向量 u , v , w 。已知 u − v = ( 2 , − 1 , 0 ) ，\n且 v − w = ( − 1 , 2 , 3 ) 。試問由 u , v , w 所張出的平行六面體之體積為何？\n(1) 2 5 (2) 5 2 (3) 2 10 (4) 4 5 (5) 4 10\n二、多選題（占 30 分）\n說明：第7題至第12題，每題 5分。\n7. 已知數列  a\nn\n 滿足 3 a\nn + 1\n= a\nn\n+ n （對任意正整數n都成立）且 a\n1\n= 2 。令數列  b\nn\n 滿足\nn 3\nb =a − + 。試選出正確的選項。\nn n 2 4\n(1) a\n2\n= 2\n(2) b\n2\n=\n3\n4\n2\n(3) 數列b 是公比為 的等比數列\nn 3\n(4) 對於任意正整數n，3na 皆為正整數\nn\n(5) b 10−4\n10",
+      "charCount": 745
+    },
+    {
+      "page": 4,
+      "width": 595.32,
+      "height": 841.92,
+      "text": "第 3 頁 請記得在答題卷簽名欄位以正楷簽全名 114年學測\n共 7 頁 數學A考科\n8. 考慮坐標平面上滿足方程式\n- 3 -\n2 x\n8\n2\n=\n4\n2\nx\n2 y\n的點 P ( x , y ) ，試選出正確的選項。\n(1) 當 x = 3 時，滿足此方程式的解有相異2個\n(2) 若點 ( a , b ) 滿足此方程式，則點(−a,−b)也滿足此方程式\n(3) 所有可能的點 P(x,y)構成的圖形為一個圓\n(4) 點 P ( x , y ) 可能在直線 x + y = 4 上\n(5) 對於所有可能的點 P ( x , y ) ，其 x − y 的最大值為 1 + 2 2\n9. 設 b 、 c 為實數。已知二次方程式 x 2 + b x + c = 0 有實根，但二次方程式 x 2 + ( b + 2 ) x + c = 0\n沒有實根。試選出正確的選項。\n(1) c  0\n(2) b  0\n(3) x 2 + ( b + 1 ) x + c = 0 有實根\n(4) x 2 + ( b + 2 ) x − c = 0 有實根\n(5) x 2 + ( b − 2 ) x + c = 0 有實根\n10. 令  為坐標平面上 y=sinx在 0  x  3 內之函數圖形。一水平直線 L:y=k 與  相交，\n其中三交點 P ( x\n1\n, k ) , Q ( x\n2\n, k ) , R ( x\n3\n, k ) 滿足 x\n1\n x\n2\n 1  x\n3\n。試選出正確的選項。\n(1) k  0\n(2) L與恰有 3 個交點\n(3) x +x 1\n1 2\n(4) 若 2 P Q = Q R ，則 k =\n1\n2\n(5) L 與  所有交點的 x 坐標之和大於5",
+      "charCount": 749
+    },
+    {
+      "page": 5,
+      "width": 595.32,
+      "height": 841.92,
+      "text": "114年學測 請記得在答題卷簽名欄位以正楷簽全名 第 4 頁\n數學A考科 共 7 頁\n11. 在\n- 4 -\n A B C 中， A B = 6 , A C = 5 , B C = 4 。令 A B 中點為 D， P 為  A B C 之角平分線與 C D 之交點，\n如圖所示。試選出正確的選項。\n3\n(1) CP= CD\n7\n(2) A P =\n3\n7\nA B +\n2\n7\nA C\n(3) c o s  B A C =\n3\n4\n(4)  A C P\n15\n面積為 7\n14\n120\n(5) （內積） APAC =\n7\n12. 某種合金由甲和乙兩種金屬組成，某生想知道其中金屬比例與合金的波長關係。\n他做實驗測量「甲占比為 x % 的合金所對應的波長 y （單位：奈米）」，並將得到的\n2 0 筆數據(x ,y )，\nk k\nk = 1 , , 2 0 ，在 x y 平面上標出對應的點，其迴歸直線（最適直線）為\ny = 2 1 .3 x − 4 0 。\n為符合投稿規範，須將報告描述為「乙占比為 u % 的合金所對應的波長v（單位：微米）」，\n他將數據 ( x\nk\n, y\nk\n) 轉換為 ( u\nk\n, v\nk\n) ， k = 1 , , 2 0 ，得到在 u v 平面的迴歸直線為 v = a u + b 。\n已知1奈米 = 1 0 − 9 公尺，1微米 = 1 0 − 6 公尺。試選出正確的選項。\n(1) u\nk\n= 1 0 0 − x\nk\n， k = 1 , , 2 0\n(2) v\nk\n= 1 0 0 0 y\nk\n， k = 1 , , 2 0\n(3) u\n1\n, u\n2\n, u\n3\n, , u\n2 0\n的標準差等於 x\n1\n, x\n2\n, x\n3\n, , x\n2 0\n的標準差\n(4) b=2.09\n(5) 某生發現有另一筆數據 ( u\n2 1\n, v\n2 1\n) ，且滿足 v\n2 1\n= a u\n2 1\n+ b ；若將這 2 1 筆數據 ( u\nk\n, v\nk\n) ，\nk = 1 , , 2 1 ，在 u v 平面上標出對應的點，則其迴歸直線仍為v=au+b\n三、選填題（占 25 分）\n說明：第13題至第17題，每題 5分。\n13. 已知實係數三次多項式 f(x)除以 x+6得商式q(x)和餘式 3 。若q(x)在 x=−6有最大值 8 ，\n○○ ○\n則 y= f(x)圖形的對稱中心坐標為( 13-1 13-2 ， 13-3 )。",
+      "charCount": 1035
+    },
+    {
+      "page": 6,
+      "width": 595.32,
+      "height": 841.92,
+      "text": "第 5 頁 請記得在答題卷簽名欄位以正楷簽全名 114年學測\n共 7 頁 數學A考科\n14. 坐標空間中，已知點 A的坐標為\n- 5 -\n( a , b , c ) ，其中 a , b , c 皆為小於 0 的實數，且知點 A\n與三平面 E\n1\n: 4 y + 3 z = 2 、 E\n2\n: 3 y + 4 z = − 5 、 E\n3\n: x + 2 y + 2 z = − 2 的距離都是 6 ，\n則 a + b + c =\n○○○\n14-1 14-2 14-3 。\n15. 假日市集有個攤位推出「試試手氣，定價480元的可愛玩偶最低只要240元」。規則為：\n顧客投擲一枚均勻硬幣至多 5 次，前 3 次連續擲得 3 個正面者則只能以 2 4 0 元購得一個\n玩偶，擲到第 4 次才累積得 3 個正面者則只能以 3 2 0 元購得一個，擲到第 5 次才累積得\n3 個正面者則只能以 4 0 0 元購得一個； 5 次投完仍未累積 3 個正面者則只能以 4 8 0 元\n○○○\n購得一個。參與此遊戲的顧客購得一個玩偶所花金額的期望值為 15-1 15-2 15-3 元。\n16. 坐標平面上，設 L\n1\n、 L\n2\n為通過點 ( 3 ,1 ) 且斜率分別為 m 、 − m 的兩條直線，其中 m 為\n一實數。另設  為圓心在原點的一個圓。已知  與 L\n1\n交於相異兩點 A 、 B ，且知\n圓心到 L\n1\n的距離為1，又與 L\n2\n相切，則弦 A B\n○○\n16-1 16-2\n的長度為 。（化為最簡分數）\n○\n16-3",
+      "charCount": 664
+    },
+    {
+      "page": 7,
+      "width": 595.32,
+      "height": 841.92,
+      "text": "114年學測 請記得在答題卷簽名欄位以正楷簽全名 第 6 頁\n數學A考科 共 7 頁\n17. ABC中，已知\n- 6 -\nA B = B C = 3 ， c o s  A B C = −\n1\n8\n。在  A B C 的外接圓上有一點D滿足 B D = 4 ，\n○ ○\n且ADCD，則CD= 17-1 + 17-2 。（化為最簡根式）\n第貳部分、混合題或非選擇題（占 15 分）\n說明︰本部分共有 1 題組，單選題每題 3 分，非選擇題配分標於題末。限在答題卷標示\n題號的作答區內作答。\n選擇（填）題與「非選擇題作圖部分」使用 2B 鉛筆作答，更正時以橡皮擦擦拭，\n切勿使用修正帶（液）。非選擇題請由左而右橫式書寫，作答時必須寫出計算過程\n或理由，否則將酌予扣分。\n18-20 題為題組\n已知 A =\n a\na\n1\n3\na\na\n2\n4\n\n、 B =\n b\nb\n1\n3\nb\nb\n2\n4\n\n皆為坐標平面上以原點 O 為中心，逆時針旋轉一銳角的旋轉\n矩陣，且滿足 A 2 = B 3 =\n 0\n1\nc\nd\n\n，其中 c , d 為實數。\n設點 P(1,1)經 A3變換後為點 Q ，且點 Q 經 B4變換後為點 R 。根據上述，試回答下列問題。\n18. 試問c之值為何？（單選題，3 分）\n(1) 0 (2) −1 (3) 1 (4) −\n1\n2\n1\n(5)\n2\n19. 試求點 Q 的坐標，以及 O R 與向量 (1 , 0 ) 的夾角。（非選擇題，6 分）\n20. 設 L為過點 P 且與直線 OQ平行的直線，點 S 為 L和直線 OR的交點，試求 OSP，\n並求點 S 的坐標。（非選擇題，6 分）",
+      "charCount": 721
+    },
+    {
+      "page": 8,
+      "width": 595.32,
+      "height": 841.92,
+      "text": "第 7 頁 請記得在答題卷簽名欄位以正楷簽全名 114年學測\n共 7 頁 數學A考科\n參考公式及可能用到的數值\n1. 首項為\n- 7 -\na ，公差為 d 的等差數列前 n 項之和為 S =\nn ( 2 a + (\n2\nn − 1 ) d )\n首項為 a，公比為 r ( r  1 ) 的等比數列前 n項之和為 S =\na (1\n1\n−\n−\nr\nr\nn )\n2. 三角函數的和角公式： sin(A+B)=sinAcosB+cosAsinB\nc o s ( A + B ) = c o s A c o s B − s i n A s i n B\ntanA+tanB\ntan(A+B)=\n1−tanAtanB\n3.  A B C 的正弦定理：\ns i\na\nn A\n=\ns i\nb\nn B\n=\ns i\nc\nn C\n= 2 R （ R 為  A B C 外接圓半徑）\nABC的餘弦定理： c 2 = a 2 + b 2 − 2 a b c o s C\n4. 一維數據 X:x,x , ,x ，\n1 2 n\n算術平均數\nX\n1\nn\n( x\n1\nx\n2\nx\nn\n)  = + +    +\n標準差\nX\n1\nn\n[ ( x\n1 X\n) 2 ( x\n2 X\n) 2 ( x\nn X\n) 2 ]\n1\nn\n[ ( x\n1\n2 x\n2\n2 x\nn\n2 ) n\nX\n2 ]      = −\n+\n−\n+ +\n− =\n+ + +\n−\n5. 二維數據 (X,Y):(x,y ),(x ,y ), ,(x ,y )，\n1 1 2 2 n n\n(x − )(y − )+(x − )(y − )+ +(x − )(y − )\n相關係數 r = 1 X 1 Y 2 X 2 Y n X n Y\nX,Y n \nX Y\n迴歸直線（最適合直線）方程式 y\nY\nr\nX ,Y\nY\nX\n( x\nX\n)\n\n \n\n− = −\n6. 參考數值： 2 1 .4 1 4 , 3 1 .7 3 2 , 5 2 .2 3 6 , 6 2 .4 4 9 , 3 .1 4 2      \n7. 對數值： lo g 2  0 .3 0 1 0 , lo g 3  0 .4 7 7 1 , lo g 5  0 .6 9 9 0 , lo g 7  0 .8 4 5 1",
+      "charCount": 989
+    }
+  ],
+  "tables": [
+    {
+      "page": 2,
+      "tableIndex": 0,
+      "bbox": [
+        120.62,
+        199.34,
+        285.29,
+        250.22
+      ],
+      "rowCount": 3,
+      "colCount": 3,
+      "cells": [
+        [
+          "",
+          "藍",
+          "綠"
+        ],
+        [
+          "1號",
+          "2",
+          "4"
+        ],
+        [
+          "2 號",
+          "3",
+          "k"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 33,
+      "bbox": [
+        191.52,
+        465.6,
+        205.92,
+        465.72
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 2,
+      "xref": 33,
+      "bbox": [
+        284.88,
+        463.92,
+        299.28,
+        464.04
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 3,
+      "xref": 33,
+      "bbox": [
+        222.72,
+        578.64,
+        237.12,
+        578.76
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 4,
+      "xref": 33,
+      "bbox": [
+        127.44,
+        578.76,
+        141.84,
+        578.88
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 5,
+      "xref": 33,
+      "bbox": [
+        393.12,
+        512.4,
+        407.52,
+        512.52
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 6,
+      "xref": 33,
+      "bbox": [
+        409.8,
+        512.4,
+        424.2,
+        512.52
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 7,
+      "xref": 33,
+      "bbox": [
+        224.4,
+        512.52,
+        238.8,
+        512.64
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 8,
+      "xref": 33,
+      "bbox": [
+        262.08,
+        512.52,
+        276.48,
+        512.64
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 9,
+      "xref": 33,
+      "bbox": [
+        280.68,
+        512.52,
+        295.08,
+        512.64
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 10,
+      "xref": 33,
+      "bbox": [
+        299.28,
+        512.52,
+        313.68,
+        512.64
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 11,
+      "xref": 33,
+      "bbox": [
+        318.96,
+        512.52,
+        333.36,
+        512.64
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 12,
+      "xref": 33,
+      "bbox": [
+        337.68,
+        512.76,
+        352.08,
+        512.88
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 13,
+      "xref": 33,
+      "bbox": [
+        355.8,
+        512.52,
+        370.2,
+        512.64
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 14,
+      "xref": 33,
+      "bbox": [
+        374.76,
+        512.52,
+        389.16,
+        512.64
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 15,
+      "xref": 33,
+      "bbox": [
+        205.08,
+        512.52,
+        219.48,
+        512.64
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 16,
+      "xref": 33,
+      "bbox": [
+        243.0,
+        512.52,
+        257.4,
+        512.64
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 17,
+      "xref": 33,
+      "bbox": [
+        318.96,
+        489.48,
+        333.36,
+        489.6
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 18,
+      "xref": 33,
+      "bbox": [
+        408.96,
+        489.48,
+        423.36,
+        489.6
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 19,
+      "xref": 33,
+      "bbox": [
+        224.4,
+        489.48,
+        238.8,
+        489.6
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 20,
+      "xref": 33,
+      "bbox": [
+        262.08,
+        489.48,
+        276.48,
+        489.6
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 21,
+      "xref": 33,
+      "bbox": [
+        280.68,
+        489.48,
+        295.08,
+        489.6
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 22,
+      "xref": 33,
+      "bbox": [
+        299.16,
+        489.48,
+        313.56,
+        489.6
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 23,
+      "xref": 33,
+      "bbox": [
+        337.56,
+        489.48,
+        351.96,
+        489.6
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 24,
+      "xref": 33,
+      "bbox": [
+        355.8,
+        489.48,
+        370.2,
+        489.6
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 25,
+      "xref": 33,
+      "bbox": [
+        374.76,
+        489.48,
+        389.16,
+        489.6
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 26,
+      "xref": 33,
+      "bbox": [
+        205.08,
+        489.48,
+        219.48,
+        489.6
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 27,
+      "xref": 33,
+      "bbox": [
+        392.4,
+        489.48,
+        406.8,
+        489.6
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 28,
+      "xref": 33,
+      "bbox": [
+        243.0,
+        489.48,
+        257.4,
+        489.6
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 29,
+      "xref": 33,
+      "bbox": [
+        393.48,
+        625.2,
+        407.88,
+        625.32
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 30,
+      "xref": 33,
+      "bbox": [
+        410.16,
+        625.2,
+        424.56,
+        625.32
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 31,
+      "xref": 33,
+      "bbox": [
+        224.76,
+        625.2,
+        239.16,
+        625.32
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 32,
+      "xref": 33,
+      "bbox": [
+        262.44,
+        625.2,
+        276.84,
+        625.32
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 33,
+      "xref": 33,
+      "bbox": [
+        281.04,
+        625.2,
+        295.44,
+        625.32
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 34,
+      "xref": 33,
+      "bbox": [
+        299.64,
+        625.2,
+        314.04,
+        625.32
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 35,
+      "xref": 33,
+      "bbox": [
+        338.76,
+        625.08,
+        353.16,
+        625.2
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 36,
+      "xref": 33,
+      "bbox": [
+        319.32,
+        624.96,
+        333.72,
+        625.08
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 37,
+      "xref": 33,
+      "bbox": [
+        356.16,
+        625.2,
+        370.56,
+        625.32
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 38,
+      "xref": 33,
+      "bbox": [
+        375.12,
+        625.2,
+        389.52,
+        625.32
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 39,
+      "xref": 33,
+      "bbox": [
+        205.44,
+        625.2,
+        219.84,
+        625.32
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 40,
+      "xref": 33,
+      "bbox": [
+        243.36,
+        625.2,
+        257.76,
+        625.32
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 41,
+      "xref": 33,
+      "bbox": [
+        319.32,
+        602.28,
+        333.72,
+        602.4
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 42,
+      "xref": 33,
+      "bbox": [
+        409.32,
+        602.28,
+        423.72,
+        602.4
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 43,
+      "xref": 33,
+      "bbox": [
+        224.76,
+        602.28,
+        239.16,
+        602.4
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 44,
+      "xref": 33,
+      "bbox": [
+        262.44,
+        602.28,
+        276.84,
+        602.4
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 45,
+      "xref": 33,
+      "bbox": [
+        281.04,
+        602.28,
+        295.44,
+        602.4
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 46,
+      "xref": 33,
+      "bbox": [
+        299.52,
+        602.28,
+        313.92,
+        602.4
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 47,
+      "xref": 33,
+      "bbox": [
+        337.92,
+        602.28,
+        352.32,
+        602.4
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 48,
+      "xref": 33,
+      "bbox": [
+        356.16,
+        602.28,
+        370.56,
+        602.4
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 49,
+      "xref": 33,
+      "bbox": [
+        375.12,
+        602.28,
+        389.52,
+        602.4
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 50,
+      "xref": 33,
+      "bbox": [
+        205.44,
+        602.28,
+        219.84,
+        602.4
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 51,
+      "xref": 33,
+      "bbox": [
+        243.36,
+        602.28,
+        257.76,
+        602.4
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 1,
+      "rectIndex": 52,
+      "xref": 33,
+      "bbox": [
+        393.0,
+        602.28,
+        407.4,
+        602.4
+      ],
+      "pixelWidth": 40,
+      "pixelHeight": 1,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 1,
+      "xref": 35,
+      "bbox": [
+        187.8,
+        452.16,
+        212.76,
+        468.96
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 2,
+      "xref": 35,
+      "bbox": [
+        280.8,
+        450.6,
+        305.76,
+        467.4
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 3,
+      "xref": 35,
+      "bbox": [
+        123.36,
+        565.68,
+        148.32,
+        582.48
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 4,
+      "xref": 35,
+      "bbox": [
+        388.8,
+        497.76,
+        413.76,
+        514.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 5,
+      "xref": 35,
+      "bbox": [
+        405.0,
+        497.76,
+        430.08,
+        514.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 6,
+      "xref": 35,
+      "bbox": [
+        220.2,
+        499.08,
+        245.16,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 7,
+      "xref": 35,
+      "bbox": [
+        257.76,
+        499.08,
+        282.72,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 8,
+      "xref": 35,
+      "bbox": [
+        276.72,
+        499.08,
+        301.68,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 9,
+      "xref": 35,
+      "bbox": [
+        295.68,
+        499.08,
+        320.76,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 10,
+      "xref": 35,
+      "bbox": [
+        334.32,
+        499.32,
+        359.4,
+        516.0
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 11,
+      "xref": 35,
+      "bbox": [
+        352.2,
+        499.08,
+        377.28,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 12,
+      "xref": 35,
+      "bbox": [
+        371.28,
+        499.08,
+        396.24,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 13,
+      "xref": 35,
+      "bbox": [
+        238.8,
+        499.08,
+        263.76,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 14,
+      "xref": 35,
+      "bbox": [
+        404.52,
+        474.24,
+        429.6,
+        491.04
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 15,
+      "xref": 35,
+      "bbox": [
+        220.2,
+        476.16,
+        245.16,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 16,
+      "xref": 35,
+      "bbox": [
+        257.76,
+        476.16,
+        282.72,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 17,
+      "xref": 35,
+      "bbox": [
+        276.72,
+        476.16,
+        301.68,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 18,
+      "xref": 35,
+      "bbox": [
+        295.68,
+        476.16,
+        320.64,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 19,
+      "xref": 35,
+      "bbox": [
+        333.24,
+        476.16,
+        358.2,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 20,
+      "xref": 35,
+      "bbox": [
+        352.2,
+        476.16,
+        377.28,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 21,
+      "xref": 35,
+      "bbox": [
+        371.16,
+        476.16,
+        396.24,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 22,
+      "xref": 35,
+      "bbox": [
+        389.4,
+        610.56,
+        414.36,
+        627.36
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 23,
+      "xref": 35,
+      "bbox": [
+        405.36,
+        610.56,
+        430.44,
+        627.36
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 24,
+      "xref": 35,
+      "bbox": [
+        388.92,
+        587.52,
+        414.0,
+        604.2
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 25,
+      "xref": 35,
+      "bbox": [
+        220.56,
+        611.88,
+        245.52,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 26,
+      "xref": 35,
+      "bbox": [
+        258.0,
+        611.88,
+        283.08,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 27,
+      "xref": 35,
+      "bbox": [
+        277.08,
+        611.88,
+        302.04,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 28,
+      "xref": 35,
+      "bbox": [
+        296.04,
+        611.88,
+        321.0,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 29,
+      "xref": 35,
+      "bbox": [
+        334.44,
+        611.76,
+        359.4,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 30,
+      "xref": 35,
+      "bbox": [
+        352.56,
+        611.88,
+        377.64,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 31,
+      "xref": 35,
+      "bbox": [
+        371.64,
+        611.88,
+        396.6,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 32,
+      "xref": 35,
+      "bbox": [
+        404.64,
+        587.64,
+        429.6,
+        604.32
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 33,
+      "xref": 35,
+      "bbox": [
+        220.56,
+        588.84,
+        245.52,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 34,
+      "xref": 35,
+      "bbox": [
+        258.0,
+        588.84,
+        283.08,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 35,
+      "xref": 35,
+      "bbox": [
+        277.08,
+        588.84,
+        302.04,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 36,
+      "xref": 35,
+      "bbox": [
+        296.04,
+        588.84,
+        321.0,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 37,
+      "xref": 35,
+      "bbox": [
+        333.6,
+        588.84,
+        358.56,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 38,
+      "xref": 35,
+      "bbox": [
+        352.56,
+        588.84,
+        377.64,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 2,
+      "rectIndex": 39,
+      "xref": 35,
+      "bbox": [
+        371.52,
+        588.84,
+        396.6,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 3,
+      "rectIndex": 1,
+      "xref": 37,
+      "bbox": [
+        187.68,
+        426.96,
+        211.68,
+        437.76
+      ],
+      "pixelWidth": 66,
+      "pixelHeight": 30,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 3,
+      "rectIndex": 2,
+      "xref": 37,
+      "bbox": [
+        185.04,
+        528.96,
+        209.04,
+        539.76
+      ],
+      "pixelWidth": 66,
+      "pixelHeight": 30,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 4,
+      "rectIndex": 1,
+      "xref": 39,
+      "bbox": [
+        184.08,
+        399.0,
+        222.0,
+        417.0
+      ],
+      "pixelWidth": 105,
+      "pixelHeight": 50,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 5,
+      "rectIndex": 1,
+      "xref": 41,
+      "bbox": [
+        192.96,
+        403.56,
+        207.96,
+        411.36
+      ],
+      "pixelWidth": 41,
+      "pixelHeight": 21,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 5,
+      "rectIndex": 2,
+      "xref": 41,
+      "bbox": [
+        192.96,
+        428.76,
+        207.96,
+        436.56
+      ],
+      "pixelWidth": 41,
+      "pixelHeight": 21,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 5,
+      "rectIndex": 3,
+      "xref": 41,
+      "bbox": [
+        213.24,
+        530.76,
+        228.36,
+        538.56
+      ],
+      "pixelWidth": 41,
+      "pixelHeight": 21,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 6,
+      "rectIndex": 1,
+      "xref": 43,
+      "bbox": [
+        218.64,
+        565.2,
+        243.6,
+        579.96
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 41,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 7,
+      "rectIndex": 1,
+      "xref": 45,
+      "bbox": [
+        189.6,
+        530.52,
+        204.6,
+        538.44
+      ],
+      "pixelWidth": 41,
+      "pixelHeight": 22,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 8,
+      "rectIndex": 1,
+      "xref": 47,
+      "bbox": [
+        208.44,
+        528.72,
+        232.44,
+        542.88
+      ],
+      "pixelWidth": 66,
+      "pixelHeight": 39,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 9,
+      "rectIndex": 1,
+      "xref": 49,
+      "bbox": [
+        195.36,
+        547.92,
+        223.44,
+        562.68
+      ],
+      "pixelWidth": 78,
+      "pixelHeight": 41,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 1,
+      "xref": 51,
+      "bbox": [
+        192.96,
+        403.56,
+        207.96,
+        411.36
+      ],
+      "pixelWidth": 41,
+      "pixelHeight": 21,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 2,
+      "xref": 51,
+      "bbox": [
+        192.96,
+        428.76,
+        207.96,
+        436.56
+      ],
+      "pixelWidth": 41,
+      "pixelHeight": 21,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 10,
+      "rectIndex": 3,
+      "xref": 51,
+      "bbox": [
+        213.24,
+        530.76,
+        228.36,
+        538.56
+      ],
+      "pixelWidth": 41,
+      "pixelHeight": 21,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 11,
+      "rectIndex": 1,
+      "xref": 53,
+      "bbox": [
+        172.2,
+        478.2,
+        208.56,
+        490.92
+      ],
+      "pixelWidth": 101,
+      "pixelHeight": 35,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 11,
+      "rectIndex": 2,
+      "xref": 53,
+      "bbox": [
+        172.56,
+        590.88,
+        208.92,
+        603.6
+      ],
+      "pixelWidth": 101,
+      "pixelHeight": 35,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 1,
+      "xref": 55,
+      "bbox": [
+        187.8,
+        452.16,
+        212.76,
+        468.96
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 2,
+      "xref": 55,
+      "bbox": [
+        280.8,
+        450.6,
+        305.76,
+        467.4
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 3,
+      "xref": 55,
+      "bbox": [
+        123.36,
+        565.68,
+        148.32,
+        582.48
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 4,
+      "xref": 55,
+      "bbox": [
+        388.8,
+        497.76,
+        413.76,
+        514.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 5,
+      "xref": 55,
+      "bbox": [
+        405.0,
+        497.76,
+        430.08,
+        514.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 6,
+      "xref": 55,
+      "bbox": [
+        220.2,
+        499.08,
+        245.16,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 7,
+      "xref": 55,
+      "bbox": [
+        257.76,
+        499.08,
+        282.72,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 8,
+      "xref": 55,
+      "bbox": [
+        276.72,
+        499.08,
+        301.68,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 9,
+      "xref": 55,
+      "bbox": [
+        295.68,
+        499.08,
+        320.76,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 10,
+      "xref": 55,
+      "bbox": [
+        334.32,
+        499.32,
+        359.4,
+        516.0
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 11,
+      "xref": 55,
+      "bbox": [
+        352.2,
+        499.08,
+        377.28,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 12,
+      "xref": 55,
+      "bbox": [
+        371.28,
+        499.08,
+        396.24,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 13,
+      "xref": 55,
+      "bbox": [
+        238.8,
+        499.08,
+        263.76,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 14,
+      "xref": 55,
+      "bbox": [
+        404.52,
+        474.24,
+        429.6,
+        491.04
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 15,
+      "xref": 55,
+      "bbox": [
+        220.2,
+        476.16,
+        245.16,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 16,
+      "xref": 55,
+      "bbox": [
+        257.76,
+        476.16,
+        282.72,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 17,
+      "xref": 55,
+      "bbox": [
+        276.72,
+        476.16,
+        301.68,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 18,
+      "xref": 55,
+      "bbox": [
+        295.68,
+        476.16,
+        320.64,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 19,
+      "xref": 55,
+      "bbox": [
+        333.24,
+        476.16,
+        358.2,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 20,
+      "xref": 55,
+      "bbox": [
+        352.2,
+        476.16,
+        377.28,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 21,
+      "xref": 55,
+      "bbox": [
+        371.16,
+        476.16,
+        396.24,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 22,
+      "xref": 55,
+      "bbox": [
+        389.4,
+        610.56,
+        414.36,
+        627.36
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 23,
+      "xref": 55,
+      "bbox": [
+        405.36,
+        610.56,
+        430.44,
+        627.36
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 24,
+      "xref": 55,
+      "bbox": [
+        388.92,
+        587.52,
+        414.0,
+        604.2
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 25,
+      "xref": 55,
+      "bbox": [
+        220.56,
+        611.88,
+        245.52,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 26,
+      "xref": 55,
+      "bbox": [
+        258.0,
+        611.88,
+        283.08,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 27,
+      "xref": 55,
+      "bbox": [
+        277.08,
+        611.88,
+        302.04,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 28,
+      "xref": 55,
+      "bbox": [
+        296.04,
+        611.88,
+        321.0,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 29,
+      "xref": 55,
+      "bbox": [
+        334.44,
+        611.76,
+        359.4,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 30,
+      "xref": 55,
+      "bbox": [
+        352.56,
+        611.88,
+        377.64,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 31,
+      "xref": 55,
+      "bbox": [
+        371.64,
+        611.88,
+        396.6,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 32,
+      "xref": 55,
+      "bbox": [
+        404.64,
+        587.64,
+        429.6,
+        604.32
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 33,
+      "xref": 55,
+      "bbox": [
+        220.56,
+        588.84,
+        245.52,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 34,
+      "xref": 55,
+      "bbox": [
+        258.0,
+        588.84,
+        283.08,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 35,
+      "xref": 55,
+      "bbox": [
+        277.08,
+        588.84,
+        302.04,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 36,
+      "xref": 55,
+      "bbox": [
+        296.04,
+        588.84,
+        321.0,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 37,
+      "xref": 55,
+      "bbox": [
+        333.6,
+        588.84,
+        358.56,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 38,
+      "xref": 55,
+      "bbox": [
+        352.56,
+        588.84,
+        377.64,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 12,
+      "rectIndex": 39,
+      "xref": 55,
+      "bbox": [
+        371.52,
+        588.84,
+        396.6,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 1,
+      "xref": 57,
+      "bbox": [
+        187.8,
+        452.16,
+        212.76,
+        468.96
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 2,
+      "xref": 57,
+      "bbox": [
+        280.8,
+        450.6,
+        305.76,
+        467.4
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 3,
+      "xref": 57,
+      "bbox": [
+        123.36,
+        565.68,
+        148.32,
+        582.48
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 4,
+      "xref": 57,
+      "bbox": [
+        388.8,
+        497.76,
+        413.76,
+        514.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 5,
+      "xref": 57,
+      "bbox": [
+        405.0,
+        497.76,
+        430.08,
+        514.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 6,
+      "xref": 57,
+      "bbox": [
+        220.2,
+        499.08,
+        245.16,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 7,
+      "xref": 57,
+      "bbox": [
+        257.76,
+        499.08,
+        282.72,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 8,
+      "xref": 57,
+      "bbox": [
+        276.72,
+        499.08,
+        301.68,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 9,
+      "xref": 57,
+      "bbox": [
+        295.68,
+        499.08,
+        320.76,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 10,
+      "xref": 57,
+      "bbox": [
+        334.32,
+        499.32,
+        359.4,
+        516.0
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 11,
+      "xref": 57,
+      "bbox": [
+        352.2,
+        499.08,
+        377.28,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 12,
+      "xref": 57,
+      "bbox": [
+        371.28,
+        499.08,
+        396.24,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 13,
+      "xref": 57,
+      "bbox": [
+        238.8,
+        499.08,
+        263.76,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 14,
+      "xref": 57,
+      "bbox": [
+        404.52,
+        474.24,
+        429.6,
+        491.04
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 15,
+      "xref": 57,
+      "bbox": [
+        220.2,
+        476.16,
+        245.16,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 16,
+      "xref": 57,
+      "bbox": [
+        257.76,
+        476.16,
+        282.72,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 17,
+      "xref": 57,
+      "bbox": [
+        276.72,
+        476.16,
+        301.68,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 18,
+      "xref": 57,
+      "bbox": [
+        295.68,
+        476.16,
+        320.64,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 19,
+      "xref": 57,
+      "bbox": [
+        333.24,
+        476.16,
+        358.2,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 20,
+      "xref": 57,
+      "bbox": [
+        352.2,
+        476.16,
+        377.28,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 21,
+      "xref": 57,
+      "bbox": [
+        371.16,
+        476.16,
+        396.24,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 22,
+      "xref": 57,
+      "bbox": [
+        389.4,
+        610.56,
+        414.36,
+        627.36
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 23,
+      "xref": 57,
+      "bbox": [
+        405.36,
+        610.56,
+        430.44,
+        627.36
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 24,
+      "xref": 57,
+      "bbox": [
+        388.92,
+        587.52,
+        414.0,
+        604.2
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 25,
+      "xref": 57,
+      "bbox": [
+        220.56,
+        611.88,
+        245.52,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 26,
+      "xref": 57,
+      "bbox": [
+        258.0,
+        611.88,
+        283.08,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 27,
+      "xref": 57,
+      "bbox": [
+        277.08,
+        611.88,
+        302.04,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 28,
+      "xref": 57,
+      "bbox": [
+        296.04,
+        611.88,
+        321.0,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 29,
+      "xref": 57,
+      "bbox": [
+        334.44,
+        611.76,
+        359.4,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 30,
+      "xref": 57,
+      "bbox": [
+        352.56,
+        611.88,
+        377.64,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 31,
+      "xref": 57,
+      "bbox": [
+        371.64,
+        611.88,
+        396.6,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 32,
+      "xref": 57,
+      "bbox": [
+        404.64,
+        587.64,
+        429.6,
+        604.32
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 33,
+      "xref": 57,
+      "bbox": [
+        220.56,
+        588.84,
+        245.52,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 34,
+      "xref": 57,
+      "bbox": [
+        258.0,
+        588.84,
+        283.08,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 35,
+      "xref": 57,
+      "bbox": [
+        277.08,
+        588.84,
+        302.04,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 36,
+      "xref": 57,
+      "bbox": [
+        296.04,
+        588.84,
+        321.0,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 37,
+      "xref": 57,
+      "bbox": [
+        333.6,
+        588.84,
+        358.56,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 38,
+      "xref": 57,
+      "bbox": [
+        352.56,
+        588.84,
+        377.64,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 13,
+      "rectIndex": 39,
+      "xref": 57,
+      "bbox": [
+        371.52,
+        588.84,
+        396.6,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 14,
+      "rectIndex": 1,
+      "xref": 59,
+      "bbox": [
+        314.64,
+        499.92,
+        339.6,
+        510.6
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 29,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 14,
+      "rectIndex": 2,
+      "xref": 59,
+      "bbox": [
+        315.0,
+        612.0,
+        339.96,
+        622.68
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 29,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 15,
+      "rectIndex": 1,
+      "xref": 61,
+      "bbox": [
+        201.12,
+        499.08,
+        226.2,
+        510.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 32,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 15,
+      "rectIndex": 2,
+      "xref": 61,
+      "bbox": [
+        201.12,
+        476.16,
+        226.2,
+        487.8
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 32,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 15,
+      "rectIndex": 3,
+      "xref": 61,
+      "bbox": [
+        201.48,
+        611.88,
+        226.56,
+        623.52
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 32,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 15,
+      "rectIndex": 4,
+      "xref": 61,
+      "bbox": [
+        201.48,
+        588.84,
+        226.56,
+        600.6
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 32,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 16,
+      "rectIndex": 1,
+      "xref": 63,
+      "bbox": [
+        388.56,
+        474.6,
+        406.2,
+        482.52
+      ],
+      "pixelWidth": 48,
+      "pixelHeight": 21,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 1,
+      "xref": 65,
+      "bbox": [
+        187.8,
+        452.16,
+        212.76,
+        468.96
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 2,
+      "xref": 65,
+      "bbox": [
+        280.8,
+        450.6,
+        305.76,
+        467.4
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 3,
+      "xref": 65,
+      "bbox": [
+        123.36,
+        565.68,
+        148.32,
+        582.48
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 4,
+      "xref": 65,
+      "bbox": [
+        388.8,
+        497.76,
+        413.76,
+        514.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 5,
+      "xref": 65,
+      "bbox": [
+        405.0,
+        497.76,
+        430.08,
+        514.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 6,
+      "xref": 65,
+      "bbox": [
+        220.2,
+        499.08,
+        245.16,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 7,
+      "xref": 65,
+      "bbox": [
+        257.76,
+        499.08,
+        282.72,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 8,
+      "xref": 65,
+      "bbox": [
+        276.72,
+        499.08,
+        301.68,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 9,
+      "xref": 65,
+      "bbox": [
+        295.68,
+        499.08,
+        320.76,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 10,
+      "xref": 65,
+      "bbox": [
+        334.32,
+        499.32,
+        359.4,
+        516.0
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 11,
+      "xref": 65,
+      "bbox": [
+        352.2,
+        499.08,
+        377.28,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 12,
+      "xref": 65,
+      "bbox": [
+        371.28,
+        499.08,
+        396.24,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 13,
+      "xref": 65,
+      "bbox": [
+        238.8,
+        499.08,
+        263.76,
+        515.88
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 14,
+      "xref": 65,
+      "bbox": [
+        404.52,
+        474.24,
+        429.6,
+        491.04
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 15,
+      "xref": 65,
+      "bbox": [
+        220.2,
+        476.16,
+        245.16,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 16,
+      "xref": 65,
+      "bbox": [
+        257.76,
+        476.16,
+        282.72,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 17,
+      "xref": 65,
+      "bbox": [
+        276.72,
+        476.16,
+        301.68,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 18,
+      "xref": 65,
+      "bbox": [
+        295.68,
+        476.16,
+        320.64,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 19,
+      "xref": 65,
+      "bbox": [
+        333.24,
+        476.16,
+        358.2,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 20,
+      "xref": 65,
+      "bbox": [
+        352.2,
+        476.16,
+        377.28,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 21,
+      "xref": 65,
+      "bbox": [
+        371.16,
+        476.16,
+        396.24,
+        492.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 22,
+      "xref": 65,
+      "bbox": [
+        389.4,
+        610.56,
+        414.36,
+        627.36
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 23,
+      "xref": 65,
+      "bbox": [
+        405.36,
+        610.56,
+        430.44,
+        627.36
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 24,
+      "xref": 65,
+      "bbox": [
+        388.92,
+        587.52,
+        414.0,
+        604.2
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 25,
+      "xref": 65,
+      "bbox": [
+        220.56,
+        611.88,
+        245.52,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 26,
+      "xref": 65,
+      "bbox": [
+        258.0,
+        611.88,
+        283.08,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 27,
+      "xref": 65,
+      "bbox": [
+        277.08,
+        611.88,
+        302.04,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 28,
+      "xref": 65,
+      "bbox": [
+        296.04,
+        611.88,
+        321.0,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 29,
+      "xref": 65,
+      "bbox": [
+        334.44,
+        611.76,
+        359.4,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 30,
+      "xref": 65,
+      "bbox": [
+        352.56,
+        611.88,
+        377.64,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 31,
+      "xref": 65,
+      "bbox": [
+        371.64,
+        611.88,
+        396.6,
+        628.56
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 32,
+      "xref": 65,
+      "bbox": [
+        404.64,
+        587.64,
+        429.6,
+        604.32
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 33,
+      "xref": 65,
+      "bbox": [
+        220.56,
+        588.84,
+        245.52,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 34,
+      "xref": 65,
+      "bbox": [
+        258.0,
+        588.84,
+        283.08,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 35,
+      "xref": 65,
+      "bbox": [
+        277.08,
+        588.84,
+        302.04,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 36,
+      "xref": 65,
+      "bbox": [
+        296.04,
+        588.84,
+        321.0,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 37,
+      "xref": 65,
+      "bbox": [
+        333.6,
+        588.84,
+        358.56,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 38,
+      "xref": 65,
+      "bbox": [
+        352.56,
+        588.84,
+        377.64,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 17,
+      "rectIndex": 39,
+      "xref": 65,
+      "bbox": [
+        371.52,
+        588.84,
+        396.6,
+        605.64
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 18,
+      "rectIndex": 1,
+      "xref": 67,
+      "bbox": [
+        314.28,
+        476.16,
+        329.64,
+        486.84
+      ],
+      "pixelWidth": 42,
+      "pixelHeight": 29,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 18,
+      "rectIndex": 2,
+      "xref": 67,
+      "bbox": [
+        314.64,
+        588.84,
+        330.0,
+        599.64
+      ],
+      "pixelWidth": 42,
+      "pixelHeight": 29,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 19,
+      "rectIndex": 1,
+      "xref": 69,
+      "bbox": [
+        201.12,
+        499.08,
+        226.2,
+        510.84
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 32,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 19,
+      "rectIndex": 2,
+      "xref": 69,
+      "bbox": [
+        201.12,
+        476.16,
+        226.2,
+        487.8
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 32,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 19,
+      "rectIndex": 3,
+      "xref": 69,
+      "bbox": [
+        201.48,
+        611.88,
+        226.56,
+        623.52
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 32,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 19,
+      "rectIndex": 4,
+      "xref": 69,
+      "bbox": [
+        201.48,
+        588.84,
+        226.56,
+        600.6
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 32,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 20,
+      "rectIndex": 1,
+      "xref": 71,
+      "bbox": [
+        238.68,
+        476.16,
+        263.76,
+        484.32
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 22,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 20,
+      "rectIndex": 2,
+      "xref": 71,
+      "bbox": [
+        239.04,
+        588.84,
+        264.0,
+        597.0
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 22,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 21,
+      "rectIndex": 1,
+      "xref": 73,
+      "bbox": [
+        171.6,
+        501.6,
+        208.32,
+        514.32
+      ],
+      "pixelWidth": 102,
+      "pixelHeight": 35,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 21,
+      "rectIndex": 2,
+      "xref": 73,
+      "bbox": [
+        171.96,
+        614.4,
+        208.68,
+        627.12
+      ],
+      "pixelWidth": 102,
+      "pixelHeight": 35,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 22,
+      "rectIndex": 1,
+      "xref": 75,
+      "bbox": [
+        239.16,
+        611.88,
+        264.0,
+        628.56
+      ],
+      "pixelWidth": 68,
+      "pixelHeight": 46,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 23,
+      "rectIndex": 1,
+      "xref": 77,
+      "bbox": [
+        314.28,
+        476.16,
+        329.64,
+        486.84
+      ],
+      "pixelWidth": 42,
+      "pixelHeight": 29,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 23,
+      "rectIndex": 2,
+      "xref": 77,
+      "bbox": [
+        314.64,
+        588.84,
+        330.0,
+        599.64
+      ],
+      "pixelWidth": 42,
+      "pixelHeight": 29,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 24,
+      "rectIndex": 1,
+      "xref": 79,
+      "bbox": [
+        238.68,
+        476.16,
+        263.76,
+        484.32
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 22,
+      "ext": "png"
+    },
+    {
+      "page": 1,
+      "imageIndex": 24,
+      "rectIndex": 2,
+      "xref": 79,
+      "bbox": [
+        239.04,
+        588.84,
+        264.0,
+        597.0
+      ],
+      "pixelWidth": 69,
+      "pixelHeight": 22,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 161,
+      "bbox": [
+        316.783,
+        352.7,
+        468.848,
+        414.089
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 1,
+      "rectIndex": 2,
+      "xref": 161,
+      "bbox": [
+        416.729,
+        353.543,
+        565.911,
+        413.87
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 1,
+      "rectIndex": 3,
+      "xref": 161,
+      "bbox": [
+        98.479,
+        375.143,
+        247.661,
+        435.47
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 1,
+      "rectIndex": 4,
+      "xref": 161,
+      "bbox": [
+        243.933,
+        374.299,
+        395.998,
+        435.688
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 2,
+      "rectIndex": 1,
+      "xref": 164,
+      "bbox": [
+        316.783,
+        352.7,
+        468.848,
+        414.089
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 2,
+      "rectIndex": 2,
+      "xref": 164,
+      "bbox": [
+        416.729,
+        353.543,
+        565.911,
+        413.87
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 2,
+      "rectIndex": 3,
+      "xref": 164,
+      "bbox": [
+        98.479,
+        375.143,
+        247.661,
+        435.47
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 3,
+      "imageIndex": 2,
+      "rectIndex": 4,
+      "xref": 164,
+      "bbox": [
+        243.933,
+        374.299,
+        395.998,
+        435.688
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 299,
+      "bbox": [
+        366.9,
+        121.0,
+        527.89,
+        220.2
+      ],
+      "pixelWidth": 492,
+      "pixelHeight": 303,
+      "ext": "jpeg"
+    },
+    {
+      "page": 5,
+      "imageIndex": 2,
+      "rectIndex": 1,
+      "xref": 241,
+      "bbox": [
+        104.819,
+        121.758,
+        296.216,
+        182.422
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 2,
+      "rectIndex": 2,
+      "xref": 241,
+      "bbox": [
+        151.781,
+        209.198,
+        293.864,
+        269.921
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 2,
+      "rectIndex": 3,
+      "xref": 241,
+      "bbox": [
+        205.112,
+        382.027,
+        249.209,
+        400.757
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 2,
+      "rectIndex": 4,
+      "xref": 241,
+      "bbox": [
+        273.735,
+        442.027,
+        317.874,
+        460.757
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 2,
+      "rectIndex": 5,
+      "xref": 241,
+      "bbox": [
+        198.135,
+        481.977,
+        242.274,
+        500.707
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 2,
+      "rectIndex": 6,
+      "xref": 241,
+      "bbox": [
+        194.412,
+        501.312,
+        238.509,
+        520.857
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 2,
+      "rectIndex": 7,
+      "xref": 241,
+      "bbox": [
+        143.095,
+        522.176,
+        186.818,
+        541.039
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 2,
+      "rectIndex": 8,
+      "xref": 241,
+      "bbox": [
+        284.499,
+        522.176,
+        328.223,
+        541.039
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 2,
+      "rectIndex": 9,
+      "xref": 241,
+      "bbox": [
+        126.527,
+        582.312,
+        170.647,
+        601.857
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 3,
+      "rectIndex": 1,
+      "xref": 247,
+      "bbox": [
+        104.819,
+        121.758,
+        296.216,
+        182.422
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 3,
+      "rectIndex": 2,
+      "xref": 247,
+      "bbox": [
+        151.781,
+        209.198,
+        293.864,
+        269.921
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 3,
+      "rectIndex": 3,
+      "xref": 247,
+      "bbox": [
+        205.112,
+        382.027,
+        249.209,
+        400.757
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 3,
+      "rectIndex": 4,
+      "xref": 247,
+      "bbox": [
+        273.735,
+        442.027,
+        317.874,
+        460.757
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 3,
+      "rectIndex": 5,
+      "xref": 247,
+      "bbox": [
+        198.135,
+        481.977,
+        242.274,
+        500.707
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 3,
+      "rectIndex": 6,
+      "xref": 247,
+      "bbox": [
+        194.412,
+        501.312,
+        238.509,
+        520.857
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 3,
+      "rectIndex": 7,
+      "xref": 247,
+      "bbox": [
+        143.095,
+        522.176,
+        186.818,
+        541.039
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 3,
+      "rectIndex": 8,
+      "xref": 247,
+      "bbox": [
+        284.499,
+        522.176,
+        328.223,
+        541.039
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 3,
+      "rectIndex": 9,
+      "xref": 247,
+      "bbox": [
+        126.527,
+        582.312,
+        170.647,
+        601.857
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 4,
+      "rectIndex": 1,
+      "xref": 254,
+      "bbox": [
+        104.819,
+        121.758,
+        296.216,
+        182.422
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 4,
+      "rectIndex": 2,
+      "xref": 254,
+      "bbox": [
+        151.781,
+        209.198,
+        293.864,
+        269.921
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 4,
+      "rectIndex": 3,
+      "xref": 254,
+      "bbox": [
+        205.112,
+        382.027,
+        249.209,
+        400.757
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 4,
+      "rectIndex": 4,
+      "xref": 254,
+      "bbox": [
+        273.735,
+        442.027,
+        317.874,
+        460.757
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 4,
+      "rectIndex": 5,
+      "xref": 254,
+      "bbox": [
+        198.135,
+        481.977,
+        242.274,
+        500.707
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 4,
+      "rectIndex": 6,
+      "xref": 254,
+      "bbox": [
+        194.412,
+        501.312,
+        238.509,
+        520.857
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 4,
+      "rectIndex": 7,
+      "xref": 254,
+      "bbox": [
+        143.095,
+        522.176,
+        186.818,
+        541.039
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 4,
+      "rectIndex": 8,
+      "xref": 254,
+      "bbox": [
+        284.499,
+        522.176,
+        328.223,
+        541.039
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 4,
+      "rectIndex": 9,
+      "xref": 254,
+      "bbox": [
+        126.527,
+        582.312,
+        170.647,
+        601.857
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 5,
+      "rectIndex": 1,
+      "xref": 263,
+      "bbox": [
+        104.819,
+        121.758,
+        296.216,
+        182.422
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 5,
+      "rectIndex": 2,
+      "xref": 263,
+      "bbox": [
+        151.781,
+        209.198,
+        293.864,
+        269.921
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 5,
+      "rectIndex": 3,
+      "xref": 263,
+      "bbox": [
+        205.112,
+        382.027,
+        249.209,
+        400.757
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 5,
+      "rectIndex": 4,
+      "xref": 263,
+      "bbox": [
+        273.735,
+        442.027,
+        317.874,
+        460.757
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 5,
+      "rectIndex": 5,
+      "xref": 263,
+      "bbox": [
+        198.135,
+        481.977,
+        242.274,
+        500.707
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 5,
+      "rectIndex": 6,
+      "xref": 263,
+      "bbox": [
+        194.412,
+        501.312,
+        238.509,
+        520.857
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 5,
+      "rectIndex": 7,
+      "xref": 263,
+      "bbox": [
+        143.095,
+        522.176,
+        186.818,
+        541.039
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 5,
+      "rectIndex": 8,
+      "xref": 263,
+      "bbox": [
+        284.499,
+        522.176,
+        328.223,
+        541.039
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 5,
+      "rectIndex": 9,
+      "xref": 263,
+      "bbox": [
+        126.527,
+        582.312,
+        170.647,
+        601.857
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 6,
+      "rectIndex": 1,
+      "xref": 273,
+      "bbox": [
+        104.819,
+        121.758,
+        296.216,
+        182.422
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 6,
+      "rectIndex": 2,
+      "xref": 273,
+      "bbox": [
+        151.781,
+        209.198,
+        293.864,
+        269.921
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 6,
+      "rectIndex": 3,
+      "xref": 273,
+      "bbox": [
+        205.112,
+        382.027,
+        249.209,
+        400.757
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 6,
+      "rectIndex": 4,
+      "xref": 273,
+      "bbox": [
+        273.735,
+        442.027,
+        317.874,
+        460.757
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 6,
+      "rectIndex": 5,
+      "xref": 273,
+      "bbox": [
+        198.135,
+        481.977,
+        242.274,
+        500.707
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 6,
+      "rectIndex": 6,
+      "xref": 273,
+      "bbox": [
+        194.412,
+        501.312,
+        238.509,
+        520.857
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 6,
+      "rectIndex": 7,
+      "xref": 273,
+      "bbox": [
+        143.095,
+        522.176,
+        186.818,
+        541.039
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 6,
+      "rectIndex": 8,
+      "xref": 273,
+      "bbox": [
+        284.499,
+        522.176,
+        328.223,
+        541.039
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 6,
+      "rectIndex": 9,
+      "xref": 273,
+      "bbox": [
+        126.527,
+        582.312,
+        170.647,
+        601.857
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 8,
+      "rectIndex": 1,
+      "xref": 278,
+      "bbox": [
+        104.819,
+        121.758,
+        296.216,
+        182.422
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 8,
+      "rectIndex": 2,
+      "xref": 278,
+      "bbox": [
+        151.781,
+        209.198,
+        293.864,
+        269.921
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 8,
+      "rectIndex": 3,
+      "xref": 278,
+      "bbox": [
+        205.112,
+        382.027,
+        249.209,
+        400.757
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 8,
+      "rectIndex": 4,
+      "xref": 278,
+      "bbox": [
+        273.735,
+        442.027,
+        317.874,
+        460.757
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 8,
+      "rectIndex": 5,
+      "xref": 278,
+      "bbox": [
+        198.135,
+        481.977,
+        242.274,
+        500.707
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 8,
+      "rectIndex": 6,
+      "xref": 278,
+      "bbox": [
+        194.412,
+        501.312,
+        238.509,
+        520.857
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 8,
+      "rectIndex": 7,
+      "xref": 278,
+      "bbox": [
+        143.095,
+        522.176,
+        186.818,
+        541.039
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 8,
+      "rectIndex": 8,
+      "xref": 278,
+      "bbox": [
+        284.499,
+        522.176,
+        328.223,
+        541.039
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 8,
+      "rectIndex": 9,
+      "xref": 278,
+      "bbox": [
+        126.527,
+        582.312,
+        170.647,
+        601.857
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 10,
+      "rectIndex": 1,
+      "xref": 287,
+      "bbox": [
+        104.819,
+        121.758,
+        296.216,
+        182.422
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 10,
+      "rectIndex": 2,
+      "xref": 287,
+      "bbox": [
+        151.781,
+        209.198,
+        293.864,
+        269.921
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 10,
+      "rectIndex": 3,
+      "xref": 287,
+      "bbox": [
+        205.112,
+        382.027,
+        249.209,
+        400.757
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 10,
+      "rectIndex": 4,
+      "xref": 287,
+      "bbox": [
+        273.735,
+        442.027,
+        317.874,
+        460.757
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 10,
+      "rectIndex": 5,
+      "xref": 287,
+      "bbox": [
+        198.135,
+        481.977,
+        242.274,
+        500.707
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 10,
+      "rectIndex": 6,
+      "xref": 287,
+      "bbox": [
+        194.412,
+        501.312,
+        238.509,
+        520.857
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 10,
+      "rectIndex": 7,
+      "xref": 287,
+      "bbox": [
+        143.095,
+        522.176,
+        186.818,
+        541.039
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 10,
+      "rectIndex": 8,
+      "xref": 287,
+      "bbox": [
+        284.499,
+        522.176,
+        328.223,
+        541.039
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 5,
+      "imageIndex": 10,
+      "rectIndex": 9,
+      "xref": 287,
+      "bbox": [
+        126.527,
+        582.312,
+        170.647,
+        601.857
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 7,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 371,
+      "bbox": [
+        210.288,
+        525.827,
+        356.188,
+        587.685
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 1,
+      "rectIndex": 1,
+      "xref": 401,
+      "bbox": [
+        178.435,
+        389.576,
+        222.677,
+        408.439
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 1,
+      "rectIndex": 2,
+      "xref": 401,
+      "bbox": [
+        276.724,
+        462.557,
+        508.72,
+        474.693
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 1,
+      "rectIndex": 3,
+      "xref": 401,
+      "bbox": [
+        239.583,
+        518.226,
+        283.706,
+        537.089
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 1,
+      "rectIndex": 4,
+      "xref": 401,
+      "bbox": [
+        349.517,
+        540.813,
+        393.621,
+        559.894
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 2,
+      "rectIndex": 1,
+      "xref": 405,
+      "bbox": [
+        178.435,
+        389.576,
+        222.677,
+        408.439
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 2,
+      "rectIndex": 2,
+      "xref": 405,
+      "bbox": [
+        276.724,
+        462.557,
+        508.72,
+        474.693
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 2,
+      "rectIndex": 3,
+      "xref": 405,
+      "bbox": [
+        239.583,
+        518.226,
+        283.706,
+        537.089
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 2,
+      "rectIndex": 4,
+      "xref": 405,
+      "bbox": [
+        349.517,
+        540.813,
+        393.621,
+        559.894
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 3,
+      "rectIndex": 1,
+      "xref": 408,
+      "bbox": [
+        178.435,
+        389.576,
+        222.677,
+        408.439
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 3,
+      "rectIndex": 2,
+      "xref": 408,
+      "bbox": [
+        276.724,
+        462.557,
+        508.72,
+        474.693
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 3,
+      "rectIndex": 3,
+      "xref": 408,
+      "bbox": [
+        239.583,
+        518.226,
+        283.706,
+        537.089
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 3,
+      "rectIndex": 4,
+      "xref": 408,
+      "bbox": [
+        349.517,
+        540.813,
+        393.621,
+        559.894
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 4,
+      "rectIndex": 1,
+      "xref": 411,
+      "bbox": [
+        178.435,
+        389.576,
+        222.677,
+        408.439
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 4,
+      "rectIndex": 2,
+      "xref": 411,
+      "bbox": [
+        276.724,
+        462.557,
+        508.72,
+        474.693
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 4,
+      "rectIndex": 3,
+      "xref": 411,
+      "bbox": [
+        239.583,
+        518.226,
+        283.706,
+        537.089
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    },
+    {
+      "page": 8,
+      "imageIndex": 4,
+      "rectIndex": 4,
+      "xref": 411,
+      "bbox": [
+        349.517,
+        540.813,
+        393.621,
+        559.894
+      ],
+      "pixelWidth": 2,
+      "pixelHeight": 2,
+      "ext": "png"
+    }
+  ],
+  "warnings": []
+}

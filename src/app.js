@@ -8,7 +8,7 @@ const state = {
 };
 
 const subjectGroups = [
-  { id: "國文", label: "國文", short: "文", sourceSubjects: ["國綜", "國寫"], description: "字音字形、成語、文言文" },
+  { id: "國文", label: "國文", short: "國", sourceSubjects: ["國綜", "國寫"], description: "字音字形、成語、文言文" },
   { id: "英文", label: "英文", short: "英", sourceSubjects: ["英文"], description: "單字、文意選填、閱讀理解" },
   { id: "數學", label: "數學", short: "數", sourceSubjects: ["數學A", "數學B"], description: "選擇題與詳解雛形" },
   { id: "社會", label: "社會", short: "社", sourceSubjects: ["社會"], description: "重點卡與題庫待建" },

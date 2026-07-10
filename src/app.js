@@ -122,7 +122,7 @@ function renderSubjects() {
             <span class="card-icon">${group.short}</span>
             <strong>${group.label}</strong>
             <span>${group.description}</span>
-            <small>${years.length} 個年度，${files.length} 份官方 PDF</small>
+            <small>收錄 ${years.length} 個年度官方試題</small>
           </button>
         `;
       }).join("")}
@@ -152,7 +152,7 @@ function renderYears() {
         return `
           <button class="entry-card year-card" type="button" data-year="${year}">
             <strong>${year} 年題目</strong>
-            <span>${filesFor(group.id, year).length} 份官方 PDF</span>
+            <span>${group.label} ${year} 學年度</span>
             <small>${sets.length ? `${done}/${sets.length} 分類已完成` : "尚未建立測試題"}</small>
           </button>
         `;
@@ -174,7 +174,6 @@ function renderCategories() {
   renderHeader(`${group.label} ${state.year} 年題目分類`, "選擇分類後進入答題卡畫面。作文不納入；混合題非選擇題提供手寫作答區，交由師長檢查。");
 
   const sets = questionSetsFor(group.id, state.year);
-  const files = filesFor(group.id, state.year);
   screenBody.innerHTML = `
     <div class="breadcrumb">首頁 / ${group.label} / ${state.year} 年</div>
     ${sets.length ? `
@@ -190,13 +189,7 @@ function renderCategories() {
           `;
         }).join("")}
       </div>
-    ` : '<div class="empty">這個科目年份尚未建立測試分類，可先查看官方 PDF。</div>'}
-    <section class="source-strip">
-      <h2>官方 PDF 原檔</h2>
-      <div class="pdf-grid">
-        ${files.map(renderPdfLink).join("")}
-      </div>
-    </section>
+    ` : '<div class="empty">這個科目年份的互動題庫還在製作中。</div>'}
   `;
 
   screenBody.querySelectorAll("[data-category]").forEach(button => {
@@ -444,16 +437,6 @@ function renderAnswerRow(question) {
         `).join("")}
       </div>
     </div>
-  `;
-}
-
-function renderPdfLink(file) {
-  return `
-    <a class="pdf-card" href="../${encodeURI(file.file)}" target="_blank" rel="noopener">
-      <span>${file.type}</span>
-      <strong>${file.title}</strong>
-      <small>${file.subject}</small>
-    </a>
   `;
 }
 

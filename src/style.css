@@ -779,3 +779,78 @@ button {
 @media (max-width: 640px) {
   .option-image { width: auto; max-width: 100%; }
 }
+
+/* ===== 數學題（圖片題＋(1)-(5)選項＋選填數字格） ===== */
+.exam-q-image {
+  display: block;
+  width: 100%;
+  max-width: 720px;
+  height: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  margin: 4px 0 14px;
+}
+
+/* (1)-(5) 選項改為橫向排列的方塊 */
+.exam-question .option-list:has(.option-choice-num) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.option-choice-num {
+  flex: 0 0 auto;
+  min-width: 66px;
+  justify-content: center;
+  padding: 10px 14px;
+}
+.option-choice-num .k {
+  font-weight: 800;
+  color: var(--blue);
+  font-size: 1.05rem;
+}
+
+/* 選填數字格 */
+.fill-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 6px;
+}
+.fill-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+.fill-label {
+  font-size: 0.85rem;
+  color: var(--muted);
+  font-weight: 700;
+}
+.fill-box input {
+  width: 56px;
+  height: 56px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--ink);
+  border: 2px solid var(--blue-line);
+  border-radius: 10px;
+  background: #fff;
+}
+.fill-box input:focus {
+  outline: none;
+  border-color: var(--blue);
+  background: var(--blue-light);
+}
+
+/* 單欄 grid 欄寬綁定容器，避免寬圖（數學題目圖）把版面撐爆 */
+.exam-questions {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+/* 外層作答表單 grid 欄寬也綁定容器（含寬圖時不外溢） */
+.question-list {
+  grid-template-columns: minmax(0, 1fr);
+}

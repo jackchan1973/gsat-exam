@@ -333,6 +333,28 @@ function renderExamPassage(text) {
 }
 
 function renderExamQuestion(question, shared) {
+  const imgHtml = question.image
+    ? `<img class="exam-q-image" src="../${question.image}" alt="第 ${question.no} 題">`
+    : "";
+
+  // 選填題：填數字格（每格 0–9）
+  if (question.type === "fill") {
+    const boxes = question.boxes.map((label, i) => `
+      <label class="fill-box">
+        <span class="fill-label">${escapeHtml(label)}</span>
+        <input type="text" inputmode="numeric" maxlength="1" autocomplete="off"
+          name="${question.id}__box_${i}">
+      </label>
+    `).join("");
+    return `
+      <fieldset class="question-card exam-question">
+        <legend>第 ${question.no} 題　填數字格</legend>
+        ${imgHtml}
+        <div class="fill-row">${boxes}</div>
+      </fieldset>
+    `;
+  }
+
   const inputType = question.type === "multiple" ? "checkbox" : "radio";
   let optionsHtml;
   if (question.optionImages) {
@@ -341,6 +363,14 @@ function renderExamQuestion(question, shared) {
         <input id="${question.id}-${label}" name="${question.id}" type="${inputType}" value="${label}">
         <span class="opt-key">${label}</span>
         <img class="option-image" src="../${question.optionImages[label]}" alt="選項 ${label} 圖片">
+      </label>
+    `).join("");
+  } else if (question.image && !question.options && !question.useBank) {
+    // 數學圖片題：選項 (1)–(5)，內容在題目圖片裡
+    optionsHtml = question.choices.map(label => `
+      <label class="option-row option-choice-num" for="${question.id}-${label}">
+        <input id="${question.id}-${label}" name="${question.id}" type="${inputType}" value="${label}">
+        <span class="k">(${label})</span>
       </label>
     `).join("");
   } else {
@@ -359,6 +389,7 @@ function renderExamQuestion(question, shared) {
   return `
     <fieldset class="question-card exam-question">
       <legend>第 ${question.no} 題${multiHint}</legend>
+      ${imgHtml}
       ${question.stem ? `<p class="exam-stem">${escapeHtml(question.stem)}</p>` : ""}
       <div class="option-list">${optionsHtml}</div>
     </fieldset>
@@ -454,6 +485,17 @@ function checkAnswers() {
     if (question.type === "written") {
       const value = form.querySelector(`[name="${question.id}"]`)?.value.trim() || "";
       manual.push({ question, userAnswer: value || "未作答" });
+      return;
+    }
+
+    if (question.type === "fill") {
+      const got = question.boxes.map((label, i) =>
+        (form.querySelector(`input[name="${question.id}__box_${i}"]`)?.value || "").trim());
+      const answered = got.some(value => value !== "");
+      const correct = question.answer.map(String);
+      const isCorrect = answered && got.length === correct.length && got.every((value, index) => value === correct[index]);
+      if (isCorrect) correctCount += 1;
+      else wrong.push({ question, userAnswer: answered ? got.join("") : "未作答" });
       return;
     }
 

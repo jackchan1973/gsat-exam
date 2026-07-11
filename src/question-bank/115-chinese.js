@@ -482,7 +482,7 @@ const QUESTION_BANKS = [
       {
         "id": "chinese-115-guozong-32",
         "no": 32,
-        "type": "written",
+        "type": "handwritten",
         "points": 6,
         "choices": [],
         "answer": null,
@@ -491,7 +491,7 @@ const QUESTION_BANKS = [
       {
         "id": "chinese-115-guozong-33",
         "no": 33,
-        "type": "written",
+        "type": "handwritten",
         "points": 6,
         "choices": [],
         "answer": null,
@@ -500,7 +500,7 @@ const QUESTION_BANKS = [
       {
         "id": "chinese-115-guozong-34",
         "no": 34,
-        "type": "written",
+        "type": "handwritten",
         "points": 8,
         "choices": [],
         "answer": null,

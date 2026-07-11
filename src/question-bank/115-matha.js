@@ -12,7 +12,7 @@ QUESTION_BANKS.push(
     "試題": "資料/大考中心官方PDF/115學年度/數學A/115學測-數學A-試題內容-03-115學測數學a試卷.pdf",
     "答案": "資料/大考中心官方PDF/115學年度/數學A/115學測-數學A-選擇(填)題答案-03-115學測數學a答案.pdf"
   },
-  "note": "收錄 115 數學A 選擇與選填共 18 題（單選6＋多選6＋選填5＋題組單選1）。每題為官方 PDF 裁圖，公式原樣呈現；答案取自官方選擇(填)題答案。第19–20題為非選擇題，不納入。",
+  "note": "收錄 115 數學A：可作答 18 題（單選6＋多選6＋選填5＋題組單選1）＋手寫題 2 題（第19、20題，僅列出不作答）。每題為官方 PDF 裁圖，公式原樣呈現；答案取自官方選擇(填)題答案。",
   "questions": [
     {
       "id": "matha-115-q1",
@@ -276,6 +276,18 @@ QUESTION_BANKS.push(
         "1",
         "1"
       ]
+    },
+    {
+      "id": "matha-115-q19",
+      "no": 19,
+      "type": "handwritten",
+      "image": "public/images/115學年度/數學A/q19.png"
+    },
+    {
+      "id": "matha-115-q20",
+      "no": 20,
+      "type": "handwritten",
+      "image": "public/images/115學年度/數學A/q20.png"
     },
     {
       "id": "matha-115-q18",
@@ -579,7 +591,7 @@ QUESTION_BANKS.push(
     },
     {
       "type": "group",
-      "title": "第貳部分 題組（第 18 題，單選）",
+      "title": "第貳部分 題組（第 18–20 題；18 單選，19–20 手寫題）",
       "shared": null,
       "questions": [
         {
@@ -595,6 +607,18 @@ QUESTION_BANKS.push(
             "5"
           ],
           "answer": "3"
+        },
+        {
+          "id": "matha-115-q19",
+          "no": 19,
+          "type": "handwritten",
+          "image": "public/images/115學年度/數學A/q19.png"
+        },
+        {
+          "id": "matha-115-q20",
+          "no": 20,
+          "type": "handwritten",
+          "image": "public/images/115學年度/數學A/q20.png"
         }
       ]
     }

@@ -205,9 +205,12 @@ function renderPractice() {
   if (!set || !group) return goTo("categories");
 
   const manualCount = set.questions.filter(question => question.type === "written").length;
-  const guidance = manualCount
-    ? `提交後會自動檢查選擇題，另有 ${manualCount} 題非選擇題交由師長檢查。`
-    : "提交後會檢查錯題並顯示正確答案。";
+  const handwrittenTotal = set.questions.filter(question => question.type === "handwritten").length;
+  const guidance = [
+    "提交後會自動檢查選擇題並顯示正確答案。",
+    manualCount ? `另有 ${manualCount} 題非選擇題交由師長檢查。` : "",
+    handwrittenTotal ? `另有 ${handwrittenTotal} 題手寫題（僅列出題目，不需作答）。` : "",
+  ].join("");
   renderHeader(set.title, `${set.status}，共 ${set.questions.length} 題。${guidance}`);
 
   screenBody.innerHTML = `
@@ -343,6 +346,17 @@ function renderExamQuestion(question, shared) {
     ? `<img class="exam-q-image" src="../${question.image}" alt="第 ${question.no} 題">`
     : "";
 
+  // 手寫題：列出題目，不提供作答與判分
+  if (question.type === "handwritten") {
+    return `
+      <fieldset class="question-card exam-question exam-handwritten">
+        <legend>${question.label ? escapeHtml(question.label) : `第 ${question.no} 題`}<span class="handwritten-badge">手寫題・不需作答</span></legend>
+        ${imgHtml}
+        ${question.stem ? `<p class="exam-stem">${escapeHtml(question.stem)}</p>` : ""}
+      </fieldset>
+    `;
+  }
+
   // 選填題：填數字格（每格 0–9）
   if (question.type === "fill") {
     const boxes = question.boxes.map((label, i) => `
@@ -448,6 +462,14 @@ function renderImageQuestionGroup(set, group) {
 }
 
 function renderAnswerRow(question) {
+  if (question.type === "handwritten") {
+    return `
+      <div class="answer-row answer-row-written">
+        <strong>${question.no}</strong>
+        <span class="handwritten-badge">手寫題・不需作答</span>
+      </div>
+    `;
+  }
   if (question.type === "written") {
     return `
       <div class="answer-row answer-row-written">
@@ -487,7 +509,13 @@ function checkAnswers() {
   const manual = [];
   let correctCount = 0;
 
+  let handwrittenCount = 0;
+
   set.questions.forEach(question => {
+    if (question.type === "handwritten") {
+      handwrittenCount += 1;
+      return;
+    }
     if (question.type === "written") {
       const value = form.querySelector(`[name="${question.id}"]`)?.value.trim() || "";
       manual.push({ question, userAnswer: value || "未作答" });
@@ -518,7 +546,7 @@ function checkAnswers() {
     }
   });
 
-  const gradableTotal = set.questions.length - manual.length;
+  const gradableTotal = set.questions.length - manual.length - handwrittenCount;
   const progress = readProgress();
   progress[set.id] = {
     subject: set.subject,
@@ -537,7 +565,7 @@ function checkAnswers() {
   resultPanel.innerHTML = `
     <div class="result-score">
       <strong>${correctCount} / ${gradableTotal}</strong>
-      <span>${wrong.length ? "以下是錯題與正確答案" : "選擇題全部答對"}${manual.length ? `，另有 ${manual.length} 題需師長檢查` : ""}</span>
+      <span>${wrong.length ? "以下是錯題與正確答案" : "選擇題全部答對"}${manual.length ? `，另有 ${manual.length} 題需師長檢查` : ""}${handwrittenCount ? `，另有 ${handwrittenCount} 題手寫題不需作答` : ""}</span>
     </div>
     ${wrong.length ? `
       <div class="wrong-list">

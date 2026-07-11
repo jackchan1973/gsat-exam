@@ -11,7 +11,7 @@ QUESTION_BANKS.push(
     "試題": "資料/大考中心官方PDF/113學年度/英文/113學測-英文-試題內容-02-113學測英文科定稿.pdf",
     "答案": "資料/大考中心官方PDF/113學年度/英文/113學測-英文-選擇題答案-02-113學測英文答案.pdf"
   },
-  "note": "收錄 113 學測英文選擇題共 47 題，題目/選項/文章/答案均取自官方 PDF；非選擇題（填充、簡答、翻譯、作文）不納入。",
+  "note": "收錄 113 學測英文：可作答選擇題 47 題＋手寫題 4 題（填充、簡答、中譯英、作文，僅列出不作答）。題目/選項/文章/答案均取自官方 PDF。",
   "questions": [
     {
       "id": "english-113-q1",
@@ -902,6 +902,35 @@ QUESTION_BANKS.push(
         "C",
         "F"
       ]
+    },
+    {
+      "id": "english-113-hw-47",
+      "no": 47,
+      "type": "handwritten",
+      "label": "第 47–48 題（填充）",
+      "stem": "47-48 下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空 格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文 意。每格限填一個單詞（word）。（填充，4分） Studies show that animals like jackdaws and turtle ants are able to use 47 intelligence in both solving problems and 48 to new challenging environment."
+    },
+    {
+      "id": "english-113-hw-50",
+      "no": 50,
+      "type": "handwritten",
+      "label": "第 50 題（簡答）",
+      "stem": "50. What is the “disturbance” for jackdaws mentioned in the passage?（簡答，2分） ________________________________________________________________________________"
+    },
+    {
+      "id": "english-113-hw-51",
+      "no": 51,
+      "type": "handwritten",
+      "label": "一、中譯英（第 1–2 題）",
+      "stem": "一 、 中 譯 英 （ 占 8分 ） 說明：依題號將以下中文句子譯成正確、通順、達意的英文。每題4分，共8分。 1. 每逢選舉季節，總會看到政治人物造訪各地著名廟宇。 2. 除了祈求好的選舉結果，他們也希望展現對在地文化與習俗的尊重。"
+    },
+    {
+      "id": "english-113-hw-52",
+      "no": 52,
+      "type": "handwritten",
+      "label": "二、英文作文",
+      "stem": "二 、 英 文 作 文 （ 占 20分 ） 說明︰依提示寫一篇英文作文，文長至少120個單詞（words）。 提示︰這個世代的青少年除了有課業壓力外，生活上也常面對一些困擾與挑戰。下列三張圖分別 呈現青少年經常遭遇的三種問題，如果你有一個機器人小幫手可以幫你解決其中一個問 題，你會選擇哪一個？請寫一篇英文作文，文分兩段，第一段說明你最想解決哪一個問題， 並解釋原因。第二段說明你希望這個機器人小幫手具備什麼特質或能力、可以如何和你分 工合作來解決此問題。 1 2 3 First Heartbreak Caring What Others Think Mood Swings",
+      "image": "public/images/113學年度/英文/part3_essay_figures.png"
     }
   ],
   "blocks": [
@@ -1868,7 +1897,7 @@ QUESTION_BANKS.push(
     },
     {
       "type": "group",
-      "title": "第貳部分 混合題（第 47–50 題）",
+      "title": "第貳部分 混合題（第 47–50 題；47/48、50 為手寫題）",
       "shared": {
         "kind": "image",
         "src": "public/images/113學年度/英文/group_47_50_passage.png"
@@ -1899,6 +1928,42 @@ QUESTION_BANKS.push(
             "C",
             "F"
           ]
+        },
+        {
+          "id": "english-113-hw-47",
+          "no": 47,
+          "type": "handwritten",
+          "label": "第 47–48 題（填充）",
+          "stem": "47-48 下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空 格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文 意。每格限填一個單詞（word）。（填充，4分） Studies show that animals like jackdaws and turtle ants are able to use 47 intelligence in both solving problems and 48 to new challenging environment."
+        },
+        {
+          "id": "english-113-hw-50",
+          "no": 50,
+          "type": "handwritten",
+          "label": "第 50 題（簡答）",
+          "stem": "50. What is the “disturbance” for jackdaws mentioned in the passage?（簡答，2分） ________________________________________________________________________________"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "title": "第參部分 非選擇題（手寫題・不需作答）",
+      "shared": null,
+      "questions": [
+        {
+          "id": "english-113-hw-51",
+          "no": 51,
+          "type": "handwritten",
+          "label": "一、中譯英（第 1–2 題）",
+          "stem": "一 、 中 譯 英 （ 占 8分 ） 說明：依題號將以下中文句子譯成正確、通順、達意的英文。每題4分，共8分。 1. 每逢選舉季節，總會看到政治人物造訪各地著名廟宇。 2. 除了祈求好的選舉結果，他們也希望展現對在地文化與習俗的尊重。"
+        },
+        {
+          "id": "english-113-hw-52",
+          "no": 52,
+          "type": "handwritten",
+          "label": "二、英文作文",
+          "stem": "二 、 英 文 作 文 （ 占 20分 ） 說明︰依提示寫一篇英文作文，文長至少120個單詞（words）。 提示︰這個世代的青少年除了有課業壓力外，生活上也常面對一些困擾與挑戰。下列三張圖分別 呈現青少年經常遭遇的三種問題，如果你有一個機器人小幫手可以幫你解決其中一個問 題，你會選擇哪一個？請寫一篇英文作文，文分兩段，第一段說明你最想解決哪一個問題， 並解釋原因。第二段說明你希望這個機器人小幫手具備什麼特質或能力、可以如何和你分 工合作來解決此問題。 1 2 3 First Heartbreak Caring What Others Think Mood Swings",
+          "image": "public/images/113學年度/英文/part3_essay_figures.png"
         }
       ]
     }

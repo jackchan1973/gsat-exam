@@ -11,7 +11,7 @@ QUESTION_BANKS.push(
     "試題": "資料/大考中心官方PDF/114學年度/英文/114學測-英文-試題內容-02-114學測英文試題.pdf",
     "答案": "資料/大考中心官方PDF/114學年度/英文/114學測-英文-選擇題答案-02-114學測英文答案.pdf"
   },
-  "note": "收錄 114 學測英文選擇題共 47 題，題目/選項/文章/答案均取自官方 PDF；非選擇題（填充、簡答、翻譯、作文）不納入。",
+  "note": "收錄 114 學測英文：可作答選擇題 47 題＋手寫題 4 題（填充、簡答、中譯英、作文，僅列出不作答）。題目/選項/文章/答案均取自官方 PDF。",
   "questions": [
     {
       "id": "english-114-q1",
@@ -900,6 +900,35 @@ QUESTION_BANKS.push(
         "G",
         "I"
       ]
+    },
+    {
+      "id": "english-114-hw-47",
+      "no": 47,
+      "type": "handwritten",
+      "label": "第 47–48 題（填充）",
+      "stem": "47-48 請根據選文內容，從文章中選出兩個單詞，分別填入下列句子空格，並視句型結構需要作適 當的字形變化，使句子語意完整、語法正確，且符合全文文意。每格限填一個單詞（word）。 （填充，4分） Modern zoos serve the purposes of conserving endangered species as well as 47 visitors. However, some people are against zoos because the animals 48 there will lose the freedom they enjoy in the wild."
+    },
+    {
+      "id": "english-114-hw-50",
+      "no": 50,
+      "type": "handwritten",
+      "label": "第 50 題（簡答）",
+      "stem": "50. Which phrase on the forum discussion carries the meaning of “building the ability to understand and share the feelings of others”?（簡答題，2分） _________________________________________________________________________________"
+    },
+    {
+      "id": "english-114-hw-51",
+      "no": 51,
+      "type": "handwritten",
+      "label": "一、中譯英（第 1–2 題）",
+      "stem": "一 、 中 譯 英 （ 占 8分 ） 說明：依題號將以下中文句子譯成正確、通順、達意的英文。每題4分，共8分。 1. 人類的想像和創意是科技進步最大的驅動力。 2. 過去在科幻電影中出現的神奇物件，現在正逐一成真。"
+    },
+    {
+      "id": "english-114-hw-52",
+      "no": 52,
+      "type": "handwritten",
+      "label": "二、英文作文",
+      "stem": "二 、 英 文 作 文 （ 占 20分 ） 說明︰依提示寫一篇英文作文，文長至少120個單詞（words）。 提示︰每逢颱風逼近臺灣，各縣市政府會依氣象預報的內容而決定隔日是否停止上班上課。 請針對這個議題寫一篇英文作文，文分兩段。第一段根據下方對比圖片，描述颱風假時， 實際上可能出現的兩種不同情景；第二段說明你對放颱風假的看法與經驗。",
+      "image": "public/images/114學年度/英文/part3_essay_figures.png"
     }
   ],
   "blocks": [
@@ -1866,7 +1895,7 @@ QUESTION_BANKS.push(
     },
     {
       "type": "group",
-      "title": "第貳部分 混合題（第 47–50 題）",
+      "title": "第貳部分 混合題（第 47–50 題；47/48、50 為手寫題）",
       "shared": {
         "kind": "passage",
         "text": "A zoo is a place where animals in captivity are put on display for humans to see. While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education. Still, many animal rights activists believe the cost of confining animals outweighs the benefits. What are your opinions? Feel free to share your ideas on this forum. A. Amy Personally I’m against zoos, though I do understand some of the arguments why they should exist. I don’t agree with caging animals for our entertainment. B. Ben What gives humans the right to capture, confine, or breed other species? Even if an animal is endangered, does that justify restricting its freedom? C. Cathy Zoos are a tradition, and a visit to a zoo is a wholesome family activity. Wildlife encounters are unforgettable experiences for children and adults alike. D. Daniel To me, a zoo can be a good place for endangered species which have difficulty finding suitable mates in the wild. E. Eddie My childhood memory of a polar bear pacing back and forth in a very small space in a zoo keeps haunting me. Is it a good idea to keep animals in sites not suited to them? F. Frank Well, if zoos are an inevitability, zoo keepers must provide the best possible conditions for the animals that live in captivity—to say the least! G. George Zoos have an educational aspect to it. It’s easier to learn about an animal by seeing them in person. H. Henry Most animals in zoos are not endangered, nor are they being prepared for release into natural habitats. In fact, it is nearly impossible to release captive-bred animals. I. Irene Fostering empathy…By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild. J. Jack In making a case for or against zoos, both sides argue that they’re saving animals. Whether or not zoos benefit the animal community, they certainly do make money. Like it or not, zoos will continue to exist as long as there is a demand for them."
@@ -1895,6 +1924,42 @@ QUESTION_BANKS.push(
             "G",
             "I"
           ]
+        },
+        {
+          "id": "english-114-hw-47",
+          "no": 47,
+          "type": "handwritten",
+          "label": "第 47–48 題（填充）",
+          "stem": "47-48 請根據選文內容，從文章中選出兩個單詞，分別填入下列句子空格，並視句型結構需要作適 當的字形變化，使句子語意完整、語法正確，且符合全文文意。每格限填一個單詞（word）。 （填充，4分） Modern zoos serve the purposes of conserving endangered species as well as 47 visitors. However, some people are against zoos because the animals 48 there will lose the freedom they enjoy in the wild."
+        },
+        {
+          "id": "english-114-hw-50",
+          "no": 50,
+          "type": "handwritten",
+          "label": "第 50 題（簡答）",
+          "stem": "50. Which phrase on the forum discussion carries the meaning of “building the ability to understand and share the feelings of others”?（簡答題，2分） _________________________________________________________________________________"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "title": "第參部分 非選擇題（手寫題・不需作答）",
+      "shared": null,
+      "questions": [
+        {
+          "id": "english-114-hw-51",
+          "no": 51,
+          "type": "handwritten",
+          "label": "一、中譯英（第 1–2 題）",
+          "stem": "一 、 中 譯 英 （ 占 8分 ） 說明：依題號將以下中文句子譯成正確、通順、達意的英文。每題4分，共8分。 1. 人類的想像和創意是科技進步最大的驅動力。 2. 過去在科幻電影中出現的神奇物件，現在正逐一成真。"
+        },
+        {
+          "id": "english-114-hw-52",
+          "no": 52,
+          "type": "handwritten",
+          "label": "二、英文作文",
+          "stem": "二 、 英 文 作 文 （ 占 20分 ） 說明︰依提示寫一篇英文作文，文長至少120個單詞（words）。 提示︰每逢颱風逼近臺灣，各縣市政府會依氣象預報的內容而決定隔日是否停止上班上課。 請針對這個議題寫一篇英文作文，文分兩段。第一段根據下方對比圖片，描述颱風假時， 實際上可能出現的兩種不同情景；第二段說明你對放颱風假的看法與經驗。",
+          "image": "public/images/114學年度/英文/part3_essay_figures.png"
         }
       ]
     }

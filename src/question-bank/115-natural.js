@@ -11,7 +11,7 @@ QUESTION_BANKS.push(
     "試題": "資料/大考中心官方PDF/115學年度/自然/115學測-自然-試題內容-06-115學測自然試卷.pdf",
     "答案": "資料/大考中心官方PDF/115學年度/自然/115學測-自然-選擇題答案-06-115學測自然答案.pdf"
   },
-  "note": "收錄 115 學測自然選擇題共 48 題；答案為「／」的非選擇題 38、41、42、46、49、50、53、54 不納入。自然科公式、圖表與跨頁題組較多，本版以官方 PDF 裁切區域呈現題面，答案卡獨立互動。",
+  "note": "收錄 115 學測自然選擇題共 48 題，另列手寫題 8 題（38、41、42、46、49、50、53、54，僅列出不作答）。自然科公式、圖表與跨頁題組較多，本版以官方 PDF 裁切區域呈現題面，答案卡獨立互動。",
   "review_flags": [],
   "answer_check": [
     {
@@ -829,6 +829,12 @@ QUESTION_BANKS.push(
       ]
     },
     {
+      "id": "natural-115-hw-q38",
+      "no": 38,
+      "type": "handwritten",
+      "image": "public/images/115學年度/自然/nature-115-hw-q38.png"
+    },
+    {
       "id": "natural-115-q39",
       "no": 39,
       "type": "multiple",
@@ -856,6 +862,18 @@ QUESTION_BANKS.push(
         "E"
       ],
       "answer": "E"
+    },
+    {
+      "id": "natural-115-hw-q41",
+      "no": 41,
+      "type": "handwritten",
+      "image": "public/images/115學年度/自然/nature-115-hw-q41.png"
+    },
+    {
+      "id": "natural-115-hw-q42",
+      "no": 42,
+      "type": "handwritten",
+      "image": "public/images/115學年度/自然/nature-115-hw-q42.png"
     },
     {
       "id": "natural-115-q43",
@@ -904,6 +922,12 @@ QUESTION_BANKS.push(
       ]
     },
     {
+      "id": "natural-115-hw-q46",
+      "no": 46,
+      "type": "handwritten",
+      "image": "public/images/115學年度/自然/nature-115-hw-q46.png"
+    },
+    {
       "id": "natural-115-q47",
       "no": 47,
       "type": "single",
@@ -933,6 +957,18 @@ QUESTION_BANKS.push(
       ]
     },
     {
+      "id": "natural-115-hw-q49",
+      "no": 49,
+      "type": "handwritten",
+      "image": "public/images/115學年度/自然/nature-115-hw-q49.png"
+    },
+    {
+      "id": "natural-115-hw-q50",
+      "no": 50,
+      "type": "handwritten",
+      "image": "public/images/115學年度/自然/nature-115-hw-q50.png"
+    },
+    {
       "id": "natural-115-q51",
       "no": 51,
       "type": "single",
@@ -960,6 +996,18 @@ QUESTION_BANKS.push(
         "D",
         "E"
       ]
+    },
+    {
+      "id": "natural-115-hw-q53",
+      "no": 53,
+      "type": "handwritten",
+      "image": "public/images/115學年度/自然/nature-115-hw-q53.png"
+    },
+    {
+      "id": "natural-115-hw-q54",
+      "no": 54,
+      "type": "handwritten",
+      "image": "public/images/115學年度/自然/nature-115-hw-q54.png"
     },
     {
       "id": "natural-115-q55",
@@ -1136,6 +1184,17 @@ QUESTION_BANKS.push(
       ]
     },
     {
+      "id": "nature-115-hw-q38",
+      "label": "第 38 題（手寫題）",
+      "questionNos": [
+        38
+      ],
+      "images": [
+        "public/images/115學年度/自然/nature-115-hw-q38-shared.png",
+        "public/images/115學年度/自然/nature-115-hw-q38.png"
+      ]
+    },
+    {
       "id": "nature-115-p13-q39",
       "label": "第 39 題（含題組材料）",
       "questionNos": [
@@ -1158,6 +1217,28 @@ QUESTION_BANKS.push(
       ]
     },
     {
+      "id": "nature-115-hw-q41",
+      "label": "第 41 題（手寫題）",
+      "questionNos": [
+        41
+      ],
+      "images": [
+        "public/images/115學年度/自然/nature-115-hw-q41-q42-shared.png",
+        "public/images/115學年度/自然/nature-115-hw-q41.png"
+      ]
+    },
+    {
+      "id": "nature-115-hw-q42",
+      "label": "第 42 題（手寫題）",
+      "questionNos": [
+        42
+      ],
+      "images": [
+        "public/images/115學年度/自然/nature-115-hw-q41-q42-shared.png",
+        "public/images/115學年度/自然/nature-115-hw-q42.png"
+      ]
+    },
+    {
       "id": "nature-115-p16-q44-45",
       "label": "第 44-45 題",
       "questionNos": [
@@ -1166,6 +1247,17 @@ QUESTION_BANKS.push(
       ],
       "images": [
         "public/images/115學年度/自然/nature-115-p16-q44-45-1.png"
+      ]
+    },
+    {
+      "id": "nature-115-hw-q46",
+      "label": "第 46 題（手寫題）",
+      "questionNos": [
+        46
+      ],
+      "images": [
+        "public/images/115學年度/自然/nature-115-hw-q46-shared.png",
+        "public/images/115學年度/自然/nature-115-hw-q46.png"
       ]
     },
     {
@@ -1180,6 +1272,27 @@ QUESTION_BANKS.push(
       ]
     },
     {
+      "id": "nature-115-hw-q49",
+      "label": "第 49 題（手寫題）",
+      "questionNos": [
+        49
+      ],
+      "images": [
+        "public/images/115學年度/自然/nature-115-hw-q49-shared.png",
+        "public/images/115學年度/自然/nature-115-hw-q49.png"
+      ]
+    },
+    {
+      "id": "nature-115-hw-q50",
+      "label": "第 50 題（手寫題）",
+      "questionNos": [
+        50
+      ],
+      "images": [
+        "public/images/115學年度/自然/nature-115-hw-q50.png"
+      ]
+    },
+    {
       "id": "nature-115-p18-p19-q51-52",
       "label": "第 51-52 題",
       "questionNos": [
@@ -1189,6 +1302,26 @@ QUESTION_BANKS.push(
       "images": [
         "public/images/115學年度/自然/nature-115-p18-p19-q51-52-1.png",
         "public/images/115學年度/自然/nature-115-p18-p19-q51-52-2.png"
+      ]
+    },
+    {
+      "id": "nature-115-hw-q53",
+      "label": "第 53 題（手寫題）",
+      "questionNos": [
+        53
+      ],
+      "images": [
+        "public/images/115學年度/自然/nature-115-hw-q53.png"
+      ]
+    },
+    {
+      "id": "nature-115-hw-q54",
+      "label": "第 54 題（手寫題）",
+      "questionNos": [
+        54
+      ],
+      "images": [
+        "public/images/115學年度/自然/nature-115-hw-q54.png"
       ]
     },
     {

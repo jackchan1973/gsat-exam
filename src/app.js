@@ -313,6 +313,12 @@ function renderExamShared(shared, block) {
   if (shared.kind === "passage") {
     return `<div class="exam-passage">${renderExamPassage(shared.text)}</div>`;
   }
+  if (shared.kind === "passage-image") {
+    return `
+      <div class="exam-passage">${renderExamPassage(shared.text)}</div>
+      <div class="exam-shared-scroll"><img class="exam-passage-image" src="../${shared.src}" alt="${escapeHtml(block.title)} 官方圖表"></div>
+    `;
+  }
   if (shared.kind === "passage-bank") {
     const bankRows = Object.entries(shared.bank)
       .map(([label, value]) => `<div><b>(${label})</b> ${escapeHtml(value)}</div>`)

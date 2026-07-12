@@ -40,10 +40,15 @@ button {
 }
 
 .top-actions {
+  position: sticky;
+  top: 0;
+  z-index: 30;
   display: flex;
   justify-content: flex-end;
   gap: 10px;
   margin-bottom: 14px;
+  padding: 10px 0;
+  background: var(--bg);
 }
 
 .top-actions button,
@@ -287,7 +292,7 @@ button {
 
 .answer-card {
   position: sticky;
-  top: 14px;
+  top: 72px;
   border: 1px solid var(--line);
   border-radius: 12px;
   background: #f8fbff;
@@ -568,7 +573,7 @@ button {
   }
 
   .answer-card {
-    top: 10px;
+    top: 72px;
     padding: 12px;
   }
 
@@ -588,6 +593,10 @@ button {
   .report-row,
   .result-score {
     display: grid;
+  }
+
+  .top-actions {
+    padding: 8px 0;
   }
 
   .top-actions button,
@@ -630,7 +639,7 @@ button {
 
   .answer-card {
     position: sticky;
-    top: 10px;
+    top: 72px;
   }
 }
 
@@ -654,7 +663,7 @@ button {
 
 .exam-shared {
   position: sticky;
-  top: 8px;
+  top: 72px;
   z-index: 3;
   max-height: 46vh;
   overflow: auto;

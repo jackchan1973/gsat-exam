@@ -382,6 +382,7 @@ button {
   font-size: 1.2rem;
   line-height: 1.55;
   font-weight: 850;
+  overflow-wrap: anywhere;
 }
 
 .official-question {
@@ -741,6 +742,12 @@ button {
 
 .exam-stem {
   white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.option-row span,
+.question-card legend {
+  overflow-wrap: anywhere;
 }
 
 .option-image-row {

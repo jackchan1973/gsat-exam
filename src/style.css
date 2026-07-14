@@ -1,16 +1,23 @@
 :root {
-  --ink: #172b4d;
-  --text: #263548;
-  --muted: #72809a;
-  --blue: #2368ad;
-  --blue-light: #e8f7ff;
-  --blue-line: #7bc7f7;
-  --line: #dbe5f1;
+  --ink: #152238;
+  --text: #29384d;
+  --muted: #65748b;
+  --blue: #1f66a8;
+  --blue-dark: #154876;
+  --blue-light: #eef7fd;
+  --blue-line: #8bc5ef;
+  --line: #d8e2ee;
   --panel: #ffffff;
-  --bg: #edf3f8;
+  --bg: #f3f6fa;
   --green: #087f5b;
+  --green-light: #eaf8f2;
+  --amber: #a16207;
+  --amber-light: #fff7df;
   --red: #b42318;
   --red-bg: #fff1f0;
+  --shadow: 0 14px 36px rgba(21, 34, 56, 0.08);
+  --shadow-soft: 0 8px 20px rgba(21, 34, 56, 0.06);
+  --radius: 8px;
 }
 
 * {
@@ -20,7 +27,9 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background: var(--bg);
+  background:
+    linear-gradient(180deg, #eaf1f7 0, var(--bg) 260px),
+    var(--bg);
   color: var(--text);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", sans-serif;
 }
@@ -35,8 +44,8 @@ button {
 }
 
 .app-shell {
-  width: min(1580px, calc(100% - 64px));
-  margin: 20px auto 40px;
+  width: min(1500px, calc(100% - 48px));
+  margin: 16px auto 40px;
 }
 
 .top-actions {
@@ -46,9 +55,13 @@ button {
   display: flex;
   justify-content: flex-end;
   gap: 10px;
-  margin-bottom: 14px;
-  padding: 10px 0;
-  background: var(--bg);
+  margin-bottom: 16px;
+  padding: 10px;
+  background: rgba(243, 246, 250, 0.92);
+  border: 1px solid rgba(216, 226, 238, 0.8);
+  border-radius: var(--radius);
+  backdrop-filter: blur(12px);
+  box-shadow: var(--shadow-soft);
 }
 
 .top-actions button,
@@ -58,8 +71,9 @@ button {
   border: 1px solid var(--line);
   background: white;
   color: var(--ink);
-  padding: 10px 15px;
+  padding: 10px 16px;
   font-weight: 900;
+  min-height: 44px;
 }
 
 #teacherButton,
@@ -74,48 +88,98 @@ button {
 }
 
 .screen-header {
-  background: var(--panel);
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, #ffffff 0%, #f8fbfe 58%, #eef7fd 100%);
   border: 1px solid var(--line);
-  border-radius: 14px;
-  box-shadow: 0 2px 10px rgba(23, 43, 77, 0.06);
-  padding: 48px 46px;
-  margin-bottom: 34px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 42px 44px;
+  margin-bottom: 24px;
+}
+
+.screen-header::after {
+  content: "";
+  position: absolute;
+  right: 36px;
+  bottom: 28px;
+  width: 160px;
+  height: 6px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--blue), var(--green));
+  opacity: 0.22;
 }
 
 .screen-header h1 {
-  margin: 0 0 20px;
+  position: relative;
+  margin: 0 0 14px;
   color: var(--ink);
-  font-size: clamp(2rem, 3vw, 2.85rem);
+  font-size: clamp(2rem, 3vw, 2.65rem);
   line-height: 1.15;
   font-weight: 950;
   letter-spacing: 0;
 }
 
 .screen-header p {
+  position: relative;
   margin: 0;
   color: var(--muted);
-  font-size: clamp(1.1rem, 1.6vw, 1.55rem);
+  font-size: clamp(1rem, 1.4vw, 1.28rem);
   line-height: 1.55;
   font-weight: 750;
+  max-width: 980px;
 }
 
 .screen-body {
-  padding: 0 44px 40px;
+  padding: 0 18px 40px;
 }
 
 .breadcrumb {
   color: var(--muted);
   font-weight: 850;
-  margin-bottom: 18px;
+  margin-bottom: 16px;
+}
+
+.overview-strip,
+.practice-summary {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(150px, 1fr));
+  gap: 14px;
+  margin-bottom: 20px;
+}
+
+.overview-strip article,
+.practice-summary article {
+  display: grid;
+  gap: 6px;
+  min-height: 96px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.88);
+  box-shadow: var(--shadow-soft);
+  padding: 18px 20px;
+}
+
+.overview-strip span,
+.practice-summary span {
+  color: var(--muted);
+  font-weight: 900;
+}
+
+.overview-strip strong,
+.practice-summary strong {
+  color: var(--blue-dark);
+  font-size: 2rem;
+  line-height: 1;
 }
 
 .entry-grid {
   display: grid;
-  gap: 26px;
+  gap: 18px;
 }
 
 .entry-grid.subjects {
-  grid-template-columns: repeat(3, minmax(260px, 1fr));
+  grid-template-columns: repeat(5, minmax(170px, 1fr));
 }
 
 .entry-grid.years,
@@ -124,16 +188,17 @@ button {
 }
 
 .entry-card {
-  min-height: 282px;
+  min-height: 232px;
   text-align: left;
   display: grid;
   align-content: start;
-  gap: 20px;
-  border: 2px solid var(--line);
-  border-radius: 14px;
+  gap: 16px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
   background: white;
-  box-shadow: 0 2px 8px rgba(23, 43, 77, 0.05);
-  padding: 36px 28px;
+  box-shadow: var(--shadow-soft);
+  padding: 28px 24px;
+  transition: transform 140ms ease, box-shadow 140ms ease, border-color 140ms ease;
 }
 
 .entry-card:hover,
@@ -141,24 +206,25 @@ button {
   outline: none;
   border-color: var(--blue-line);
   background: #f9fdff;
-  box-shadow: 0 8px 22px rgba(35, 104, 173, 0.12);
+  box-shadow: 0 18px 34px rgba(31, 102, 168, 0.14);
+  transform: translateY(-2px);
 }
 
 .card-icon {
-  width: 84px;
-  height: 84px;
+  width: 64px;
+  height: 64px;
   display: grid;
   place-items: center;
-  border-radius: 14px;
-  background: var(--blue-light);
+  border-radius: var(--radius);
+  background: linear-gradient(135deg, var(--blue-light), var(--green-light));
   color: var(--blue);
-  font-size: 1.7rem;
+  font-size: 1.45rem;
   font-weight: 950;
 }
 
 .entry-card strong {
   color: var(--text);
-  font-size: 2rem;
+  font-size: 1.7rem;
   line-height: 1.15;
   font-weight: 950;
 }
@@ -166,7 +232,7 @@ button {
 .entry-card span:not(.card-icon),
 .entry-card small {
   color: var(--muted);
-  font-size: 1.25rem;
+  font-size: 1.02rem;
   line-height: 1.45;
   font-weight: 750;
 }
@@ -174,7 +240,7 @@ button {
 .entry-card small {
   align-self: end;
   color: var(--blue);
-  font-size: 1rem;
+  font-size: 0.95rem;
 }
 
 .source-strip {
@@ -236,18 +302,18 @@ button {
 .report-row,
 .empty {
   border: 1px solid var(--line);
-  border-radius: 14px;
+  border-radius: var(--radius);
   background: white;
-  box-shadow: 0 2px 8px rgba(23, 43, 77, 0.05);
+  box-shadow: var(--shadow-soft);
 }
 
 .question-card {
   margin: 0;
-  padding: 22px;
+  padding: 20px;
 }
 
 .visual-question-group {
-  padding: 22px;
+  padding: 20px;
 }
 
 .visual-answer-layout {
@@ -286,7 +352,7 @@ button {
   height: auto;
   display: block;
   border: 1px solid var(--line);
-  border-radius: 10px;
+  border-radius: var(--radius);
   background: white;
 }
 
@@ -294,7 +360,7 @@ button {
   position: sticky;
   top: 72px;
   border: 1px solid var(--line);
-  border-radius: 12px;
+  border-radius: var(--radius);
   background: #f8fbff;
   padding: 16px;
 }
@@ -336,7 +402,7 @@ button {
   border: 1px solid var(--line);
   border-radius: 999px;
   background: white;
-  padding: 7px 12px;
+  padding: 8px 12px;
   color: var(--text);
   font-weight: 900;
 }
@@ -370,7 +436,7 @@ button {
 }
 
 .question-card legend {
-  color: var(--blue);
+  color: var(--blue-dark);
   font-size: 1.05rem;
   font-weight: 950;
   padding: 0 8px;
@@ -398,7 +464,7 @@ button {
 
 .option-list {
   display: grid;
-  grid-template-columns: repeat(2, minmax(180px, 1fr));
+  grid-template-columns: repeat(2, minmax(190px, 1fr));
   gap: 10px;
 }
 
@@ -407,27 +473,40 @@ button {
   gap: 10px;
   align-items: flex-start;
   border: 1px solid var(--line);
-  border-radius: 10px;
+  border-radius: var(--radius);
   background: #fbfdff;
   color: var(--text);
-  padding: 12px;
+  padding: 13px 14px;
   font-size: 1rem;
   font-weight: 750;
+  min-height: 48px;
+  transition: border-color 120ms ease, background 120ms ease, box-shadow 120ms ease;
 }
 
 .option-row input {
   margin-top: 5px;
+  accent-color: var(--blue);
+}
+
+.option-row:hover,
+.option-row:focus-within {
+  border-color: var(--blue-line);
+  background: #f5fbff;
+  box-shadow: inset 0 0 0 1px rgba(139, 197, 239, 0.35);
 }
 
 .practice-actions {
   display: flex;
   gap: 12px;
   margin-top: 18px;
+  padding: 14px 0 4px;
 }
 
 .result-panel {
   margin-top: 18px;
-  padding: 20px;
+  padding: 22px;
+  border-color: #b9d8ef;
+  background: linear-gradient(135deg, #ffffff, #f2f9ff);
 }
 
 .result-score {
@@ -451,7 +530,7 @@ button {
 .manual-card {
   display: grid;
   gap: 6px;
-  border-radius: 10px;
+  border-radius: var(--radius);
   padding: 14px;
   font-weight: 850;
 }
@@ -563,6 +642,8 @@ button {
   .entry-grid.subjects,
   .entry-grid.years,
   .entry-grid.categories,
+  .overview-strip,
+  .practice-summary,
   .stats-grid {
     grid-template-columns: repeat(2, minmax(220px, 1fr));
   }
@@ -585,19 +666,28 @@ button {
 
 @media (max-width: 720px) {
   .app-shell {
-    width: min(100% - 28px, 680px);
-    margin-top: 14px;
+    width: min(100% - 20px, 680px);
+    margin-top: 10px;
   }
 
-  .top-actions,
   .practice-actions,
   .report-row,
   .result-score {
     display: grid;
   }
 
+  .practice-actions {
+    position: sticky;
+    bottom: 0;
+    z-index: 20;
+    background: linear-gradient(180deg, rgba(243, 246, 250, 0), rgba(243, 246, 250, 0.96) 22%);
+  }
+
   .top-actions {
-    padding: 8px 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 8px;
+    gap: 8px;
   }
 
   .top-actions button,
@@ -607,8 +697,8 @@ button {
   }
 
   .screen-header {
-    padding: 28px 22px;
-    margin-bottom: 22px;
+    padding: 26px 20px;
+    margin-bottom: 18px;
   }
 
   .screen-body {
@@ -618,6 +708,8 @@ button {
   .entry-grid.subjects,
   .entry-grid.years,
   .entry-grid.categories,
+  .overview-strip,
+  .practice-summary,
   .stats-grid,
   .option-list,
   .visual-answer-layout {
@@ -629,7 +721,8 @@ button {
   }
 
   .entry-card {
-    min-height: 210px;
+    min-height: 176px;
+    padding: 22px 20px;
   }
 }
 
@@ -647,8 +740,9 @@ button {
 /* ===== 英文題組 / 共用文章 / 字庫 / 圖片選項（build_113_english_questions 產出的題庫） ===== */
 .exam-block {
   border: 1px solid var(--line);
-  border-radius: 14px;
+  border-radius: var(--radius);
   background: var(--panel);
+  box-shadow: var(--shadow-soft);
   padding: 16px;
   margin: 0 0 18px;
 }
@@ -656,9 +750,9 @@ button {
 .exam-block-title {
   font-size: 1.05rem;
   font-weight: 900;
-  color: var(--blue);
+  color: var(--blue-dark);
   padding: 4px 4px 12px;
-  border-bottom: 2px solid var(--blue-line);
+  border-bottom: 1px solid var(--line);
   margin-bottom: 14px;
 }
 
@@ -668,11 +762,12 @@ button {
   z-index: 3;
   max-height: 46vh;
   overflow: auto;
-  background: var(--blue-light);
+  background: #f8fbff;
   border: 1px solid var(--blue-line);
-  border-radius: 12px;
+  border-radius: var(--radius);
   padding: 14px 16px;
   margin-bottom: 16px;
+  box-shadow: 0 10px 24px rgba(31, 102, 168, 0.10);
 }
 
 .exam-passage {
@@ -721,7 +816,7 @@ button {
   display: block;
   width: 100%;
   height: auto;
-  border-radius: 8px;
+  border-radius: var(--radius);
 }
 
 .exam-questions {
@@ -730,7 +825,8 @@ button {
 }
 
 .exam-question {
-  border-radius: 12px;
+  border-radius: var(--radius);
+  border-color: #d9e5f0;
 }
 
 .exam-multi-hint {
@@ -764,7 +860,7 @@ button {
   width: min(260px, 70vw);
   height: auto;
   border: 1px solid var(--line);
-  border-radius: 8px;
+  border-radius: var(--radius);
 }
 
 @media (max-width: 640px) {
@@ -800,12 +896,13 @@ button {
 .exam-q-image {
   display: block;
   width: 100%;
-  max-width: 720px;
+  max-width: 780px;
   height: auto;
   border: 1px solid var(--line);
-  border-radius: 8px;
+  border-radius: var(--radius);
   background: #fff;
   margin: 4px 0 14px;
+  box-shadow: 0 8px 22px rgba(21, 34, 56, 0.06);
 }
 
 /* (1)-(5) 選項改為橫向排列的方塊 */
@@ -816,9 +913,9 @@ button {
 }
 .option-choice-num {
   flex: 0 0 auto;
-  min-width: 66px;
+  min-width: 76px;
   justify-content: center;
-  padding: 10px 14px;
+  padding: 12px 16px;
 }
 .option-choice-num .k {
   font-weight: 800;
@@ -852,7 +949,7 @@ button {
   font-weight: 800;
   color: var(--ink);
   border: 2px solid var(--blue-line);
-  border-radius: 10px;
+  border-radius: var(--radius);
   background: #fff;
 }
 .fill-box input:focus {
@@ -873,17 +970,87 @@ button {
 
 /* ===== 手寫題（列出題目，不作答） ===== */
 .exam-handwritten {
-  background: #fffdf3;
-  border-color: #e6d9a8;
+  background: var(--amber-light);
+  border-color: #ead28b;
 }
 .handwritten-badge {
   display: inline-block;
   margin-left: 10px;
-  padding: 2px 10px;
+  padding: 3px 10px;
   border-radius: 999px;
-  background: #f5e6b8;
-  color: #7a5c00;
+  background: #f5e2a6;
+  color: var(--amber);
   font-size: 0.78rem;
   font-weight: 800;
   vertical-align: middle;
+}
+
+@media (min-width: 1180px) {
+  .question-list {
+    gap: 20px;
+  }
+
+  .exam-block {
+    padding: 20px;
+  }
+
+  .exam-shared-scroll {
+    display: grid;
+    justify-items: center;
+  }
+
+  .exam-passage-image {
+    max-width: 980px;
+  }
+}
+
+@media (max-width: 520px) {
+  .top-actions button,
+  .primary-btn,
+  .secondary-btn {
+    padding: 10px 8px;
+    font-size: 0.92rem;
+  }
+
+  .screen-header h1 {
+    font-size: 1.8rem;
+  }
+
+  .screen-header p {
+    font-size: 0.98rem;
+  }
+
+  .overview-strip article,
+  .practice-summary article {
+    min-height: 78px;
+    padding: 14px;
+  }
+
+  .overview-strip strong,
+  .practice-summary strong {
+    font-size: 1.55rem;
+  }
+
+  .card-icon {
+    width: 54px;
+    height: 54px;
+  }
+
+  .entry-card strong {
+    font-size: 1.45rem;
+  }
+
+  .exam-shared {
+    top: 62px;
+    max-height: 42vh;
+    padding: 10px;
+  }
+
+  .question-card {
+    padding: 16px;
+  }
+
+  .option-row {
+    padding: 12px;
+  }
 }

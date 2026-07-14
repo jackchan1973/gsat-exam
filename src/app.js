@@ -8,11 +8,11 @@ const state = {
 };
 
 const subjectGroups = [
-  { id: "國文", label: "國文", short: "國", sourceSubjects: ["國綜", "國寫"], description: "字音字形、成語、文言文" },
-  { id: "英文", label: "英文", short: "英", sourceSubjects: ["英文"], description: "單字、文意選填、閱讀理解" },
-  { id: "數學", label: "數學", short: "數", sourceSubjects: ["數學A", "數學B"], description: "選擇題與詳解雛形" },
-  { id: "社會", label: "社會", short: "社", sourceSubjects: ["社會"], description: "重點卡與題庫待建" },
-  { id: "自然", label: "自然", short: "自", sourceSubjects: ["自然"], description: "觀念整理與練習待建" }
+  { id: "國文", label: "國文", short: "國", sourceSubjects: ["國綜", "國寫"], description: "國綜閱讀、文言文與手寫題" },
+  { id: "英文", label: "英文", short: "英", sourceSubjects: ["英文"], description: "單字、文意選填與閱讀理解" },
+  { id: "數學", label: "數學", short: "數", sourceSubjects: ["數學A", "數學B"], description: "數 A / 數 B 答題卡練習" },
+  { id: "社會", label: "社會", short: "社", sourceSubjects: ["社會"], description: "地理、歷史、公民整合題" },
+  { id: "自然", label: "自然", short: "自", sourceSubjects: ["自然"], description: "物理、化學、生物、地科" }
 ];
 
 const typeOrder = ["試題內容", "答題卷", "選擇題答案", "選擇(填)題答案", "非選擇題評分原則"];
@@ -110,19 +110,35 @@ function renderHeader(title, subtitle) {
 }
 
 function renderSubjects() {
-  renderHeader("學測複習入口", "先選科目，再進入對應的年度、題目分類與練習畫面。各科分開擴充，避免互相影響。");
+  renderHeader("學測歷屆考題", "依科目進入年度題庫，作答後自動檢查選擇題，手寫題保留官方題面供師長檢查。");
 
   screenBody.innerHTML = `
+    <section class="overview-strip" aria-label="題庫總覽">
+      <article>
+        <span>已建立題庫</span>
+        <strong>${allQuestionSets().length}</strong>
+      </article>
+      <article>
+        <span>累計題目</span>
+        <strong>${allQuestionSets().reduce((sum, set) => sum + set.questions.length, 0)}</strong>
+      </article>
+      <article>
+        <span>學年度</span>
+        <strong>${unique(EXAM_FILES.map(file => file.year)).length}</strong>
+      </article>
+    </section>
     <div class="entry-grid subjects">
       ${subjectGroups.map(group => {
         const files = filesFor(group.id);
         const years = unique(files.map(file => file.year));
+        const sets = questionSetsFor(group.id);
+        const questionCount = sets.reduce((sum, set) => sum + set.questions.length, 0);
         return `
           <button class="entry-card subject-card" type="button" data-subject="${group.id}">
             <span class="card-icon">${group.short}</span>
             <strong>${group.label}</strong>
             <span>${group.description}</span>
-            <small>收錄 ${years.length} 個年度官方試題</small>
+            <small>${sets.length ? `${sets.length} 份答題卡，${questionCount} 題` : `收錄 ${years.length} 個年度官方試題`}</small>
           </button>
         `;
       }).join("")}
@@ -140,7 +156,7 @@ function renderYears() {
   const group = groupFor(state.subject);
   if (!group) return goHome();
 
-  renderHeader(`${group.label}歷屆題目`, "選擇要練習的學年度。下一頁會進入題目分類。");
+  renderHeader(`${group.label}歷屆題目`, "選擇學年度後進入答題卡分類。已完成的年度會保留在師長檢查紀錄中。");
 
   const years = unique(filesFor(group.id).map(file => file.year)).sort((a, b) => b.localeCompare(a));
   screenBody.innerHTML = `
@@ -215,6 +231,11 @@ function renderPractice() {
 
   screenBody.innerHTML = `
     <div class="breadcrumb">首頁 / ${group.label} / ${state.year} 年 / ${set.category}</div>
+    <section class="practice-summary" aria-label="作答摘要">
+      <article><span>總題數</span><strong>${set.questions.length}</strong></article>
+      <article><span>自動判分</span><strong>${set.questions.filter(question => question.type !== "handwritten" && question.type !== "written").length}</strong></article>
+      <article><span>手寫題</span><strong>${handwrittenTotal + manualCount}</strong></article>
+    </section>
     <form class="question-list" id="practiceForm">
       ${set.blocks
         ? set.blocks.map(renderExamBlock).join("")

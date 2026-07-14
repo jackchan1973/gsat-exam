@@ -1,22 +1,24 @@
 :root {
-  --ink: #152238;
-  --text: #29384d;
-  --muted: #65748b;
-  --blue: #1f66a8;
-  --blue-dark: #154876;
-  --blue-light: #eef7fd;
-  --blue-line: #8bc5ef;
-  --line: #d8e2ee;
+  --ink: #082b41;
+  --text: #171d1d;
+  --muted: #62707a;
+  --blue: #105286;
+  --blue-dark: #082b41;
+  --blue-light: #e9f3f8;
+  --blue-line: #7eafcf;
+  --line: #d7dde2;
   --panel: #ffffff;
-  --bg: #f3f6fa;
-  --green: #087f5b;
-  --green-light: #eaf8f2;
-  --amber: #a16207;
-  --amber-light: #fff7df;
+  --bg: #f1f2f4;
+  --green: #0f6b61;
+  --green-light: #e8f2ef;
+  --amber: #b97400;
+  --amber-strong: #fdb338;
+  --amber-light: #fff5db;
+  --dark: #171d1d;
   --red: #b42318;
   --red-bg: #fff1f0;
-  --shadow: 0 14px 36px rgba(21, 34, 56, 0.08);
-  --shadow-soft: 0 8px 20px rgba(21, 34, 56, 0.06);
+  --shadow: 0 16px 40px rgba(8, 43, 65, 0.12);
+  --shadow-soft: 0 8px 22px rgba(8, 43, 65, 0.08);
   --radius: 8px;
 }
 
@@ -28,7 +30,7 @@ body {
   margin: 0;
   min-height: 100vh;
   background:
-    linear-gradient(180deg, #eaf1f7 0, var(--bg) 260px),
+    linear-gradient(180deg, #e9eef1 0, var(--bg) 260px),
     var(--bg);
   color: var(--text);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", sans-serif;
@@ -57,8 +59,8 @@ button {
   gap: 10px;
   margin-bottom: 16px;
   padding: 10px;
-  background: rgba(243, 246, 250, 0.92);
-  border: 1px solid rgba(216, 226, 238, 0.8);
+  background: rgba(241, 242, 244, 0.94);
+  border: 1px solid rgba(215, 221, 226, 0.86);
   border-radius: var(--radius);
   backdrop-filter: blur(12px);
   box-shadow: var(--shadow-soft);
@@ -90,8 +92,8 @@ button {
 .screen-header {
   position: relative;
   overflow: hidden;
-  background: linear-gradient(135deg, #ffffff 0%, #f8fbfe 58%, #eef7fd 100%);
-  border: 1px solid var(--line);
+  background: linear-gradient(135deg, var(--blue-dark) 0%, var(--blue) 58%, #0d3c60 100%);
+  border: 1px solid rgba(16, 82, 134, 0.35);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   padding: 42px 44px;
@@ -106,14 +108,14 @@ button {
   width: 160px;
   height: 6px;
   border-radius: 999px;
-  background: linear-gradient(90deg, var(--blue), var(--green));
-  opacity: 0.22;
+  background: linear-gradient(90deg, var(--amber-strong), #ffe1a1);
+  opacity: 0.92;
 }
 
 .screen-header h1 {
   position: relative;
   margin: 0 0 14px;
-  color: var(--ink);
+  color: #ffffff;
   font-size: clamp(2rem, 3vw, 2.65rem);
   line-height: 1.15;
   font-weight: 950;
@@ -123,7 +125,7 @@ button {
 .screen-header p {
   position: relative;
   margin: 0;
-  color: var(--muted);
+  color: rgba(255, 255, 255, 0.76);
   font-size: clamp(1rem, 1.4vw, 1.28rem);
   line-height: 1.55;
   font-weight: 750;
@@ -162,13 +164,13 @@ button {
 
 .overview-strip span,
 .practice-summary span {
-  color: var(--muted);
+  color: var(--blue-dark);
   font-weight: 900;
 }
 
 .overview-strip strong,
 .practice-summary strong {
-  color: var(--blue-dark);
+  color: var(--blue);
   font-size: 2rem;
   line-height: 1;
 }
@@ -193,7 +195,7 @@ button {
   display: grid;
   align-content: start;
   gap: 16px;
-  border: 1px solid var(--line);
+  border: 1px solid #dbe1e5;
   border-radius: var(--radius);
   background: white;
   box-shadow: var(--shadow-soft);
@@ -205,8 +207,8 @@ button {
 .entry-card:focus {
   outline: none;
   border-color: var(--blue-line);
-  background: #f9fdff;
-  box-shadow: 0 18px 34px rgba(31, 102, 168, 0.14);
+  background: #fffdf8;
+  box-shadow: 0 18px 34px rgba(253, 179, 56, 0.20);
   transform: translateY(-2px);
 }
 
@@ -216,14 +218,14 @@ button {
   display: grid;
   place-items: center;
   border-radius: var(--radius);
-  background: linear-gradient(135deg, var(--blue-light), var(--green-light));
-  color: var(--blue);
+  background: linear-gradient(135deg, var(--blue-dark), var(--blue));
+  color: var(--amber-strong);
   font-size: 1.45rem;
   font-weight: 950;
 }
 
 .entry-card strong {
-  color: var(--text);
+  color: var(--blue-dark);
   font-size: 1.7rem;
   line-height: 1.15;
   font-weight: 950;
@@ -491,7 +493,7 @@ button {
 .option-row:hover,
 .option-row:focus-within {
   border-color: var(--blue-line);
-  background: #f5fbff;
+  background: #fffaf0;
   box-shadow: inset 0 0 0 1px rgba(139, 197, 239, 0.35);
 }
 
@@ -505,8 +507,8 @@ button {
 .result-panel {
   margin-top: 18px;
   padding: 22px;
-  border-color: #b9d8ef;
-  background: linear-gradient(135deg, #ffffff, #f2f9ff);
+  border-color: #f1c46c;
+  background: linear-gradient(135deg, #ffffff, #fff7e7);
 }
 
 .result-score {
@@ -517,7 +519,7 @@ button {
 }
 
 .result-score strong {
-  color: var(--blue);
+  color: var(--blue-dark);
   font-size: 2rem;
 }
 
@@ -542,8 +544,8 @@ button {
 }
 
 .manual-card {
-  border: 1px solid #b7dcff;
-  background: #eef7ff;
+  border: 1px solid #b7d4e5;
+  background: #edf6fb;
   color: var(--blue);
 }
 
@@ -613,12 +615,12 @@ button {
 }
 
 .status-done {
-  background: #e7f8f1;
+  background: var(--green-light);
   color: var(--green);
 }
 
 .status-open {
-  background: #eef2f7;
+  background: #eef0f1;
   color: var(--muted);
 }
 
@@ -767,7 +769,7 @@ button {
   border-radius: var(--radius);
   padding: 14px 16px;
   margin-bottom: 16px;
-  box-shadow: 0 10px 24px rgba(31, 102, 168, 0.10);
+  box-shadow: 0 10px 24px rgba(8, 43, 65, 0.12);
 }
 
 .exam-passage {
@@ -971,15 +973,15 @@ button {
 /* ===== 手寫題（列出題目，不作答） ===== */
 .exam-handwritten {
   background: var(--amber-light);
-  border-color: #ead28b;
+  border-color: #f1cf82;
 }
 .handwritten-badge {
   display: inline-block;
   margin-left: 10px;
   padding: 3px 10px;
   border-radius: 999px;
-  background: #f5e2a6;
-  color: var(--amber);
+  background: var(--amber-strong);
+  color: var(--dark);
   font-size: 0.78rem;
   font-weight: 800;
   vertical-align: middle;

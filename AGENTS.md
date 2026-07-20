@@ -1,6 +1,6 @@
 # 題庫專案工作規則
 
-> 本檔為規則正本（Codex 讀這份；Claude Code 讀 CLAUDE.md，內容相同）。
+> 本檔為規則正本：Claude 讀 CLAUDE.md、Codex 讀 AGENTS.md，兩份內容完全相同。
 > 接手工作前，請再讀：`交接文件.md`（架構與進度）、`docs/圖文混合題庫解析規範.md`（解析細則）。
 
 ## 鐵律（不可變動）

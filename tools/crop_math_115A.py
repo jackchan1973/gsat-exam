@@ -6,7 +6,7 @@ crop_math_115A.py — 115 數學A 每題裁圖（題幹＋選項一起）。
 裁圖座標為 (page_index, top, bottom)，x 固定 50–548，200 DPI。
 改座標後重跑即可覆蓋 public/images/115學年度/數學A/qNN.png。
 
-2026-07-10 已依傑克驗收修正 Q5/Q6/Q10/Q11/Q12/Q14 邊界；並新增 Q19/Q20（手寫題，僅展示）。
+2026-07-10 已依開發者驗收修正 Q5/Q6/Q10/Q11/Q12/Q14 邊界；並新增 Q19/Q20（手寫題，僅展示）。
 """
 import glob
 import fitz

@@ -391,6 +391,7 @@ function renderExamQuestion(question, shared) {
       <fieldset class="question-card exam-question">
         <legend>第 ${question.no} 題　填數字格</legend>
         ${imgHtml}
+        ${question.stem ? `<p class="exam-stem">${escapeHtml(question.stem)}</p>` : ""}
         <div class="fill-row">${boxes}</div>
       </fieldset>
     `;
@@ -595,6 +596,15 @@ function checkAnswers() {
             <strong>第 ${item.question.no} 題</strong>
             <span>你的答案：${formatAnswer(item.userAnswer)}</span>
             <span>正確答案：${formatAnswer(item.question.answer)}</span>
+            ${(item.question.explanation || item.question.explanationImage) ? `
+              <details class="explain" open>
+                <summary>解析</summary>
+                <div class="explain-body">
+                  ${item.question.explanation ? escapeHtml(item.question.explanation).replace(/\n/g, "<br>") : ""}
+                  ${item.question.explanationImage ? `<img class="explain-image" src="../${item.question.explanationImage}" alt="第 ${item.question.no} 題解析">` : ""}
+                </div>
+              </details>
+            ` : ""}
           </div>
         `).join("")}
       </div>
@@ -611,11 +621,30 @@ function checkAnswers() {
       </div>
     ` : ""}
   `;
+  typesetMath();
 }
 
 function formatAnswer(answer) {
   if (Array.isArray(answer)) return answer.length ? answer.join("") : "未作答";
   return answer;
+}
+
+// 用 KaTeX 排版畫面上的數學／化學公式（$...$、$$...$$、\(...\)、\[...\]）。
+// KaTeX 未載入時安靜跳過，不影響其餘功能。
+function typesetMath() {
+  if (typeof renderMathInElement !== "function") return;
+  [screenHeader, screenBody].forEach(el => {
+    if (!el) return;
+    renderMathInElement(el, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false },
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\[", right: "\\]", display: true }
+      ],
+      throwOnError: false
+    });
+  });
 }
 
 function render() {
@@ -627,6 +656,8 @@ function render() {
   if (state.view === "categories") renderCategories();
   if (state.view === "practice") renderPractice();
   if (state.view === "teacher") renderTeacherCheck();
+
+  typesetMath();
 }
 
 homeButton.addEventListener("click", goHome);

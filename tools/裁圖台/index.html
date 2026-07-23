@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>人機協同裁圖台</title>
+<style>
+  :root {
+    --bg: #1e2229; --panel: #262b34; --panel2: #2f3540; --line: #3a4150;
+    --text: #e7ebf0; --muted: #9aa3b0; --accent: #4c8bf5; --accent2: #34c759;
+    --danger: #ff5c5c; --warn: #ffb020;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; }
+  body {
+    background: var(--bg); color: var(--text); font: 14px/1.5 -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif;
+    display: flex; flex-direction: column; height: 100vh; overflow: hidden;
+  }
+  header {
+    padding: 8px 14px; background: var(--panel); border-bottom: 1px solid var(--line);
+    display: flex; align-items: center; gap: 14px; flex: none;
+  }
+  header h1 { font-size: 15px; margin: 0; font-weight: 600; }
+  header .meta { color: var(--muted); font-size: 12px; }
+  header .spacer { flex: 1; }
+  .main { flex: 1; display: flex; min-height: 0; }
+
+  /* ---- 通用欄位 ---- */
+  .col { display: flex; flex-direction: column; min-width: 0; min-height: 0; }
+  .col-title {
+    padding: 6px 12px; font-size: 12px; color: var(--muted); background: var(--panel);
+    border-bottom: 1px solid var(--line); display: flex; align-items: center; gap: 8px; flex: none;
+  }
+  .col-title b { color: var(--text); font-size: 13px; }
+
+  /* ---- 左欄：原件 ---- */
+  #leftCol { width: 46%; border-right: 1px solid var(--line); }
+  .left-body { flex: 1; display: flex; min-height: 0; }
+  #thumbs { width: 92px; overflow-y: auto; background: var(--panel); border-right: 1px solid var(--line); flex: none; padding: 6px; }
+  .thumb { position: relative; margin-bottom: 8px; cursor: pointer; border: 2px solid transparent; border-radius: 4px; }
+  .thumb img { width: 100%; display: block; border-radius: 2px; }
+  .thumb.active { border-color: var(--accent); }
+  .thumb.rule { opacity: .5; }
+  .thumb .tag { position: absolute; left: 2px; top: 2px; font-size: 10px; padding: 0 4px; border-radius: 3px; background: rgba(0,0,0,.6); }
+  .thumb .pgno { position: absolute; right: 2px; bottom: 2px; font-size: 10px; padding: 0 4px; border-radius: 3px; background: rgba(0,0,0,.6); }
+  .thumb.rule .tag { background: var(--warn); color: #000; }
+
+  #stageWrap { flex: 1; overflow: auto; background: #14171c; position: relative; padding: 12px; }
+  #stage { position: relative; margin: 0 auto; width: max-content; }
+  #pageImg { display: block; width: 100%; user-select: none; -webkit-user-drag: none; box-shadow: 0 2px 12px rgba(0,0,0,.5); }
+  .zoombar { display: flex; align-items: center; gap: 4px; margin-left: auto; }
+  .zoombar button { padding: 2px 8px; font-size: 12px; }
+  .zoombar span { font-size: 12px; color: var(--muted); min-width: 42px; text-align: center; }
+  #overlay { position: absolute; inset: 0; cursor: crosshair; }
+  .hintbox { position: absolute; border: 1px dashed rgba(52,199,89,.8); background: rgba(52,199,89,.10); pointer-events: none; }
+  .cropbox { position: absolute; border: 2px solid var(--accent); background: rgba(76,139,245,.12); }
+  .handle { position: absolute; width: 12px; height: 12px; background: #fff; border: 1px solid var(--accent); border-radius: 2px; }
+  .cropbox .dim { position: absolute; top: -22px; left: 0; font-size: 11px; background: var(--accent); color: #fff; padding: 0 5px; border-radius: 3px; white-space: nowrap; }
+
+  /* ---- 中欄：解析結果 ---- */
+  #midCol { width: 27%; border-right: 1px solid var(--line); }
+  .mid-body { flex: 1; overflow-y: auto; padding: 10px 12px; }
+  .mid-body h4 { margin: 12px 0 6px; font-size: 12px; color: var(--muted); border-bottom: 1px solid var(--line); padding-bottom: 4px; }
+  .mid-body h4:first-child { margin-top: 0; }
+  #parsedText { white-space: pre-wrap; word-break: break-word; font-size: 13px; background: var(--panel2); padding: 10px; border-radius: 6px; }
+  .detect { font-size: 12px; color: var(--muted); }
+  .detect .pill { display: inline-block; background: var(--panel2); border: 1px solid var(--line); border-radius: 10px; padding: 0 8px; margin: 2px 4px 2px 0; }
+
+  /* ---- 右欄：裁圖工作區 ---- */
+  #rightCol { flex: 1; }
+  .right-body { flex: 1; overflow-y: auto; padding: 10px 12px; }
+  #previewWrap { background: #14171c; border: 1px solid var(--line); border-radius: 6px; padding: 8px; text-align: center; min-height: 80px; }
+  #previewCanvas { max-width: 100%; background: #fff; border-radius: 3px; }
+  .field { margin: 10px 0; }
+  .field label { display: block; font-size: 12px; color: var(--muted); margin-bottom: 4px; }
+  .field input {
+    width: 100%; padding: 7px 9px; border-radius: 6px; border: 1px solid var(--line);
+    background: var(--panel2); color: var(--text); font-size: 13px;
+  }
+  .row { display: flex; gap: 8px; }
+  .row > * { flex: 1; }
+  button {
+    padding: 7px 12px; border-radius: 6px; border: 1px solid var(--line); background: var(--panel2);
+    color: var(--text); cursor: pointer; font-size: 13px;
+  }
+  button:hover { border-color: var(--accent); }
+  button.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+  button.good { background: var(--accent2); border-color: var(--accent2); color: #06210f; font-weight: 600; }
+  button:disabled { opacity: .4; cursor: not-allowed; }
+  .hintline { font-size: 12px; color: var(--muted); margin: 6px 0; }
+  .hintline kbd { background: var(--panel2); border: 1px solid var(--line); border-radius: 3px; padding: 0 5px; font-family: inherit; }
+
+  #cropList { margin-top: 10px; }
+  .crop-item { display: flex; align-items: center; gap: 8px; background: var(--panel2); border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; margin-bottom: 6px; }
+  .crop-item img { width: 44px; height: 44px; object-fit: contain; background: #fff; border-radius: 3px; flex: none; }
+  .crop-item .info { flex: 1; min-width: 0; }
+  .crop-item .info .name { font-size: 12px; word-break: break-all; }
+  .crop-item .info .sub { font-size: 11px; color: var(--muted); }
+  .crop-item button { padding: 4px 8px; font-size: 12px; flex: none; }
+
+  .empty { color: var(--muted); font-size: 13px; padding: 30px 10px; text-align: center; }
+  .toggle { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--muted); cursor: pointer; }
+</style>
+</head>
+<body>
+<header>
+  <h1>人機協同裁圖台</h1>
+  <span class="meta" id="metaLabel">尚未載入資料</span>
+  <span class="spacer"></span>
+  <label class="toggle"><input type="checkbox" id="showHints"> 顯示機器偵測到的圖/表位置</label>
+</header>
+
+<div class="main">
+  <!-- 左欄：原件 -->
+  <div class="col" id="leftCol">
+    <div class="col-title"><b>原件</b><span id="pageLabel">—</span>
+      <div class="zoombar">
+        <button id="zoomOut">−</button><span id="zoomLabel">符合</span><button id="zoomIn">＋</button>
+        <button id="zoomFit">符合寬度</button>
+      </div>
+    </div>
+    <div class="left-body">
+      <div id="thumbs"></div>
+      <div id="stageWrap">
+        <div id="stage">
+          <img id="pageImg" alt="頁面">
+          <div id="overlay"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 中欄：解析結果 -->
+  <div class="col" id="midCol">
+    <div class="col-title"><b>解析結果</b><span>核對文字 · 找出缺圖處</span></div>
+    <div class="mid-body">
+      <h4>偵測</h4>
+      <div class="detect" id="detectInfo">—</div>
+      <h4>抽取到的文字（來自中繼檔）</h4>
+      <div id="parsedText">—</div>
+    </div>
+  </div>
+
+  <!-- 右欄：裁圖工作區 -->
+  <div class="col" id="rightCol">
+    <div class="col-title"><b>裁圖工作區</b><span id="cropCount"></span></div>
+    <div class="right-body">
+      <div id="previewWrap">
+        <canvas id="previewCanvas"></canvas>
+        <div class="empty" id="previewEmpty">在左邊原件上拖一個框，這裡會即時預覽</div>
+      </div>
+      <div class="hintline" id="dimInfo"></div>
+      <div class="hintline">
+        微調：<kbd>←↑↓→</kbd> 移動整個框 · <kbd>Shift</kbd>+方向鍵 移動 10px · 拖角落可縮放
+      </div>
+      <div class="field">
+        <label>檔名（會存成 PNG）</label>
+        <input id="fileName" placeholder="例如 q04-panel">
+      </div>
+      <div class="row">
+        <button class="good" id="addBtn" disabled>加入裁圖清單</button>
+        <button id="clearBoxBtn" disabled>清除目前框</button>
+      </div>
+
+      <h4 style="font-size:12px;color:var(--muted);border-bottom:1px solid var(--line);padding-bottom:4px;margin:16px 0 6px;">已裁清單</h4>
+      <div id="cropList"><div class="empty">還沒有裁圖</div></div>
+      <button class="good" id="saveInboxBtn" disabled style="width:100%;margin-top:10px;">✅ 存到交件匣（交給 AI）</button>
+      <div class="hintline" id="inboxHint" style="margin-top:8px;">框完按這顆，座標會直接存進專案交件匣；第一次會請你選一下資料夾。存好跟我說「好了」即可。</div>
+      <div class="row" style="margin-top:8px;">
+        <button id="exportJsonBtn" disabled>備用：下載座標 JSON</button>
+        <button id="downloadAllBtn" disabled>備用：下載 PNG</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="data.js"></script>
+<script>
+(function () {
+  const DATA = window.CROP_STUDIO_DATA;
+  const $ = (id) => document.getElementById(id);
+
+  if (!DATA || !DATA.pages || !DATA.pages.length) {
+    document.querySelector('.main').innerHTML =
+      '<div class="empty" style="margin:auto;">找不到 data.js 資料。<br>請先執行：<br>' +
+      '<code>python tools/build_crop_studio.py --pdf ... --extract ... --year 115 --subject 國文</code></div>';
+    return;
+  }
+
+  const store = DATA.meta.year + '-' + DATA.meta.subject;
+  $('metaLabel').textContent =
+    `${DATA.meta.year} ${DATA.meta.subject} · ${DATA.meta.pageCount} 頁 · ${DATA.meta.dpi}dpi · ${DATA.meta.pdf}`;
+
+  let curIdx = 0;                 // 目前頁 index
+  let box = null;                 // 裁切框（自然像素座標）{x0,y0,x1,y1}
+  let crops = loadCrops();        // 已裁清單
+
+  const pageImg = $('pageImg');
+  const overlay = $('overlay');
+
+  // ---------- 縮圖列 ----------
+  const thumbsEl = $('thumbs');
+  DATA.pages.forEach((pg, i) => {
+    const div = document.createElement('div');
+    div.className = 'thumb' + (pg.isRule ? ' rule' : '');
+    div.innerHTML =
+      `<img src="${pg.thumb}" alt="p${pg.pdfPage}">` +
+      (pg.isRule ? '<span class="tag">規則·跳過</span>' : '') +
+      `<span class="pgno">PDF ${pg.pdfPage}${pg.paperPage ? ' · 卷' + pg.paperPage : ''}</span>`;
+    div.addEventListener('click', () => selectPage(i));
+    thumbsEl.appendChild(div);
+  });
+
+  function selectPage(i) {
+    curIdx = i;
+    const pg = DATA.pages[i];
+    box = null;
+    [...thumbsEl.children].forEach((c, k) => c.classList.toggle('active', k === i));
+    $('pageLabel').textContent =
+      `PDF 第 ${pg.pdfPage} 頁` + (pg.paperPage ? ` ＝ 試卷第 ${pg.paperPage} 頁` : '（規則頁 · 通常不用製作）');
+    pageImg.src = pg.img;
+    pageImg.onload = () => { applyZoom(); };
+    // 中欄
+    $('parsedText').textContent = pg.text ? pg.text : '（這頁沒有抽取到文字，可能是純圖片頁）';
+    const t = pg.tables ? pg.tables.length : 0;
+    const im = pg.images ? pg.images.length : 0;
+    $('detectInfo').innerHTML =
+      `<span class="pill">表格 ${t}</span><span class="pill">內嵌圖片 ${im}</span>` +
+      `<div style="margin-top:6px;">提醒：向量畫的圖／公式偵測不到，請用眼睛比對原件，缺什麼就框什麼。</div>`;
+    updatePreview();
+  }
+
+  // ---------- 縮放 ----------
+  let zoom = 1;  // 1 = 符合欄寬
+  const stageWrap = $('stageWrap');
+  function fitBase() { return Math.max(200, stageWrap.clientWidth - 24); }
+  function applyZoom() {
+    pageImg.style.width = Math.round(fitBase() * zoom) + 'px';
+    $('zoomLabel').textContent = zoom === 1 ? '符合' : Math.round(zoom * 100) + '%';
+    renderOverlay();
+  }
+  $('zoomIn').addEventListener('click', () => { zoom = Math.min(4, zoom + 0.25); applyZoom(); });
+  $('zoomOut').addEventListener('click', () => { zoom = Math.max(0.5, zoom - 0.25); applyZoom(); });
+  $('zoomFit').addEventListener('click', () => { zoom = 1; applyZoom(); });
+
+  // ---------- overlay：偵測提示框 + 裁切框 ----------
+  function scale() { return pageImg.clientWidth / pageImg.naturalWidth; }
+
+  function renderOverlay() {
+    overlay.style.width = pageImg.clientWidth + 'px';
+    overlay.style.height = pageImg.clientHeight + 'px';
+    overlay.innerHTML = '';
+    const s = scale();
+    const pg = DATA.pages[curIdx];
+
+    if ($('showHints').checked && pg.ptToPx) {
+      const drawHint = (b) => {
+        if (!b) return;
+        const el = document.createElement('div');
+        el.className = 'hintbox';
+        el.style.left = (b[0] * pg.ptToPx * s) + 'px';
+        el.style.top = (b[1] * pg.ptToPx * s) + 'px';
+        el.style.width = ((b[2] - b[0]) * pg.ptToPx * s) + 'px';
+        el.style.height = ((b[3] - b[1]) * pg.ptToPx * s) + 'px';
+        overlay.appendChild(el);
+      };
+      (pg.images || []).forEach(im => drawHint(im.bbox));
+      (pg.tables || []).forEach(t => drawHint(t.bbox));
+    }
+
+    if (box) {
+      const el = document.createElement('div');
+      el.className = 'cropbox';
+      el.style.left = (box.x0 * s) + 'px';
+      el.style.top = (box.y0 * s) + 'px';
+      el.style.width = ((box.x1 - box.x0) * s) + 'px';
+      el.style.height = ((box.y1 - box.y0) * s) + 'px';
+      const w = Math.round(box.x1 - box.x0), h = Math.round(box.y1 - box.y0);
+      el.innerHTML = `<span class="dim">${w} × ${h}px</span>`;
+      // 四角 handle
+      [['nw',0,0],['ne',1,0],['sw',0,1],['se',1,1]].forEach(([name,hx,hy]) => {
+        const hd = document.createElement('div');
+        hd.className = 'handle';
+        hd.dataset.h = name;
+        hd.style.left = (hx * (box.x1 - box.x0) * s - 6) + 'px';
+        hd.style.top = (hy * (box.y1 - box.y0) * s - 6) + 'px';
+        el.appendChild(hd);
+      });
+      overlay.appendChild(el);
+    }
+    syncButtons();
+  }
+
+  // ---------- 滑鼠：建立/移動/縮放框 ----------
+  let drag = null;
+  overlay.addEventListener('mousedown', (e) => {
+    const s = scale();
+    const rect = overlay.getBoundingClientRect();
+    const px = (e.clientX - rect.left) / s;   // 自然像素
+    const py = (e.clientY - rect.top) / s;
+
+    if (e.target.classList.contains('handle')) {
+      drag = { mode: 'resize', h: e.target.dataset.h };
+    } else if (box && px >= box.x0 && px <= box.x1 && py >= box.y0 && py <= box.y1) {
+      drag = { mode: 'move', ox: px - box.x0, oy: py - box.y0 };
+    } else {
+      box = { x0: px, y0: py, x1: px, y1: py };
+      drag = { mode: 'create' };
+    }
+    e.preventDefault();
+  });
+
+  window.addEventListener('mousemove', (e) => {
+    if (!drag) return;
+    const s = scale();
+    const rect = overlay.getBoundingClientRect();
+    let px = (e.clientX - rect.left) / s;
+    let py = (e.clientY - rect.top) / s;
+    const W = pageImg.naturalWidth, H = pageImg.naturalHeight;
+    px = Math.max(0, Math.min(W, px));
+    py = Math.max(0, Math.min(H, py));
+
+    if (drag.mode === 'create') {
+      box.x1 = px; box.y1 = py;
+    } else if (drag.mode === 'move') {
+      const w = box.x1 - box.x0, h = box.y1 - box.y0;
+      box.x0 = Math.max(0, Math.min(W - w, px - drag.ox));
+      box.y0 = Math.max(0, Math.min(H - h, py - drag.oy));
+      box.x1 = box.x0 + w; box.y1 = box.y0 + h;
+    } else if (drag.mode === 'resize') {
+      if (drag.h.includes('w')) box.x0 = px;
+      if (drag.h.includes('e')) box.x1 = px;
+      if (drag.h.includes('n')) box.y0 = py;
+      if (drag.h.includes('s')) box.y1 = py;
+    }
+    renderOverlay();
+    updatePreview();
+  });
+
+  window.addEventListener('mouseup', () => {
+    if (drag && box) normalizeBox();
+    drag = null;
+    renderOverlay();
+    updatePreview();
+  });
+
+  function normalizeBox() {
+    if (box.x1 < box.x0) [box.x0, box.x1] = [box.x1, box.x0];
+    if (box.y1 < box.y0) [box.y0, box.y1] = [box.y1, box.y0];
+  }
+
+  // ---------- 方向鍵微調 ----------
+  window.addEventListener('keydown', (e) => {
+    if (!box) return;
+    if (document.activeElement && document.activeElement.tagName === 'INPUT') return;
+    const step = e.shiftKey ? 10 : 1;
+    let dx = 0, dy = 0;
+    if (e.key === 'ArrowLeft') dx = -step;
+    else if (e.key === 'ArrowRight') dx = step;
+    else if (e.key === 'ArrowUp') dy = -step;
+    else if (e.key === 'ArrowDown') dy = step;
+    else return;
+    e.preventDefault();
+    const W = pageImg.naturalWidth, H = pageImg.naturalHeight;
+    const w = box.x1 - box.x0, h = box.y1 - box.y0;
+    box.x0 = Math.max(0, Math.min(W - w, box.x0 + dx));
+    box.y0 = Math.max(0, Math.min(H - h, box.y0 + dy));
+    box.x1 = box.x0 + w; box.y1 = box.y0 + h;
+    renderOverlay();
+    updatePreview();
+  });
+
+  window.addEventListener('resize', applyZoom);
+
+  // ---------- 預覽 ----------
+  function updatePreview() {
+    const canvas = $('previewCanvas');
+    if (!box || box.x1 - box.x0 < 2 || box.y1 - box.y0 < 2) {
+      $('previewEmpty').style.display = 'block';
+      canvas.style.display = 'none';
+      $('dimInfo').textContent = '';
+      syncButtons();
+      return;
+    }
+    const w = Math.round(box.x1 - box.x0), h = Math.round(box.y1 - box.y0);
+    canvas.width = w; canvas.height = h;
+    canvas.style.display = 'inline-block';
+    $('previewEmpty').style.display = 'none';
+    const ctx = canvas.getContext('2d');
+    ctx.drawImage(pageImg, box.x0, box.y0, w, h, 0, 0, w, h);
+    const pg = DATA.pages[curIdx];
+    $('dimInfo').textContent = `裁切尺寸 ${w} × ${h}px（來源 PDF 第 ${pg.pdfPage} 頁 · ${DATA.meta.dpi}dpi）`;
+    if (!$('fileName').value) $('fileName').value = suggestName();
+    syncButtons();
+  }
+
+  function suggestName() {
+    const pg = DATA.pages[curIdx];
+    return `${DATA.meta.year}-${DATA.meta.subject}-p${pg.pdfPage}-${crops.length + 1}`;
+  }
+
+  function syncButtons() {
+    const ok = !!box && (box.x1 - box.x0) >= 2 && (box.y1 - box.y0) >= 2;
+    $('addBtn').disabled = !ok;
+    $('clearBoxBtn').disabled = !box;
+    $('downloadAllBtn').disabled = crops.length === 0;
+    $('exportJsonBtn').disabled = crops.length === 0;
+    $('saveInboxBtn').disabled = crops.length === 0;
+    $('cropCount').textContent = crops.length ? `已裁 ${crops.length} 張` : '';
+  }
+
+  // ---------- 裁圖清單 ----------
+  $('addBtn').addEventListener('click', () => {
+    let name = ($('fileName').value || suggestName()).trim().replace(/\.png$/i, '');
+    if (!name) return;
+    const pg = DATA.pages[curIdx];
+    const w = Math.round(box.x1 - box.x0), h = Math.round(box.y1 - box.y0);
+    const canvas = document.createElement('canvas');
+    canvas.width = w; canvas.height = h;
+    canvas.getContext('2d').drawImage(pageImg, box.x0, box.y0, w, h, 0, 0, w, h);
+    const dataURL = canvas.toDataURL('image/png');
+    crops.push({
+      file: name + '.png',
+      pdfPage: pg.pdfPage,
+      paperPage: pg.paperPage,
+      box: [Math.round(box.x0), Math.round(box.y0), Math.round(box.x1), Math.round(box.y1)],
+      w, h, dpi: DATA.meta.dpi,
+      pageWidth: pg.width, pageHeight: pg.height,
+      dataURL
+    });
+    saveCrops();
+    $('fileName').value = '';
+    box = null;
+    renderOverlay();
+    updatePreview();
+    renderCropList();
+  });
+
+  $('clearBoxBtn').addEventListener('click', () => {
+    box = null; renderOverlay(); updatePreview();
+  });
+
+  $('showHints').addEventListener('change', renderOverlay);
+
+  function renderCropList() {
+    const el = $('cropList');
+    if (!crops.length) { el.innerHTML = '<div class="empty">還沒有裁圖</div>'; syncButtons(); return; }
+    el.innerHTML = '';
+    crops.forEach((c, i) => {
+      const item = document.createElement('div');
+      item.className = 'crop-item';
+      item.innerHTML =
+        `<img src="${c.dataURL}">` +
+        `<div class="info"><div class="name">${c.file}</div>` +
+        `<div class="sub">PDF第${c.pdfPage}頁 · ${c.w}×${c.h}px</div></div>` +
+        `<button data-dl="${i}">下載</button><button data-del="${i}">刪</button>`;
+      el.appendChild(item);
+    });
+    el.querySelectorAll('[data-dl]').forEach(b => b.addEventListener('click', () => downloadOne(crops[b.dataset.dl])));
+    el.querySelectorAll('[data-del]').forEach(b => b.addEventListener('click', () => {
+      crops.splice(+b.dataset.del, 1); saveCrops(); renderCropList();
+    }));
+    syncButtons();
+  }
+
+  function downloadOne(c) {
+    const a = document.createElement('a');
+    a.href = c.dataURL; a.download = c.file; a.click();
+  }
+
+  $('downloadAllBtn').addEventListener('click', async () => {
+    for (const c of crops) { downloadOne(c); await new Promise(r => setTimeout(r, 250)); }
+  });
+
+  function coordsPayload() {
+    return {
+      meta: { year: DATA.meta.year, subject: DATA.meta.subject, dpi: DATA.meta.dpi, pdf: DATA.meta.pdf },
+      crops: crops.map(c => ({
+        file: c.file, pdfPage: c.pdfPage, paperPage: c.paperPage,
+        box: c.box, w: c.w, h: c.h, dpi: c.dpi, pageWidth: c.pageWidth, pageHeight: c.pageHeight
+      }))
+    };
+  }
+  function coordsFileName() { return `裁圖座標-${store}.json`; }
+  function downloadText(name, text, type) {
+    const blob = new Blob([text], { type: type || 'application/json' });
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob); a.download = name; a.click();
+  }
+
+  $('exportJsonBtn').addEventListener('click', () => {
+    downloadText(coordsFileName(), JSON.stringify(coordsPayload(), null, 2));
+  });
+
+  // ---------- 存到交件匣（File System Access；不支援時退回下載） ----------
+  const IDB = { name: 'cropstudio', store: 'handles' };
+  function openIdb() {
+    return new Promise((res, rej) => {
+      const r = indexedDB.open(IDB.name, 1);
+      r.onupgradeneeded = () => r.result.createObjectStore(IDB.store);
+      r.onsuccess = () => res(r.result);
+      r.onerror = () => rej(r.error);
+    });
+  }
+  async function idbGet(key) {
+    const db = await openIdb();
+    return new Promise((res, rej) => {
+      const t = db.transaction(IDB.store, 'readonly').objectStore(IDB.store).get(key);
+      t.onsuccess = () => res(t.result); t.onerror = () => rej(t.error);
+    });
+  }
+  async function idbSet(key, val) {
+    const db = await openIdb();
+    return new Promise((res, rej) => {
+      const t = db.transaction(IDB.store, 'readwrite').objectStore(IDB.store).put(val, key);
+      t.onsuccess = () => res(); t.onerror = () => rej(t.error);
+    });
+  }
+  async function getInboxDir() {
+    let handle = await idbGet('inboxDir');
+    if (handle) {
+      let perm = await handle.queryPermission({ mode: 'readwrite' });
+      if (perm !== 'granted') perm = await handle.requestPermission({ mode: 'readwrite' });
+      if (perm === 'granted') return handle;
+    }
+    handle = await window.showDirectoryPicker({ mode: 'readwrite' });
+    await idbSet('inboxDir', handle);
+    return handle;
+  }
+
+  $('saveInboxBtn').addEventListener('click', async () => {
+    const name = coordsFileName();
+    const json = JSON.stringify(coordsPayload(), null, 2);
+    if (!window.showDirectoryPicker) {
+      $('inboxHint').textContent = '此瀏覽器不支援交件匣（請用 Chrome），已改用下載，請把檔案交給我。';
+      downloadText(name, json);
+      return;
+    }
+    try {
+      const dir = await getInboxDir();
+      const fh = await dir.getFileHandle(name, { create: true });
+      const w = await fh.createWritable();
+      await w.write(json); await w.close();
+      $('inboxHint').innerHTML = `✅ 已存到交件匣：<b>${name}</b>（共 ${crops.length} 塊）。跟我說「好了」我就接手。`;
+    } catch (e) {
+      $('inboxHint').textContent = '存檔取消或失敗，可改按下方「備用：下載座標 JSON」。';
+    }
+  });
+
+  // ---------- 儲存（localStorage，避免重整遺失） ----------
+  function saveCrops() {
+    try { localStorage.setItem('cropstudio:' + store, JSON.stringify(crops)); } catch (e) {}
+    syncButtons();
+  }
+  function loadCrops() {
+    try { return JSON.parse(localStorage.getItem('cropstudio:' + store)) || []; }
+    catch (e) { return []; }
+  }
+
+  // ---------- 啟動：跳到第一個非規則頁 ----------
+  const firstReal = DATA.pages.findIndex(p => !p.isRule);
+  selectPage(firstReal >= 0 ? firstReal : 0);
+  renderCropList();
+})();
+</script>
+</body>
+</html>

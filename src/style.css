@@ -554,6 +554,44 @@ button {
   color: var(--text);
 }
 
+.wrong-card .explain {
+  margin-top: 10px;
+  border-top: 1px dashed #ffc9c9;
+  padding-top: 8px;
+}
+
+.wrong-card .explain summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--text);
+  list-style: none;
+}
+
+.wrong-card .explain summary::before {
+  content: "▸ ";
+}
+
+.wrong-card .explain[open] summary::before {
+  content: "▾ ";
+}
+
+.wrong-card .explain-body {
+  margin-top: 8px;
+  color: var(--text);
+  line-height: 1.7;
+  font-size: 0.95rem;
+  overflow-x: auto;
+}
+
+.wrong-card .explain-image {
+  display: block;
+  max-width: 100%;
+  margin-top: 6px;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 6px;
+}
+
 .stats-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
